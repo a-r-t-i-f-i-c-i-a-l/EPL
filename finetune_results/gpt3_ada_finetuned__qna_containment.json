@@ -1,0 +1,608 @@
+{
+    "literal": {
+        "0": {
+            "question": "A quiche is in a backpack.",
+            "answer": " -> proposition in;quiche;packaging END END END END END END END"
+        },
+        "1": {
+            "question": "A pair of shoes is in a drawer.",
+            "answer": " -> proposition in;pair;drawer END END END END END END END END"
+        },
+        "2": {
+            "question": "A pair of shoes is in a bag.",
+            "answer": " -> proposition in;pair;bag END END END END END END END END END"
+        },
+        "3": {
+            "question": "A gel is in a bag.",
+            "answer": " -> proposition in;gel;bag END End of paragraph END END END END END"
+        },
+        "4": {
+            "question": "A bean is in a backpack.",
+            "answer": " -> proposition in;bean;backpack END END END END END END END END"
+        },
+        "5": {
+            "question": "A envelope is in a bag.",
+            "answer": " -> proposition in;envelope;bag END END END END END END END"
+        },
+        "6": {
+            "question": "A bean is in a drawer.",
+            "answer": " -> proposition in;bean;drawer END END END END END END END END"
+        },
+        "7": {
+            "question": "A ring is in a suitcase.",
+            "answer": " -> proposition in;ring;suitcase END END END END END END END END"
+        },
+        "8": {
+            "question": "A spoon is in a package.",
+            "answer": " -> proposition in;spoon;package END END END END END END END END"
+        },
+        "9": {
+            "question": "A cork is in a drawer.",
+            "answer": " -> proposition in;cork;drawer END END END END END END END"
+        },
+        "10": {
+            "question": "A bunch of rice is in a backpack.",
+            "answer": " -> proposition in;bunch;bag END immersed END END END END END END"
+        },
+        "11": {
+            "question": "A spoon is in a backpack.",
+            "answer": " -> proposition in;spoon;backpack END END END END END END END"
+        },
+        "12": {
+            "question": "A soap is in a bag.",
+            "answer": " -> proposition in;soap;bag END END END END END END END END"
+        },
+        "13": {
+            "question": "A spoon is in a suitcase.",
+            "answer": " -> proposition in;spoon;case END END END END END END END END"
+        },
+        "14": {
+            "question": "A cabbage is in a backpack.",
+            "answer": " -> proposition in;cabbage;backpack END END END END END END END"
+        },
+        "15": {
+            "question": "A cork is in a attic.",
+            "answer": " -> proposition in;cork;treasure Room END END END END END END"
+        },
+        "16": {
+            "question": "A spoon is in a garden.",
+            "answer": " -> proposition in;spoon;gardiner END END END END END END"
+        },
+        "17": {
+            "question": "A spoon is in a bag.",
+            "answer": " -> proposition in;spoon;bag END END END END END END END END"
+        },
+        "18": {
+            "question": "A cork is in a bag.",
+            "answer": " -> proposition in;cork;bag END END END END END END END END"
+        },
+        "19": {
+            "question": "A hat is in a bag.",
+            "answer": " -> proposition in;hat;bag END END END END END END END END END"
+        },
+        "20": {
+            "question": "A pencil is in a store.",
+            "answer": " -> proposition in;pencil;store END END END END END END END END"
+        },
+        "21": {
+            "question": "A ring is in a drawer.",
+            "answer": " -> proposition in;ring;drawer END END END END END END END END"
+        },
+        "22": {
+            "question": "A quiche is in a suitcase.",
+            "answer": " -> proposition in;quiche;suitcase END END END END END END END"
+        },
+        "23": {
+            "question": "A ring is in a bag.",
+            "answer": " -> proposition in;ring;bag END END END END END END END END END"
+        },
+        "24": {
+            "question": "A cabbage is in a bag.",
+            "answer": " -> proposition in;cabbage;bag END END END END END END END END"
+        },
+        "25": {
+            "question": "A bean is in a store.",
+            "answer": " -> proposition in;bean;store END END END END END END END END END"
+        },
+        "26": {
+            "question": "A spoon is in a store.",
+            "answer": " -> proposition in;spoon;store END END END END END END END END"
+        },
+        "27": {
+            "question": "A spoon is in a attic.",
+            "answer": " -> proposition in;spoon; havens END END END END END END END END"
+        },
+        "28": {
+            "question": "A ring is in a backpack.",
+            "answer": " -> proposition in;ring;packaging END END END END END END END END"
+        },
+        "29": {
+            "question": "A pencil is in a backpack.",
+            "answer": " -> proposition in;pencil;backpack END END END END END END END"
+        },
+        "30": {
+            "question": "A hat is in a garden.",
+            "answer": " -> proposition in;hat;garden END END END END END END END END"
+        },
+        "31": {
+            "question": "A envelope is in a garden.",
+            "answer": " -> proposition in;envoy;garden END END END END END END END"
+        },
+        "32": {
+            "question": "A spoon is in a drawer.",
+            "answer": " -> proposition in;spoon;drawer END END END END END END END"
+        },
+        "33": {
+            "question": "A gel is in a package.",
+            "answer": " -> proposition in;gel;package END END END END END END END END END"
+        },
+        "34": {
+            "question": "A file is in a suitcase.",
+            "answer": " -> proposition in;file;suitcase END END END END END END END END"
+        },
+        "35": {
+            "question": "A gel is in a attic.",
+            "answer": " -> proposition in;gel; attic END END END END END END END END END"
+        },
+        "36": {
+            "question": "A envelope is in a store.",
+            "answer": " -> proposition in; envelopenuse; store END END END END END END END"
+        },
+        "37": {
+            "question": "A pepper is in a suitcase.",
+            "answer": " -> proposition in;peper;suitcase END END END END END END END"
+        },
+        "38": {
+            "question": "A bunch of rice is in a bag.",
+            "answer": " -> proposition in;bundle;rice END END END END END END END END"
+        },
+        "39": {
+            "question": "A gel is in a garden.",
+            "answer": " -> proposition in;gel;garage END END END END END END END"
+        },
+        "40": {
+            "question": "A gel is in a drawer.",
+            "answer": " -> proposition in;gel;drawer END END END END END END END END"
+        },
+        "41": {
+            "question": "A bean is in a suitcase.",
+            "answer": " -> proposition in;bean;coffee END END END END END END END END"
+        },
+        "42": {
+            "question": "A pepper is in a drawer.",
+            "answer": " -> proposition in;peper;drawer END END END END END END END"
+        },
+        "43": {
+            "question": "A bunch of rice is in a garden.",
+            "answer": " -> proposition in;bunch;garage END END END END END END END"
+        },
+        "44": {
+            "question": "A soap is in a drawer.",
+            "answer": " -> proposition in;soap;drawer END END END END END END END"
+        },
+        "45": {
+            "question": "A pair of shoes is in a package.",
+            "answer": " -> proposition in;pair;package END END END END END END END END END"
+        },
+        "46": {
+            "question": "A pepper is in a bag.",
+            "answer": " -> proposition in;pepper;bag END END END END END END END END"
+        },
+        "47": {
+            "question": "A envelope is in a backpack.",
+            "answer": " -> proposition in;envoice;backpack END END END END END END END"
+        },
+        "48": {
+            "question": "A quiche is in a package.",
+            "answer": " -> proposition in;quiche;package END END END END END END END END"
+        },
+        "49": {
+            "question": "A soap is in a backpack.",
+            "answer": " -> proposition in;soap;backpack END END END END END END END"
+        }
+    },
+    "non-literal": {
+        "0": {
+            "question": "Tongue in cheek.",
+            "answer": " -> proposition in;tongue;cheek ENDAPV ENDAPV"
+        },
+        "1": {
+            "question": "A footnote in history.",
+            "answer": " -> proposition in;footnote;history END END END END END END END END"
+        },
+        "2": {
+            "question": "A flash in the pan.",
+            "answer": " -> proposition in;flash;the pan END END END END END END END END"
+        },
+        "3": {
+            "question": "A damsel in distress.",
+            "answer": " -> proposition in;damsel;dissent END END END END END END"
+        },
+        "4": {
+            "question": "Leave in a hurry.",
+            "answer": " -> proposition in;leave;a hurry END END END END END END END END"
+        },
+        "5": {
+            "question": "A case study in good writing.",
+            "answer": " -> proposition in;case study;good writing END END END END END END END"
+        },
+        "6": {
+            "question": "A foot in the door.",
+            "answer": " -> proposition in;foot;the door END END END END END END END END"
+        },
+        "7": {
+            "question": "A match made in heaven.",
+            "answer": " -> proposition in;match;heaven END END END END END END END END"
+        },
+        "8": {
+            "question": "A storm in a teacup.",
+            "answer": " -> proposition in;storm;teacup END END END END END END END"
+        },
+        "9": {
+            "question": "Extra spring in one's step.",
+            "answer": " -> proposition in;spring;step END END END END END END END END END"
+        },
+        "10": {
+            "question": "Everything in its place.",
+            "answer": " -> proposition in;everything;his place END END END END END END END END"
+        },
+        "11": {
+            "question": "All in all, it was ok.",
+            "answer": " -> proposition in;it;it END AT END END END END END END END"
+        },
+        "12": {
+            "question": "Done in one sitting.",
+            "answer": " -> proposition in;played;one sitting END Finding solutions END END END END END"
+        },
+        "13": {
+            "question": "Bask in the glow.",
+            "answer": " -> proposition in;bask;the glow END END END END END END END"
+        },
+        "14": {
+            "question": "A step in the right direction.",
+            "answer": " -> proposition in;step;the right direction END OF SENTENCE END OF"
+        },
+        "15": {
+            "question": "We agree in principle.",
+            "answer": " -> proposition in;us;principle END . END END END END END"
+        },
+        "16": {
+            "question": "All in due course.",
+            "answer": " -> proposition in;all;due course END* END END END END END END"
+        },
+        "17": {
+            "question": "We're back in business.",
+            "answer": " -> proposition in;we;business END OF TRADE END OF TRADE END"
+        },
+        "18": {
+            "question": "I'm in possession of important data.",
+            "answer": " -> proposition in;I;he END OF END OF END OF END OF END"
+        },
+        "19": {
+            "question": "She's in control.",
+            "answer": " -> proposition in;she;control END END END END END END END END END"
+        },
+        "20": {
+            "question": "They're in a good mood.",
+            "answer": " -> proposition in;they;a good mood END END END END END END END"
+        },
+        "21": {
+            "question": "State in plain English.",
+            "answer": " -> proposition in;state;plain English END END END END END END END END"
+        },
+        "22": {
+            "question": "Keep in touch with us.",
+            "answer": " -> proposition in;keep;us END END END END END END END END END"
+        },
+        "23": {
+            "question": "You're in luck.",
+            "answer": " -> proposition in;you;luck END END END END END END END END END"
+        },
+        "24": {
+            "question": "Fall in love.",
+            "answer": " -> proposition in;fall;love END THE WORLD END END WORLD END END END"
+        },
+        "25": {
+            "question": "One in seven don't know the answer.",
+            "answer": " -> proposition in;one;seven don't know the answer END END END END"
+        },
+        "26": {
+            "question": "We made it in the end.",
+            "answer": " -> proposition in;we;the end END END END END END END END END"
+        },
+        "27": {
+            "question": "The proof is in the pudding.",
+            "answer": " -> proposition in;proof;the pudding END END END END END END END END"
+        },
+        "28": {
+            "question": "He's the apple in his mother's eye.",
+            "answer": " -> proposition in;apple;mother's eye END END END END END END END"
+        },
+        "29": {
+            "question": "We have much in common.",
+            "answer": " -> proposition in;we;common END END END END END END END END END"
+        },
+        "30": {
+            "question": "Nothing in science is certain.",
+            "answer": " -> proposition in;none;science ENDLESS ENDLESS ENDLESS ENDLESS END"
+        },
+        "31": {
+            "question": "Creating this means dipping our toes in regulatory issues.",
+            "answer": " -> proposition in;this;regulatory issues END END END END END END END"
+        },
+        "32": {
+            "question": "It's the only game in town.",
+            "answer": " -> proposition in;it;the only game in town END END END END END"
+        },
+        "33": {
+            "question": "Split the cookie in two.",
+            "answer": " -> proposition in;split;cookie;two END END END END END END END"
+        },
+        "34": {
+            "question": "Believe in me.",
+            "answer": " -> proposition in;believe;me END TOC END END END END END"
+        },
+        "35": {
+            "question": "The meaning was lost in translation.",
+            "answer": " -> proposition in;meaning;translation END END END END END END END END END"
+        },
+        "36": {
+            "question": "Stuck in between.",
+            "answer": " -> proposition in;stuck;between END OF Story END OF SENTENT"
+        },
+        "37": {
+            "question": "This car is in a class of its own.",
+            "answer": " -> proposition in;car;class of its own END END END END END END"
+        },
+        "38": {
+            "question": "A step in the right direction.",
+            "answer": " -> proposition in;step;the right direction END END END END END END END"
+        },
+        "39": {
+            "question": "The construction advances in stages.",
+            "answer": " -> proposition in;construction;segments END END END END END END END"
+        },
+        "40": {
+            "question": "There is no place in this town one can buy cigarettes.",
+            "answer": " -> proposition in;there;this town one can buy cigarettes END END END END"
+        },
+        "41": {
+            "question": "They worked in equal measures with academia and journalists.",
+            "answer": " -> proposition in;they;academian;journalism END END END END"
+        },
+        "42": {
+            "question": "No shame in admitting defeat.",
+            "answer": " -> proposition in;shame;denial END END END END END END END"
+        },
+        "43": {
+            "question": "We trade in everyday commodities.",
+            "answer": " -> proposition in;we;every commodity END NOT throughout END END END END END"
+        },
+        "44": {
+            "question": "This report is a good case in point.",
+            "answer": " -> proposition in;report;point END END END END END END END END END"
+        },
+        "45": {
+            "question": "He was stopped in his tracks",
+            "answer": ". -> proposition in;he;his tracks END - proposition in END END END"
+        },
+        "46": {
+            "question": "Nip the problem in the bud.",
+            "answer": " -> proposition in;nip;the bud END END END END END END END"
+        },
+        "47": {
+            "question": "Wait in line.",
+            "answer": " -> proposition in;wait;line END END END END END END END END END"
+        },
+        "48": {
+            "question": "I am in search of my glasses.",
+            "answer": " -> proposition in;I;glasses END END END END END END END END"
+        },
+        "49": {
+            "question": "A boss in name only.",
+            "answer": " -> proposition in;boss;name only END END END END END END END END"
+        }
+    },
+    "distraction": {
+        "0": {
+            "question": "The atypical position of a quiche.",
+            "answer": " -> proposition of;atypical;position;quiche END END END END"
+        },
+        "1": {
+            "question": "The unusual mass of a cork.",
+            "answer": " -> proposition of;ubiquitous;mass;cork END END END END"
+        },
+        "2": {
+            "question": "The expected mass of a hat.",
+            "answer": " -> proposition of;expected;mass;hat END:OK END:VN"
+        },
+        "3": {
+            "question": "The measured direction of a pencil.",
+            "answer": " -> proposition of;measured;direction;pencil END END END END END"
+        },
+        "4": {
+            "question": "The expected size of a quiche.",
+            "answer": " -> proposition of;expected;size;quiche END END END END END END"
+        },
+        "5": {
+            "question": "The expected position of a ring.",
+            "answer": " -> proposition of;decidant;position;ring END END END END END"
+        },
+        "6": {
+            "question": "The average mass of a hat.",
+            "answer": " -> proposition of;average;mass;hat END END END END END END END"
+        },
+        "7": {
+            "question": "The atypical sheen of a quiche.",
+            "answer": " -> proposition of;atypical;sheen;quiche END END END"
+        },
+        "8": {
+            "question": "The expected size of a soap.",
+            "answer": " -> proposition of;expected;size;soap END END END END END END"
+        },
+        "9": {
+            "question": "The unusual mass of a file.",
+            "answer": " -> proposition of; Woods;file ENDATENT;unique;mass;file"
+        },
+        "10": {
+            "question": "The atypical size of a file.",
+            "answer": " -> proposition of;atypical;size;file END END END END END"
+        },
+        "11": {
+            "question": "The average sheen of a cork.",
+            "answer": " -> proposition of;average;sheen;cork END END END END END"
+        },
+        "12": {
+            "question": "The atypical mass of a cabbage.",
+            "answer": " -> proposition of;atypical;mass;cabbage END ATURS"
+        },
+        "13": {
+            "question": "The expected mass of a quiche.",
+            "answer": " -> proposition of;expected;mass;quiche END END END END END END"
+        },
+        "14": {
+            "question": "The average direction of a quiche.",
+            "answer": " -> proposition of;average;direction;quiche END TT END END END END"
+        },
+        "15": {
+            "question": "The atypical sheen of a gel.",
+            "answer": " -> proposition of;atypical;sheen;gel END Stanley;fer"
+        },
+        "16": {
+            "question": "The expected sheen of a cork.",
+            "answer": " -> proposition of;sheen;cork END END END END END END END"
+        },
+        "17": {
+            "question": "The unusual position of a bean.",
+            "answer": " -> proposition of;unusual;position;bean END;berenky END"
+        },
+        "18": {
+            "question": "The atypical position of a bean.",
+            "answer": " -> proposition of;atypical;position;bean END: END END END"
+        },
+        "19": {
+            "question": "The atypical diameter of a ring.",
+            "answer": " -> proposition of;atypical;cylinder;ring END END END END"
+        },
+        "20": {
+            "question": "The measured position of a spoon.",
+            "answer": " -> proposition of;measured;position;spoon END END END END END"
+        },
+        "21": {
+            "question": "The unusual sheen of a spoon.",
+            "answer": " -> proposition of;unusual;sheen;spoon END DEF END END"
+        },
+        "22": {
+            "question": "The measured direction of a bunch of rice.",
+            "answer": " -> proposition of;measured;direction;bunny;rice END END END"
+        },
+        "23": {
+            "question": "The expected sheen of a quiche.",
+            "answer": " -> proposition of;expected;sheen;quiche END END END END END"
+        },
+        "24": {
+            "question": "The expected sheen of a gel.",
+            "answer": " -> proposition of;sheen;gel END: END END END END END END"
+        },
+        "25": {
+            "question": "The average direction of a pencil.",
+            "answer": " -> proposition of;average;direction;pencil END;pencil END END"
+        },
+        "26": {
+            "question": "The unusual position of a envelope.",
+            "answer": " -> proposition of;unusual;position; envelope ENDUSPECTURAL"
+        },
+        "27": {
+            "question": "The measured size of a cabbage.",
+            "answer": " -> proposition of;measured;size;cabbage END END END END END"
+        },
+        "28": {
+            "question": "The atypical direction of a ring.",
+            "answer": " -> proposition of;atypical;direction;ring END phrase END END END"
+        },
+        "29": {
+            "question": "The unusual direction of a bean.",
+            "answer": " -> proposition of;unsuitable;direction;bean END END END END END"
+        },
+        "30": {
+            "question": "The measured sheen of a spoon.",
+            "answer": " -> proposition of;measured;sheen;spoon END END END END"
+        },
+        "31": {
+            "question": "The unusual diameter of a file.",
+            "answer": " -> proposition of;unauthoritarian;diameter;file END END END END"
+        },
+        "32": {
+            "question": "The expected direction of a cork.",
+            "answer": " -> proposition of;expected;direction;cork ENDERER ENDERER"
+        },
+        "33": {
+            "question": "The measured direction of a ring.",
+            "answer": " -> proposition of;measured;direction;ring END END END END END END"
+        },
+        "34": {
+            "question": "The atypical diameter of a pepper.",
+            "answer": " -> proposition of;atypical;diameter;pepper END END END"
+        },
+        "35": {
+            "question": "The average mass of a bunch of rice.",
+            "answer": " -> proposition of;average;mass;party Of Rice END END END END END"
+        },
+        "36": {
+            "question": "The atypical diameter of a hat.",
+            "answer": " -> proposition of;atypical;diameter;hat ENDENDENTIST"
+        },
+        "37": {
+            "question": "The expected diameter of a bean.",
+            "answer": " -> proposition of;expected;diameter;bean END: coat END: coat"
+        },
+        "38": {
+            "question": "The unusual sheen of a quiche.",
+            "answer": " -> proposition of;unusual;sheen;quiche END END END END"
+        },
+        "39": {
+            "question": "The measured direction of a cork.",
+            "answer": " -> proposition of;measured;direction;cork END F END END END"
+        },
+        "40": {
+            "question": "The expected position of a bean.",
+            "answer": " -> proposition of;expected;position;bean END END END END END END END"
+        },
+        "41": {
+            "question": "The measured position of a hat.",
+            "answer": " -> proposition of;measured;position;hat END END END END END END"
+        },
+        "42": {
+            "question": "The average diameter of a ring.",
+            "answer": " -> proposition of;average;diameter;ring END END END END END END"
+        },
+        "43": {
+            "question": "The average diameter of a quiche.",
+            "answer": " -> proposition of;average;diameter;quiche END Tweet END END END"
+        },
+        "44": {
+            "question": "The unusual size of a cabbage.",
+            "answer": " -> proposition of;unusual;size;cabbage END END END END END"
+        },
+        "45": {
+            "question": "The measured position of a envelope.",
+            "answer": " -> proposition of;measured;position; envelope END END END END END END"
+        },
+        "46": {
+            "question": "The unusual sheen of a cork.",
+            "answer": " -> proposition of;una specialty;cork END listen END END END END END"
+        },
+        "47": {
+            "question": "The average direction of a soap.",
+            "answer": " -> proposition of;average;direction;soap END END END END END END"
+        },
+        "48": {
+            "question": "The unusual sheen of a bean.",
+            "answer": " -> proposition of;untypical;sheen;bean END Trophy END END"
+        },
+        "49": {
+            "question": "The atypical sheen of a envelope.",
+            "answer": " -> proposition of;atypical;sheen; envelope END TPP END END"
+        }
+    }
+}

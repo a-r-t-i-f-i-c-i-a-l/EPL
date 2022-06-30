@@ -1,0 +1,608 @@
+{
+    "literal": {
+        "0": {
+            "question": "The walker goes from a kitchen and ends up at the Natural History Museum",
+            "answer": " -> action moves;walker;a kitchen;the Natural History Museum END END"
+        },
+        "1": {
+            "question": "The scooter starts out at a park and ends up at a small village",
+            "answer": " in a big city -> action moves;scooter;a park;a small"
+        },
+        "2": {
+            "question": "The robot goes from Barcelona and ends up at their living room",
+            "answer": " -> action moves;robot;Bristol;their living room END END"
+        },
+        "3": {
+            "question": "The walker goes from the stadium and ends up at a bar",
+            "answer": " -> action moves;walker;the stadium;a bar END OF THE W"
+        },
+        "4": {
+            "question": "The walker starts out at the stadium and ends up at a small village",
+            "answer": " in another country -> action moves;walker;the stadium;a small village"
+        },
+        "5": {
+            "question": "The walker goes from Paris and ends up at an island",
+            "answer": " -> action moves;walker;Paris;an island END hormones END END END"
+        },
+        "6": {
+            "question": "The voyager goes from the train station and ends up at a bar",
+            "answer": " -> action moves;voyager;the train station;a bar END IF END"
+        },
+        "7": {
+            "question": "The plane travels from Barcelona and ends up at their living room",
+            "answer": " -> action moves;plane;B Parking lot;their living room ENDERL"
+        },
+        "8": {
+            "question": "The walker goes from Barcelona and ends up at their living room",
+            "answer": " -> action moves;walker;BARCENTA;their living room END"
+        },
+        "9": {
+            "question": "The walker goes from a kitchen and ends up at the finish line",
+            "answer": " -> action moves;walker;a kitchen;the finish line END OF THE"
+        },
+        "10": {
+            "question": "The bicycle goes from the driveway and ends up at a bar",
+            "answer": " -> action moves;bicycle;the driveway;a bar END OFitement END"
+        },
+        "11": {
+            "question": "The voyager starts out at their backyard and ends up at an island",
+            "answer": " -> action moves;voyager;their backyard;an island END Garrett Park END"
+        },
+        "12": {
+            "question": "The plane starts out at Paris and ends up at their living room",
+            "answer": " -> action moves;plane;Paris;their living room END END END END END"
+        },
+        "13": {
+            "question": "The bicycle goes from the driveway and ends up at a small village",
+            "answer": " in the countryside -> action moves;bicycle;the driveway;a small village"
+        },
+        "14": {
+            "question": "The robot starts out at a kitchen and ends up at a supermarket",
+            "answer": " -> action moves;robotic;a kitchen;a supermarket ENDMVP END"
+        },
+        "15": {
+            "question": "The scooter travels from Paris and ends up at their living room",
+            "answer": " -> action moves;scooter;Paris;their living room END END END END"
+        },
+        "16": {
+            "question": "The bicycle goes from a park and ends up at a supermarket",
+            "answer": " -> action moves;bicycle;a park;a supermarket END Results - 17"
+        },
+        "17": {
+            "question": "The plane goes from Paris and ends up at the Natural History Museum",
+            "answer": " -> action moves; Plane;Paris;the Natural History Museum END PARTICIP"
+        },
+        "18": {
+            "question": "The voyager goes from the stadium and ends up at a small village",
+            "answer": " in another country -> action moves;voyager;the stadium;a small"
+        },
+        "19": {
+            "question": "The voyager travels from the driveway and ends up at their living room",
+            "answer": " -> action moves;pawner;the driveway;their living room END END"
+        },
+        "20": {
+            "question": "The plane goes from a kitchen and ends up at a small village",
+            "answer": " near Rome -> action moves;plane;a kitchen;a small village near Rome"
+        },
+        "21": {
+            "question": "The voyager starts out at Paris and ends up at their living room",
+            "answer": " -> action moves;voyager;Paris;their living room END END END"
+        },
+        "22": {
+            "question": "The plane goes from a kitchen and ends up at an island",
+            "answer": " -> action moves;plane;a kitchen;an island END IT END IT END"
+        },
+        "23": {
+            "question": "The voyager goes from their backyard and ends up at a supermarket",
+            "answer": " -> action moves;voyager;their backyard;a supermarket END*/action"
+        },
+        "24": {
+            "question": "The scooter goes from a kitchen and ends up at a supermarket",
+            "answer": " -> action moves;scooter;a kitchen;a supermarket END Player owns;"
+        },
+        "25": {
+            "question": "The robot travels from a kitchen and ends up at an island",
+            "answer": " -> action moves;robot;a kitchen;an island END END END END"
+        },
+        "26": {
+            "question": "The robot starts out at the stadium and ends up at a bar",
+            "answer": " -> action moves;bot;the stadium;a bar END Amnesty END END END"
+        },
+        "27": {
+            "question": "The voyager goes from Barcelona and ends up at a small village",
+            "answer": " in the blue area -> action moves;voyager;Baravern;"
+        },
+        "28": {
+            "question": "The bicycle starts out at the stadium and ends up at a supermarket",
+            "answer": " -> action moves;bicycle;the stadium;a supermarket END incenting END"
+        },
+        "29": {
+            "question": "The bicycle starts out at a kitchen and ends up at the finish line",
+            "answer": " -> action moves;bicycle;a kitchen;the finish line END investor END"
+        },
+        "30": {
+            "question": "The bicycle goes from a park and ends up at their living room",
+            "answer": " -> action moves;bicycle;a park;their living room END OF TYPE"
+        },
+        "31": {
+            "question": "The walker starts out at their backyard and ends up at the finish line",
+            "answer": " -> action moves;walker;their backyard;the finish line END END END"
+        },
+        "32": {
+            "question": "The plane goes from their backyard and ends up at a bar",
+            "answer": " -> action moves;plane;their backyard;a bar END incentomic END END"
+        },
+        "33": {
+            "question": "The voyager goes from a park and ends up at a supermarket",
+            "answer": " -> action moves;voyager;a park;a supermarket END 245;"
+        },
+        "34": {
+            "question": "The plane travels from the train station and ends up at the finish line",
+            "answer": " -> action moves;plane;the train station;the finish line END TPP END"
+        },
+        "35": {
+            "question": "The voyager starts out at their backyard and ends up at the Natural History Museum",
+            "answer": " -> action moves;voyager;their backyard;the Natural History Museum END"
+        },
+        "36": {
+            "question": "The plane starts out at the train station and ends up at a small village",
+            "answer": " in a desert -> action moves;plane;the train station;a small village"
+        },
+        "37": {
+            "question": "The scooter starts out at a kitchen and ends up at their living room",
+            "answer": " -> action moves;scooter;a kitchen;their living room ENDSCO"
+        },
+        "38": {
+            "question": "The walker travels from a kitchen and ends up at a small village",
+            "answer": " in another country -> action moves;walker;a kitchen;a small village"
+        },
+        "39": {
+            "question": "The scooter goes from Barcelona and ends up at a supermarket",
+            "answer": " -> action moves;scooter;BARCENTA;a supermarket END END"
+        },
+        "40": {
+            "question": "The voyager travels from their backyard and ends up at a small village",
+            "answer": " in another country -> action moves;voyager;their backyard;a small"
+        },
+        "41": {
+            "question": "The voyager travels from their backyard and ends up at their living room",
+            "answer": " -> action moves;voyager;their backyard;their living room END END"
+        },
+        "42": {
+            "question": "The voyager goes from Paris and ends up at a bar",
+            "answer": " -> action moves;voyager;Paris;a bar END END END END END"
+        },
+        "43": {
+            "question": "The plane starts out at a park and ends up at a bar",
+            "answer": " -> action moves;plane;a park;a bar END END END END END"
+        },
+        "44": {
+            "question": "The scooter goes from Barcelona and ends up at the Natural History Museum",
+            "answer": " -> action moves;scooter;Bristol;the Natural History Museum END"
+        },
+        "45": {
+            "question": "The voyager starts out at the stadium and ends up at a bar",
+            "answer": " -> action moves;vOYager;the stadium;a bar END CASE END"
+        },
+        "46": {
+            "question": "The bicycle starts out at their backyard and ends up at a small village",
+            "answer": " in another country -> action moves;bicycle;their backyard;a small village"
+        },
+        "47": {
+            "question": "The bicycle travels from Barcelona and ends up at a small village",
+            "answer": " in another country -> action moves;BIfalise;Barrara;a"
+        },
+        "48": {
+            "question": "The robot starts out at Paris and ends up at their living room",
+            "answer": " -> action moves;robot;Paris;their living room END CHANGE END"
+        },
+        "49": {
+            "question": "The bicycle starts out at a kitchen and ends up at a small village",
+            "answer": " in Spain -> action moves;bicycle;a kitchen;a small village in"
+        }
+    },
+    "non-literal": {
+        "0": {
+            "question": "The cost would be anywhere from ten to fifteen thousand.",
+            "answer": " -> proposition at;cost;ten END at END END END END END END END"
+        },
+        "1": {
+            "question": "Check your mail from day to day.",
+            "answer": " -> proposition at;your mail;day END of sentence END of paragraph END of"
+        },
+        "2": {
+            "question": "They're going from one end of the Earth to the other, looking for him.",
+            "answer": " -> action moves;they;one end of the Earth;the other END END"
+        },
+        "3": {
+            "question": "Things can change from one day to the next.",
+            "answer": " -> proposition at;things;the next ENDNOTE ENDNOTE ENDENDnote END"
+        },
+        "4": {
+            "question": "His explanation clearly went from point A to point B.",
+            "answer": " -> action moves;explain;point A;point B END END END END"
+        },
+        "5": {
+            "question": "Hear me out from start to finish.",
+            "answer": " -> proposition at;hear;start END END END END END END END END"
+        },
+        "6": {
+            "question": "How did you go from your premise to this conclusion?",
+            "answer": " -> action moves;you;your premise;this conclusion ENDLESS ENDLESS END"
+        },
+        "7": {
+            "question": "He went out of his way to make the point.",
+            "answer": " -> action moves;he;his own way;the point END END END END"
+        },
+        "8": {
+            "question": "She went from a mediocre student to a college professor.",
+            "answer": " -> action moves;she;m Dress;a mediocre student END NULL END worker"
+        },
+        "9": {
+            "question": "From the moment it dropped, the marble went into free fall.",
+            "answer": " -> action moves;the moment;the marble;the marble END END END END"
+        },
+        "10": {
+            "question": "From your looks to your demeanor, you don't seem like a local.",
+            "answer": " -> proposition at;you;a local END crowds END END END END END END"
+        },
+        "11": {
+            "question": "From the get-go, the new system came into use.",
+            "answer": " -> proposition at;the get-go;the new system END END END END"
+        },
+        "12": {
+            "question": "After the memo left his office, it went into effect.",
+            "answer": " -> action moves;first;his office;his office END END END END END"
+        },
+        "13": {
+            "question": "Do you really want to go there, from the very morning?",
+            "answer": " -> action moves;you;the very morning END;the very morning END END"
+        },
+        "14": {
+            "question": "From the moment they met, you knew it would come to this.",
+            "answer": " -> proposition at;you;it ENDED END result END END END END END"
+        },
+        "15": {
+            "question": "There's only one conclusion she could come to from this.",
+            "answer": " -> proposition at;there;this END ENDFALL END END END END END"
+        },
+        "16": {
+            "question": "There's nowhere to go from here.",
+            "answer": " -> proposition at;nothing;here END();he END END END END END END"
+        },
+        "17": {
+            "question": "From what you're telling me, there's only one conclusion to arrive at.",
+            "answer": " -> proposition at;you;he ENDORSES ENDORSES ENDORSES"
+        },
+        "18": {
+            "question": "Go beyond what they say and you'll reach a different conclusion.",
+            "answer": " -> proposition at;what;he END guidance END END END END END END END"
+        },
+        "19": {
+            "question": "There's no reason to go that far from what I know.",
+            "answer": " -> action moves;there;no reason;whole lot of good ENDLESS"
+        },
+        "20": {
+            "question": "From that moment on, I set out to prove them wrong, and I got there.",
+            "answer": " -> proposition at;Blind;Guy;Happening END END END END"
+        },
+        "21": {
+            "question": "In her memoire, she goes from her earliest days to the pinnacle of her career.",
+            "answer": " -> action moves;she;her earliest days;the pinnacle of her career END"
+        },
+        "22": {
+            "question": "We're jumping from subject to subject.",
+            "answer": " -> proposition at;we;subject END END END END END END END END END"
+        },
+        "23": {
+            "question": "After leaving the company, he went broke.",
+            "answer": " -> action moves;he;the company;the company END END END END END"
+        },
+        "24": {
+            "question": "Setting out to challenge them, she went even further in her claims.",
+            "answer": " -> action moves;she;challenge;them END END END END END END"
+        },
+        "25": {
+            "question": "If we start out like this, we'll go nowhere.",
+            "answer": " -> action moves;we;this;we END END END END END END END"
+        },
+        "26": {
+            "question": "We chatted from midday till lunch time.",
+            "answer": " -> proposition at;we;midsummer END RESULT END END END END"
+        },
+        "27": {
+            "question": "I knew this would go nowhere from the very beginning.",
+            "answer": " -> proposition at;this;the very beginning END;the very beginning END END"
+        },
+        "28": {
+            "question": "They would go so far as to call it unfeasible.",
+            "answer": " -> action moves;they;will;be gone;as nothing material;no"
+        },
+        "29": {
+            "question": "This business went from no customers to over a million.",
+            "answer": " -> action moves;business;no customers;over a million END END END END"
+        },
+        "30": {
+            "question": "I go to work from nine till five.",
+            "answer": " -> action moves;I;nine;five END END END END END END END"
+        },
+        "31": {
+            "question": "It all started from almost nothing.",
+            "answer": " -> proposition at;all;almost nothing END END END END END END END END"
+        },
+        "32": {
+            "question": "There's a lot of change from the first to the second version.",
+            "answer": " -> proposition at;there;the first version END END END END END END END"
+        },
+        "33": {
+            "question": "The group went on national television, and ended up being the most-watched act ever.",
+            "answer": " -> action moves;group;national television;the most-watched act ever"
+        },
+        "34": {
+            "question": "The story goes from one unbelievable claim to the next.",
+            "answer": " -> action moves;story;one unbelievable claim;the next END END END END"
+        },
+        "35": {
+            "question": "Jim went job-hunting to get away from his current work.",
+            "answer": " -> action moves;he;job-hunting;him END Deselect"
+        },
+        "36": {
+            "question": "It starts out high and goes even higher.",
+            "answer": " -> action moves;it;high;even more END END END END END END"
+        },
+        "37": {
+            "question": "Started with the right premise then went off on a tangent.",
+            "answer": " -> action moves;started;the right premise;a tangent END END END"
+        },
+        "38": {
+            "question": "From what they're saying, this can't go on.",
+            "answer": " -> proposition at;this;can't go on ENDorsements ENDorsements"
+        },
+        "39": {
+            "question": "We went ahead to win five more contests.",
+            "answer": " -> action moves;we;win five more contests END END END END END END"
+        },
+        "40": {
+            "question": "Where do we go from here?",
+            "answer": " -> action moves;we;here END;here END END END END END END"
+        },
+        "41": {
+            "question": "Start from the beginning and we might get somewhere.",
+            "answer": " -> proposition at;beginning;the beginning END END END END END END END"
+        },
+        "42": {
+            "question": "Go see the movie and come back with your own opinion.",
+            "answer": " -> proposition at;you;the movie END END END END END END END END"
+        },
+        "43": {
+            "question": "Please move my reservation from Tuesday to Friday.",
+            "answer": " -> proposition at;move;reservation END;TUTORIAL END END"
+        },
+        "44": {
+            "question": "From rest to elation, the music moved the audience deeply.",
+            "answer": " -> proposition at;the music;the audience profound END END END END END END"
+        },
+        "45": {
+            "question": "There's no need for you to go to such depths.",
+            "answer": " -> proposition at;no;you END END END END END END END END END"
+        },
+        "46": {
+            "question": "The news came out of nowhere.",
+            "answer": " -> proposition at;news;heavylink END AT END END END END"
+        },
+        "47": {
+            "question": "Stop at this step before you go any further.",
+            "answer": " -> action moves;at;this step;this step END END END END END"
+        },
+        "48": {
+            "question": "Don't go out on a limb with these statistics.",
+            "answer": " -> proposition at;you;a limb END;these statistics END END END END"
+        },
+        "49": {
+            "question": "From that day on, the specialists left for greener pastures.",
+            "answer": " -> proposition at;specialists;greener pastures END END END END END"
+        }
+    },
+    "distraction": {
+        "0": {
+            "question": "The average position of a cabbage.",
+            "answer": " -> proposition of;average;position;cabbage END END END END END END"
+        },
+        "1": {
+            "question": "The expected mass of a file.",
+            "answer": " -> proposition of;expected;mass;file END END END END END END END"
+        },
+        "2": {
+            "question": "The atypical position of a spoon.",
+            "answer": " -> proposition of;atypical;position;spoon END Tweet END END"
+        },
+        "3": {
+            "question": "The atypical mass of a bean.",
+            "answer": " -> proposition of;atypical;mass;bean END THE WEEK END"
+        },
+        "4": {
+            "question": "The atypical direction of a file.",
+            "answer": " -> proposition at;atypical;direction;file END END END END END"
+        },
+        "5": {
+            "question": "The measured direction of a envelope.",
+            "answer": " -> proposition of;measured;direction; envelope END;corbgregation END"
+        },
+        "6": {
+            "question": "The measured diameter of a pair of shoes.",
+            "answer": " -> proposition of;measured;diameter;shoes ENDCAST ENDQ"
+        },
+        "7": {
+            "question": "The atypical position of a envelope.",
+            "answer": " -> proposition of;atypical;position; envelope ENDAT] ENDAT"
+        },
+        "8": {
+            "question": "The average mass of a ring.",
+            "answer": " -> proposition of;average;mass;ring END OK END END END END END"
+        },
+        "9": {
+            "question": "The unusual diameter of a quiche.",
+            "answer": " -> proposition of;strange;diameter;quiche END END END END"
+        },
+        "10": {
+            "question": "The expected sheen of a spoon.",
+            "answer": " -> proposition of;sheen;spoon ENDEMIC ENDEMIC END"
+        },
+        "11": {
+            "question": "The unusual sheen of a file.",
+            "answer": " -> proposition of;unusual;sheen;file END END END END END"
+        },
+        "12": {
+            "question": "The measured size of a hat.",
+            "answer": " -> proposition of;measured;size;hat END END END END END END"
+        },
+        "13": {
+            "question": "The atypical sheen of a pair of shoes.",
+            "answer": " -> proposition at;typical;sheen;she shoes END conditional at;"
+        },
+        "14": {
+            "question": "The atypical size of a cork.",
+            "answer": " -> proposition at;typical;size;cork END END END END END"
+        },
+        "15": {
+            "question": "The average mass of a quiche.",
+            "answer": " -> proposition of;average;mass;quiche END END END END END END"
+        },
+        "16": {
+            "question": "The unusual sheen of a ring.",
+            "answer": " -> proposition of;sheen;ring END END END END END END END END"
+        },
+        "17": {
+            "question": "The atypical sheen of a cabbage.",
+            "answer": " -> proposition of;atypical;sheen;cabbiner END:"
+        },
+        "18": {
+            "question": "The expected position of a pepper.",
+            "answer": " -> proposition of;expected;position;pepper END END END END END END"
+        },
+        "19": {
+            "question": "The average mass of a pair of shoes.",
+            "answer": " -> proposition of;average;mass;shoes END: END END END END"
+        },
+        "20": {
+            "question": "The atypical diameter of a spoon.",
+            "answer": " -> proposition of;atypical;diameter;spoon END -> proposition"
+        },
+        "21": {
+            "question": "The atypical diameter of a cabbage.",
+            "answer": " -> proposition of;atypical;diameter;cabbage END END END"
+        },
+        "22": {
+            "question": "The expected sheen of a bean.",
+            "answer": " -> proposition of;expected;sheen; bean END END END END END END"
+        },
+        "23": {
+            "question": "The unusual mass of a spoon.",
+            "answer": " -> proposition of;unusual;mass;spoon END END END END END"
+        },
+        "24": {
+            "question": "The average position of a bean.",
+            "answer": " -> proposition of;average;position;bean ENDstories ENDstories ENDstories END"
+        },
+        "25": {
+            "question": "The unusual diameter of a envelope.",
+            "answer": " -> proposition of;unique;diameter;elenboat END coli END END"
+        },
+        "26": {
+            "question": "The atypical size of a ring.",
+            "answer": " -> proposition of;atypical;size;ring END END END END END"
+        },
+        "27": {
+            "question": "The expected direction of a pepper.",
+            "answer": " -> proposition of;expected;direction;pepper END END END END END END"
+        },
+        "28": {
+            "question": "The measured position of a pair of shoes.",
+            "answer": " -> proposition of;measured;position;pair of shoes END END END END"
+        },
+        "29": {
+            "question": "The expected position of a soap.",
+            "answer": " -> proposition of;expected;position;soap END END END END END END"
+        },
+        "30": {
+            "question": "The expected direction of a quiche.",
+            "answer": " -> proposition of;pected;direction;quiche END buzzing END END END END"
+        },
+        "31": {
+            "question": "The atypical sheen of a spoon.",
+            "answer": " -> proposition of;atypical;sheen;spoon END END END"
+        },
+        "32": {
+            "question": "The unusual diameter of a pair of shoes.",
+            "answer": " -> proposition of;peculiar;diameter;shoe END END END"
+        },
+        "33": {
+            "question": "The measured size of a soap.",
+            "answer": " -> proposition of;measured;size;soap END END END END END"
+        },
+        "34": {
+            "question": "The average direction of a pepper.",
+            "answer": " -> proposition of;average;direction;peper END END END END END END"
+        },
+        "35": {
+            "question": "The atypical size of a bean.",
+            "answer": " -> proposition of;atypical;size;bean END END END END END"
+        },
+        "36": {
+            "question": "The atypical mass of a ring.",
+            "answer": " -> proposition at;atypical;mass;ring ENDeselect;ring"
+        },
+        "37": {
+            "question": "The measured sheen of a pepper.",
+            "answer": " -> proposition of;measured;sheen;pepper END referendum END END"
+        },
+        "38": {
+            "question": "The atypical direction of a pepper.",
+            "answer": " -> proposition at;typical;direction;peper ENDPD ENDPD END"
+        },
+        "39": {
+            "question": "The unusual size of a quiche.",
+            "answer": " -> proposition of;unusual;size;quiche ENDICOTHE END"
+        },
+        "40": {
+            "question": "The average diameter of a envelope.",
+            "answer": " -> proposition of;average;diameter;package END;encapsulation END"
+        },
+        "41": {
+            "question": "The atypical sheen of a bean.",
+            "answer": " -> proposition of;atypical;sheen;bean END END END END"
+        },
+        "42": {
+            "question": "The unusual mass of a gel.",
+            "answer": " -> proposition of;unusual;mass;gel END END END END END END"
+        },
+        "43": {
+            "question": "The average diameter of a file.",
+            "answer": " -> proposition of;average;diameter;file END END END END END END"
+        },
+        "44": {
+            "question": "The average position of a soap.",
+            "answer": " -> proposition of;average;position;soap END END END END END END"
+        },
+        "45": {
+            "question": "The atypical mass of a gel.",
+            "answer": " -> proposition at;atypical;mass;gel END END END END END"
+        },
+        "46": {
+            "question": "The measured position of a cabbage.",
+            "answer": " -> proposition of;measured;position;cabbage END END END END END"
+        },
+        "47": {
+            "question": "The average position of a bunch of rice.",
+            "answer": " -> proposition of;average;position;bunch;rice END END END END"
+        },
+        "48": {
+            "question": "The measured mass of a hat.",
+            "answer": " -> proposition of;measured;mass;hat END END END END END END"
+        },
+        "49": {
+            "question": "The measured direction of a hat.",
+            "answer": " -> proposition of;measured;direction;hat END END END END END END"
+        }
+    }
+}

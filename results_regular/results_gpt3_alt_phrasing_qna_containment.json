@@ -1,0 +1,608 @@
+{
+    "literal": {
+        "0": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A apple is in a jar.",
+            "answer": "\n\nYes, the apple is in the jar."
+        },
+        "1": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A battery is in a box.",
+            "answer": "\n\nYes, the battery is in the box."
+        },
+        "2": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A button is in a fridge.",
+            "answer": "\n\nNo"
+        },
+        "3": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A yogurt is in a jar.",
+            "answer": "\n\nYes, the yogurt is in the jar."
+        },
+        "4": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A stapler is in a car.",
+            "answer": "\n\nNo"
+        },
+        "5": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A boat is in a fridge.",
+            "answer": "\n\nNo"
+        },
+        "6": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A lamp is in a carriage.",
+            "answer": "\n\nYes, the lamp is in the carriage."
+        },
+        "7": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A wheel is in a crate.",
+            "answer": "\n\nYes, the wheel is in the crate."
+        },
+        "8": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A hammer is in a car.",
+            "answer": "\n\nNo"
+        },
+        "9": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A curtain is in a crate.",
+            "answer": "\n\nYes"
+        },
+        "10": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A spinner is in a fridge.",
+            "answer": "\n\nNo"
+        },
+        "11": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A doorknob is in a garage.",
+            "answer": "\n\nNo"
+        },
+        "12": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A yogurt is in a vase.",
+            "answer": "\n\nNo"
+        },
+        "13": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A pen is in a pocket.",
+            "answer": "\n\nYes, the pen is in the pocket."
+        },
+        "14": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A lightbulb is in a pocket.",
+            "answer": "\n\nNo"
+        },
+        "15": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A doll is in a fridge.",
+            "answer": "\n\nYes, a doll is in a fridge."
+        },
+        "16": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A doll is in a vase.",
+            "answer": "\n\nYes, the doll is in the vase."
+        },
+        "17": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A battery is in a fridge.",
+            "answer": "\n\nYes, a battery is in a fridge."
+        },
+        "18": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A doorknob is in a crate.",
+            "answer": "\n\nYes"
+        },
+        "19": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A pen is in a crate.",
+            "answer": "\n\nYes"
+        },
+        "20": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A doll is in a jar.",
+            "answer": "\n\nYes."
+        },
+        "21": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A yogurt is in a vase.",
+            "answer": "\n\nYes, the yogurt is in the vase."
+        },
+        "22": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A shirt is in a shed.",
+            "answer": "\n\nNo"
+        },
+        "23": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A vest is in a box.",
+            "answer": "\n\nYes, the vest is in the box."
+        },
+        "24": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A cheese is in a vase.",
+            "answer": "\n\nNo"
+        },
+        "25": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A water is in a shed.",
+            "answer": "\n\nNo, the sentence is not a case of something being in something else."
+        },
+        "26": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A battery is in a jar.",
+            "answer": "\n\nYes"
+        },
+        "27": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A vest is in a pocket.",
+            "answer": "\n\nYes, the vest is in the pocket."
+        },
+        "28": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A yogurt is in a shed.",
+            "answer": "\n\nNo"
+        },
+        "29": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A banana is in a shed.",
+            "answer": "\n\nNo"
+        },
+        "30": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A banana is in a box.",
+            "answer": "\n\nYes, the banana is in the box."
+        },
+        "31": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A button is in a carriage.",
+            "answer": "\n\nYes, the button is in the carriage."
+        },
+        "32": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A doll is in a jar.",
+            "answer": "\n\nYes, the sentence is a case of something being in something else."
+        },
+        "33": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A boat is in a box.",
+            "answer": "\n\nNo"
+        },
+        "34": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A stylus is in a pocket.",
+            "answer": "\n\nYes, the stylus is in the pocket."
+        },
+        "35": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A stapler is in a carriage.",
+            "answer": "\n\nYes, the stapler is in the carriage."
+        },
+        "36": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A bird is in a car.",
+            "answer": "\n\nNo, this is not a case of something being in something else."
+        },
+        "37": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A stylus is in a shed.",
+            "answer": "\n\nNo"
+        },
+        "38": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A battery is in a car.",
+            "answer": "\n\nYes, the battery is in the car."
+        },
+        "39": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A stapler is in a box.",
+            "answer": "\n\nYes"
+        },
+        "40": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A peanut is in a shed.",
+            "answer": "\n\nNo"
+        },
+        "41": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A banana is in a fridge.",
+            "answer": "\n\nNo."
+        },
+        "42": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A yogurt is in a room.",
+            "answer": "\n\nNo"
+        },
+        "43": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A stylus is in a vase.",
+            "answer": "\n\nNo"
+        },
+        "44": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A apple is in a jar.",
+            "answer": "\n\nYes, this sentence is a case of something being in something else."
+        },
+        "45": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A battery is in a pocket.",
+            "answer": "\n\nYes"
+        },
+        "46": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A bird is in a garage.",
+            "answer": "\n\nYes, the bird is in the garage."
+        },
+        "47": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A water is in a vase.",
+            "answer": "\n\nNo"
+        },
+        "48": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A doorknob is in a crate.",
+            "answer": "\n\nYes, the doorknob is in the crate."
+        },
+        "49": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A pen is in a pocket.",
+            "answer": "\n\nYes"
+        }
+    },
+    "non-literal": {
+        "0": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: Without a care in the world.",
+            "answer": "\n\nNo"
+        },
+        "1": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A flash in the pan.",
+            "answer": "\n\nNo"
+        },
+        "2": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: This shirt is in vogue.",
+            "answer": "\n\nNo"
+        },
+        "3": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: State in plain English.",
+            "answer": "\n\nNo"
+        },
+        "4": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A damsel in distress.",
+            "answer": "\n\nYes"
+        },
+        "5": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: They're in a good mood.",
+            "answer": "\n\nNo, the sentence is not a case of something being in something else."
+        },
+        "6": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: Marching in lockstep.",
+            "answer": "\n\nNo"
+        },
+        "7": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: Brothers in arms.",
+            "answer": "\n\nNo"
+        },
+        "8": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: Head in the sand.",
+            "answer": "\n\nYes, this sentence is a case of something being in something else."
+        },
+        "9": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: We agree in principle.",
+            "answer": "\n\nNo"
+        },
+        "10": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: All in due course.",
+            "answer": "\n\nNo"
+        },
+        "11": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A case study in good writing.",
+            "answer": "\n\nYes, \"case study\" is a type of writing."
+        },
+        "12": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: I have an in with them.",
+            "answer": "\n\nNo"
+        },
+        "13": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: Out in the cold.",
+            "answer": "\n\nNo"
+        },
+        "14": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: You're in luck.",
+            "answer": "\n\nNo"
+        },
+        "15": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: There's nothing in the room.",
+            "answer": "\n\nNo"
+        },
+        "16": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: Be done in a minute.",
+            "answer": "\n\nNo"
+        },
+        "17": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: Hand in hand.",
+            "answer": "\n\nNo"
+        },
+        "18": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: Extra spring in one's step.",
+            "answer": "\n\nNo"
+        },
+        "19": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: Locked in an embrace.",
+            "answer": "\n\nYes."
+        },
+        "20": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: Leave in a hurry.",
+            "answer": "\n\nNo."
+        },
+        "21": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: Keep in touch with us.",
+            "answer": "\n\nYes, this sentence is a case of something being in something else."
+        },
+        "22": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: Happy as a pig in mud.",
+            "answer": "\n\nNo, this sentence is not a case of something being in something else."
+        },
+        "23": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: Stuck in a rut.",
+            "answer": "\n\nNo"
+        },
+        "24": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: We're back in business.",
+            "answer": "\n\nNo"
+        },
+        "25": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: Lost in thought.",
+            "answer": "\n\nNo"
+        },
+        "26": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: Once in a blue moon.",
+            "answer": "\n\nNo"
+        },
+        "27": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: Fall in love.",
+            "answer": "\n\nNo"
+        },
+        "28": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: All in all, it was ok.",
+            "answer": "\n\nNo"
+        },
+        "29": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: Solved in a nick of time.",
+            "answer": "\n\nNo"
+        },
+        "30": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: She's in control.",
+            "answer": "\n\nNo"
+        },
+        "31": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A step in the right direction.",
+            "answer": "\n\nNo"
+        },
+        "32": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: Everything in its place.",
+            "answer": "\n\nNo"
+        },
+        "33": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: Best in class.",
+            "answer": "\n\nNo"
+        },
+        "34": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: Tongue in cheek.",
+            "answer": "\n\nYes, the sentence is a case of something being in something else."
+        },
+        "35": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: Missing in action.",
+            "answer": "\n\nNo, this sentence is not a case of something being in something else."
+        },
+        "36": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A foot in the door.",
+            "answer": "\n\nYes."
+        },
+        "37": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: Done in one sitting.",
+            "answer": "\n\nNo"
+        },
+        "38": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: It depends in some measure on time.",
+            "answer": "\n\nNo"
+        },
+        "39": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: What in tarnation?",
+            "answer": "\n\nNo"
+        },
+        "40": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A storm in a teacup.",
+            "answer": "\n\nNo, this sentence is not a case of something being in something else."
+        },
+        "41": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: Two in one.",
+            "answer": "\n\nNo"
+        },
+        "42": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A footnote in history.",
+            "answer": "\n\nNo"
+        },
+        "43": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: Bask in the glow.",
+            "answer": "\n\nNo"
+        },
+        "44": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: I'm in possession of important data.",
+            "answer": "\n\nYes, this sentence is a case of something being in something else."
+        },
+        "45": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: Two peas in a pod.",
+            "answer": "\n\nYes, \"two peas in a pod\" is a case of something being in something else."
+        },
+        "46": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: One in a million.",
+            "answer": "\n\nNo."
+        },
+        "47": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: Heart in the right place.",
+            "answer": "\n\nNo"
+        },
+        "48": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: A match made in heaven.",
+            "answer": "\n\nNo"
+        },
+        "49": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: Stopped dead in his tracks.",
+            "answer": "\n\nNo"
+        }
+    },
+    "distraction": {
+        "0": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The specific weight of a doll.",
+            "answer": "\n\nNo"
+        },
+        "1": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The strange color of a lamp.",
+            "answer": "\n\nNo"
+        },
+        "2": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The typical profile of a car.",
+            "answer": "\n\nNo"
+        },
+        "3": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The specific part of a lamp.",
+            "answer": "\n\nNo"
+        },
+        "4": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The peculiar shape of a shirt.",
+            "answer": "\n\nNo, it is not a case of something being in something else."
+        },
+        "5": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The strange part of a clock.",
+            "answer": "\n\nNo"
+        },
+        "6": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The specific example of a clock.",
+            "answer": "\n\nNo"
+        },
+        "7": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The typical profile of a hammer.",
+            "answer": "\n\nNo"
+        },
+        "8": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The strange surface of a pen.",
+            "answer": "\n\nNo"
+        },
+        "9": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The typical length of a vest.",
+            "answer": "\n\nNo"
+        },
+        "10": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The specific length of a salt.",
+            "answer": "\n\nNo"
+        },
+        "11": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The normal type of a lamp.",
+            "answer": "\n\nNo"
+        },
+        "12": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The peculiar surface of a yogurt.",
+            "answer": "\n\nNo, this sentence is not a case of something being in something else."
+        },
+        "13": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The typical length of a chicken.",
+            "answer": "\n\nNo"
+        },
+        "14": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The specific surface of a book.",
+            "answer": "\n\nNo, this sentence is not a case of something being in something else."
+        },
+        "15": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The strange example of a car.",
+            "answer": "\n\nNo"
+        },
+        "16": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The specific part of a button.",
+            "answer": "\n\nNo"
+        },
+        "17": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The specific color of a lightbulb.",
+            "answer": "\n\nNo."
+        },
+        "18": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The peculiar example of a boat.",
+            "answer": "\n\nNo"
+        },
+        "19": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The typical length of a battery.",
+            "answer": "\n\nNo"
+        },
+        "20": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The peculiar part of a peanut.",
+            "answer": "\n\nNo"
+        },
+        "21": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The normal length of a boat.",
+            "answer": "\n\nNo"
+        },
+        "22": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The normal length of a stylus.",
+            "answer": "\n\nNo"
+        },
+        "23": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The specific length of a curtain.",
+            "answer": "\n\nNo"
+        },
+        "24": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The normal weight of a peanut.",
+            "answer": "\n\nNo"
+        },
+        "25": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The normal surface of a vest.",
+            "answer": "\n\nNo"
+        },
+        "26": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The normal part of a lamp.",
+            "answer": "\n\nNo"
+        },
+        "27": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The typical length of a button.",
+            "answer": "\n\nNo"
+        },
+        "28": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The typical profile of a doll.",
+            "answer": "\n\nNo"
+        },
+        "29": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The typical weight of a lamp.",
+            "answer": "\n\nNo"
+        },
+        "30": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The normal profile of a button.",
+            "answer": "\n\nNo"
+        },
+        "31": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The strange profile of a curtain.",
+            "answer": "\n\nNo"
+        },
+        "32": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The normal type of a peanut.",
+            "answer": "\n\nNo"
+        },
+        "33": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The specific part of a salt.",
+            "answer": "\n\nNo"
+        },
+        "34": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The typical example of a yogurt.",
+            "answer": "\n\nNo"
+        },
+        "35": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The peculiar part of a car.",
+            "answer": "\n\nNo"
+        },
+        "36": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The normal profile of a clock.",
+            "answer": "\n\nNo"
+        },
+        "37": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The strange shape of a peanut.",
+            "answer": "\n\nNo"
+        },
+        "38": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The specific weight of a doll.",
+            "answer": "\n\nNo"
+        },
+        "39": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The peculiar shape of a book.",
+            "answer": "\n\nNo."
+        },
+        "40": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The specific example of a pen.",
+            "answer": "\n\nNo"
+        },
+        "41": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The typical shape of a spinner.",
+            "answer": "\n\nNo"
+        },
+        "42": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The normal length of a banana.",
+            "answer": "\n\nNo, this sentence is not a case of something being in something else."
+        },
+        "43": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The specific shape of a clock.",
+            "answer": "\n\nNo, the sentence is not a case of something being in something else."
+        },
+        "44": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The peculiar length of a car.",
+            "answer": "\n\nNo"
+        },
+        "45": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The typical type of a lamp.",
+            "answer": "\n\nNo"
+        },
+        "46": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The peculiar part of a boat.",
+            "answer": "\n\nNo"
+        },
+        "47": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The normal shape of a lamp.",
+            "answer": "\n\nNo"
+        },
+        "48": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The peculiar weight of a doorknob.",
+            "answer": "\n\nNo, this sentence is not a case of something being in something else."
+        },
+        "49": {
+            "question": "Yes or no, is this sentence a case of something being in something else? Sentence: The typical part of a cheese.",
+            "answer": "\n\nNo, this sentence is not a case of something being in something else."
+        }
+    }
+}

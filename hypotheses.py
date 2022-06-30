@@ -140,6 +140,9 @@ def reconcile_patterns(pat1, pat2) -> tuple:
     # something behind"). we reconcile them so that we can further propagate the substitutions
     act_subs, act_subs_dicts = reconcile_actions(act1_sub, act2_sub, pre_subs_dicts[0], pre_subs_dicts[1])
 
+    if (act_subs, act_subs_dicts) == (None, None):
+        return None, None  # if we can't reconcile the actions, then it's a separate experience
+
     # there's no telling the two post-conditions must match, so first substitute then reconcile
     post_sub1 = [substitute(p, act_subs_dicts[0]) for p in post1]
     post_sub2 = [substitute(p, act_subs_dicts[1]) for p in post2]
@@ -425,6 +428,8 @@ def most_similar_pattern(pattern, pattern_store):
     assigned, or (None, None, None) if no patterns could be matched.'''
     if len(pattern_store) == 0:
         return None, None, None
+    elif pattern == ([], None, []):
+        return None, None, None
     else:
         ranking = []
         pre, act, post = pattern
@@ -451,7 +456,11 @@ def most_similar_pattern(pattern, pattern_store):
                                 total_score += 1
                             elif not (isinstance(var1, VariablePlaceholder) and isinstance(var2, VariablePlaceholder)):
                                 total_score -= 1
-                else:
+                elif act is not None:  # scoring is possible for action mismatch only if the action is None
+                    # this is the case when the action was left empty in order to infer what actions are possible
+                    # i.e. pattern is of type (..., None, ...) - pre- or post-conditions are given, but the action not.
+                    # In all other cases, the pattern should not be considered, because inference between two different
+                    # actions is impossible. e.g. Take(object, container) can't be compared to Go(north)
                     continue
 
                 # score every proposition in post-propositions
@@ -466,7 +475,10 @@ def most_similar_pattern(pattern, pattern_store):
 
                 # store the candidate, schema_name, score (sum of prop and action similarity scores in the ranking list)
                 ranking.append((candidate, schema_name, total_score))
-        # return the most fitting entry based on the score key
+
+    if len(ranking) == 0:
+        return None, None, None  # couldn't find any matching patterns
+    # return the most fitting entry based on the score key
     return sorted(ranking, key=lambda x: x[2], reverse=True)[0]
 
 
@@ -527,3 +539,22 @@ def infer(pat_target, pat_source):
                 return None, None
 
     return (pre_target, act_target, post_target), subs_dict
+
+
+def make_inference(pattern, pat_store):
+    '''Infer from a given pattern and knowledge base of patterns.
+    :param pattern Experience pattern with parts to be inferred (pre-conditions, action, or post-conditions) omitted.
+    :param pat_store Store of patterns which will be searched to find the right pattern and use it for inference against
+     the given one.
+    :return ((Inference, Substitutions), Match, Schema, Score) 4-tuple of: a tuple of filled-in inference pattern with
+    substitutions, a matched pattern in the pattern store,the schema name under which the pattern was classified,
+    and similarity score, or all None if no match could be found.'''
+    matched, name, score = most_similar_pattern(pattern, pat_store)
+    if matched is None:
+        return None, None, None, None
+    inference, subs = infer(matched, pattern)
+    if inference is None:
+        return None, None, None, None
+    else:
+        return (inference, subs), matched, name, score
+    return None, None, None, None

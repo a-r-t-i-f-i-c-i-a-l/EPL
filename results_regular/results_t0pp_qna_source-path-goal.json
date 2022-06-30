@@ -1,0 +1,608 @@
+{
+    "literal": {
+        "0": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The helicopter goes from a bay and ends up at a restaurant",
+            "answer": "Yes"
+        },
+        "1": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The car starts out at a bay and ends up at a parking lot",
+            "answer": "Yes"
+        },
+        "2": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The driver starts out at London and ends up at the sea",
+            "answer": "Yes"
+        },
+        "3": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The tourist travels from a garage and ends up at the airport",
+            "answer": "Yes"
+        },
+        "4": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The party-goer goes from a bay and ends up at a restaurant",
+            "answer": "No"
+        },
+        "5": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The party-goer goes from a shed and ends up at the airport",
+            "answer": "No"
+        },
+        "6": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The helicopter travels from the church and ends up at the sea",
+            "answer": "Yes"
+        },
+        "7": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The package starts out at a garage and ends up at a city in another country",
+            "answer": "Yes"
+        },
+        "8": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The tourist goes from the church and ends up at a bookstore",
+            "answer": "Yes"
+        },
+        "9": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The helicopter travels from a shed and ends up at the sea",
+            "answer": "Yes"
+        },
+        "10": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The car goes from Bristol and ends up at a restaurant",
+            "answer": "Yes"
+        },
+        "11": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The package starts out at Bristol and ends up at the airport",
+            "answer": "Yes"
+        },
+        "12": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The helicopter starts out at a garage and ends up at a parking lot",
+            "answer": "Yes"
+        },
+        "13": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The car travels from the mountains and ends up at Rome's colosseum",
+            "answer": "Yes"
+        },
+        "14": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The tourist goes from a party and ends up at Rome's colosseum",
+            "answer": "Yes"
+        },
+        "15": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The pedestrian goes from the bus stop and ends up at a beach",
+            "answer": "Yes"
+        },
+        "16": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The driver goes from London and ends up at a beach",
+            "answer": "Yes"
+        },
+        "17": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The pedestrian starts out at Bristol and ends up at a beach",
+            "answer": "Yes"
+        },
+        "18": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The helicopter goes from the bus stop and ends up at a bookstore",
+            "answer": "No"
+        },
+        "19": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The helicopter travels from home and ends up at the airport",
+            "answer": "Yes"
+        },
+        "20": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The car starts out at a party and ends up at the airport",
+            "answer": "Yes"
+        },
+        "21": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The traveler starts out at a garage and ends up at a city in another country",
+            "answer": "Yes"
+        },
+        "22": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The party-goer travels from the church and ends up at a parking lot",
+            "answer": "No"
+        },
+        "23": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The party-goer goes from a garage and ends up at a city in another country",
+            "answer": "No"
+        },
+        "24": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The party-goer goes from home and ends up at a parking lot",
+            "answer": "Yes"
+        },
+        "25": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The helicopter goes from London and ends up at a parking lot",
+            "answer": "Yes"
+        },
+        "26": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The tourist starts out at London and ends up at a city in another country",
+            "answer": "Yes"
+        },
+        "27": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The car starts out at a party and ends up at the sea",
+            "answer": "Yes"
+        },
+        "28": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The helicopter starts out at the bus stop and ends up at a bookstore",
+            "answer": "Yes"
+        },
+        "29": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The car goes from a party and ends up at the airport",
+            "answer": "Yes"
+        },
+        "30": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The package travels from home and ends up at a bookstore",
+            "answer": "Yes"
+        },
+        "31": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The driver goes from the bus stop and ends up at the airport",
+            "answer": "Yes"
+        },
+        "32": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The party-goer goes from London and ends up at a city in another country",
+            "answer": "No"
+        },
+        "33": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The driver starts out at Bristol and ends up at a parking lot",
+            "answer": "No"
+        },
+        "34": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The helicopter travels from the bus stop and ends up at Rome's colosseum",
+            "answer": "Yes"
+        },
+        "35": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The helicopter starts out at a party and ends up at a beach",
+            "answer": "Yes"
+        },
+        "36": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The driver goes from the bus stop and ends up at the sea",
+            "answer": "Yes"
+        },
+        "37": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The pedestrian starts out at the bus stop and ends up at a restaurant",
+            "answer": "Yes"
+        },
+        "38": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The party-goer starts out at the church and ends up at a restaurant",
+            "answer": "No"
+        },
+        "39": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The driver goes from the church and ends up at the airport",
+            "answer": "Yes"
+        },
+        "40": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The driver starts out at a shed and ends up at the sea",
+            "answer": "Yes"
+        },
+        "41": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The party-goer starts out at a garage and ends up at a city in another country",
+            "answer": "No"
+        },
+        "42": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The pedestrian goes from a garage and ends up at the airport",
+            "answer": "Yes"
+        },
+        "43": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The pedestrian starts out at Bristol and ends up at a city in another country",
+            "answer": "No"
+        },
+        "44": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The driver starts out at London and ends up at the airport",
+            "answer": "Yes"
+        },
+        "45": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The helicopter starts out at the church and ends up at a bookstore",
+            "answer": "Yes"
+        },
+        "46": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The party-goer travels from home and ends up at a city in another country",
+            "answer": "No"
+        },
+        "47": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The tourist travels from the mountains and ends up at a bookstore",
+            "answer": "Yes"
+        },
+        "48": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The party-goer goes from a party and ends up at Rome's colosseum",
+            "answer": "Yes"
+        },
+        "49": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The package travels from a party and ends up at the sea",
+            "answer": "No"
+        }
+    },
+    "non-literal": {
+        "0": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: Hear me out from start to finish.",
+            "answer": "No"
+        },
+        "1": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: They're going from one end of the Earth to the other, looking for him.",
+            "answer": "No"
+        },
+        "2": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: He constantly goes between the bark and the tree.",
+            "answer": "No"
+        },
+        "3": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: Go beyond what they say and you'll reach a different conclusion.",
+            "answer": "No"
+        },
+        "4": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: From your looks to your demeanor, you don't seem like a local.",
+            "answer": "No"
+        },
+        "5": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: If we start out like this, we'll go nowhere.",
+            "answer": "No"
+        },
+        "6": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The panel will go from 1 pm to 5 pm tomorrow.",
+            "answer": "No"
+        },
+        "7": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: I like doing nothing from time to time.",
+            "answer": "No"
+        },
+        "8": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: Things can change from one day to the next.",
+            "answer": "No"
+        },
+        "9": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: From the moment it dropped, the marble went into free fall.",
+            "answer": "No"
+        },
+        "10": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The general is decorated from head to toe.",
+            "answer": "No"
+        },
+        "11": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: She went from a mediocre student to a college professor.",
+            "answer": "No"
+        },
+        "12": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: Let's begin and go from top to bottom.",
+            "answer": "No"
+        },
+        "13": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: From that moment on, I set out to prove them wrong, and I got there.",
+            "answer": "No"
+        },
+        "14": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: From the moment they met, you knew it would come to this.",
+            "answer": "No"
+        },
+        "15": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The place has been converted from a shack to a bungalow.",
+            "answer": "No"
+        },
+        "16": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: Check your mail from day to day.",
+            "answer": "No"
+        },
+        "17": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: There's no reason to go that far from what I know.",
+            "answer": "No"
+        },
+        "18": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: She switched from knitting to painting.",
+            "answer": "No"
+        },
+        "19": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: Do you really want to go there, from the very morning?",
+            "answer": "No"
+        },
+        "20": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: His explanation clearly went from point A to point B.",
+            "answer": "Yes"
+        },
+        "21": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: In her memoire, she goes from her earliest days to the pinnacle of her career.",
+            "answer": "No"
+        },
+        "22": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: I've been going from pillar to post.",
+            "answer": "No"
+        },
+        "23": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: From the very beginning, I knew we'd end up in this situation.",
+            "answer": "No"
+        },
+        "24": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: There's nowhere to go from here.",
+            "answer": "No"
+        },
+        "25": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The situation went from frying pan to fire.",
+            "answer": "No"
+        },
+        "26": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: He went out of his way to make the point.",
+            "answer": "No"
+        },
+        "27": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: Their life is from hand to mouth.",
+            "answer": "No"
+        },
+        "28": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: She went from strength to strength since starting her career.",
+            "answer": "No"
+        },
+        "29": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: From the get-go, the new system came into use.",
+            "answer": "No"
+        },
+        "30": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: After the memo left his office, it went into effect.",
+            "answer": "No"
+        },
+        "31": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: From what you're telling me, there's only one conclusion to arrive at.",
+            "answer": "No"
+        },
+        "32": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: She grinned from ear to ear.",
+            "answer": "No"
+        },
+        "33": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: Every store from here to Sunday is full of customers.",
+            "answer": "No"
+        },
+        "34": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: We partied from dusk till dawn.",
+            "answer": "No"
+        },
+        "35": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: We reduced staff from fifty to just ten.",
+            "answer": "No"
+        },
+        "36": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: He was demoted from sergeant to corporal.",
+            "answer": "No"
+        },
+        "37": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: You have gone from one extreme to the other.",
+            "answer": "No"
+        },
+        "38": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: Overnight, he went from zero to hero.",
+            "answer": "No"
+        },
+        "39": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: He went from rags to riches.",
+            "answer": "Yes"
+        },
+        "40": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The cost would be anywhere from ten to fifteen thousand.",
+            "answer": "No"
+        },
+        "41": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: We're jumping from subject to subject.",
+            "answer": "No"
+        },
+        "42": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: How did you go from your premise to this conclusion?",
+            "answer": "No"
+        },
+        "43": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: Setting out to challenge them, she went even further in her claims.",
+            "answer": "No"
+        },
+        "44": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: She developed from a beginner into a chess master.",
+            "answer": "Yes"
+        },
+        "45": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: This boat moves from side to side too much.",
+            "answer": "No"
+        },
+        "46": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: List everything from A to Z.",
+            "answer": "No"
+        },
+        "47": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: After leaving the company, he went broke.",
+            "answer": "No"
+        },
+        "48": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: There's only one conclusion she could come to from this.",
+            "answer": "No"
+        },
+        "49": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: Translate this from English to Japanese, please.",
+            "answer": "No"
+        }
+    },
+    "distraction": {
+        "0": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The specific shape of a chicken.",
+            "answer": "No"
+        },
+        "1": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The normal type of a book.",
+            "answer": "No"
+        },
+        "2": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The normal surface of a water.",
+            "answer": "No"
+        },
+        "3": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The typical length of a clock.",
+            "answer": "No"
+        },
+        "4": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The strange example of a car.",
+            "answer": "No"
+        },
+        "5": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The specific surface of a chicken.",
+            "answer": "No"
+        },
+        "6": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The strange color of a bird.",
+            "answer": "No"
+        },
+        "7": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The specific surface of a apple.",
+            "answer": "No"
+        },
+        "8": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The normal type of a doorknob.",
+            "answer": "No"
+        },
+        "9": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The peculiar part of a vest.",
+            "answer": "No"
+        },
+        "10": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The normal type of a bird.",
+            "answer": "No"
+        },
+        "11": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The specific weight of a lamp.",
+            "answer": "No"
+        },
+        "12": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The strange length of a banana.",
+            "answer": "No"
+        },
+        "13": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The strange part of a boat.",
+            "answer": "No"
+        },
+        "14": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The strange length of a doorknob.",
+            "answer": "No"
+        },
+        "15": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The strange surface of a hammer.",
+            "answer": "No"
+        },
+        "16": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The typical part of a salt.",
+            "answer": "No"
+        },
+        "17": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The typical surface of a doorknob.",
+            "answer": "No"
+        },
+        "18": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The peculiar example of a stylus.",
+            "answer": "No"
+        },
+        "19": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The typical example of a water.",
+            "answer": "No"
+        },
+        "20": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The peculiar part of a bird.",
+            "answer": "No"
+        },
+        "21": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The strange weight of a car.",
+            "answer": "No"
+        },
+        "22": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The peculiar surface of a clock.",
+            "answer": "No"
+        },
+        "23": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The typical example of a wheel.",
+            "answer": "No"
+        },
+        "24": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The peculiar part of a clock.",
+            "answer": "No"
+        },
+        "25": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The typical type of a peanut.",
+            "answer": "No"
+        },
+        "26": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The normal shape of a wheel.",
+            "answer": "No"
+        },
+        "27": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The typical type of a wheel.",
+            "answer": "No"
+        },
+        "28": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The typical part of a button.",
+            "answer": "No"
+        },
+        "29": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The strange surface of a hammer.",
+            "answer": "No"
+        },
+        "30": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The typical part of a ball.",
+            "answer": "No"
+        },
+        "31": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The peculiar surface of a doorknob.",
+            "answer": "No"
+        },
+        "32": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The normal color of a cheese.",
+            "answer": "No"
+        },
+        "33": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The specific weight of a lightbulb.",
+            "answer": "No"
+        },
+        "34": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The typical surface of a pencil.",
+            "answer": "No"
+        },
+        "35": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The normal length of a spinner.",
+            "answer": "No"
+        },
+        "36": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The normal surface of a spinner.",
+            "answer": "No"
+        },
+        "37": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The typical color of a stylus.",
+            "answer": "No"
+        },
+        "38": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The strange surface of a bird.",
+            "answer": "No"
+        },
+        "39": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The strange surface of a vest.",
+            "answer": "No"
+        },
+        "40": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The normal profile of a pencil.",
+            "answer": "No"
+        },
+        "41": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The typical surface of a spinner.",
+            "answer": "No"
+        },
+        "42": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The peculiar example of a boat.",
+            "answer": "No"
+        },
+        "43": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The specific profile of a lamp.",
+            "answer": "No"
+        },
+        "44": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The normal length of a curtain.",
+            "answer": "No"
+        },
+        "45": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The peculiar color of a water.",
+            "answer": "No"
+        },
+        "46": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The peculiar length of a doll.",
+            "answer": "No"
+        },
+        "47": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The peculiar example of a banana.",
+            "answer": "No"
+        },
+        "48": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The normal example of a hammer.",
+            "answer": "No"
+        },
+        "49": {
+            "question": "Yes or no, is this sentence a case of a source, path and goal relation? Sentence: The normal weight of a lamp.",
+            "answer": "No"
+        }
+    }
+}

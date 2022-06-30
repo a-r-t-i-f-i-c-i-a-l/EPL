@@ -167,7 +167,7 @@ class Action:
         self.vars = self.extract_variables(args, facts)
 
     def __repr__(self):
-        return 'Action: ' + self.command_template.format(*[str(var.name) if var is not None else arg for var, arg in zip(self.vars, self.args)])
+        return 'Action: ' + self.command_template.format(*[str(var) if var is not None else arg for var, arg in zip(self.vars, self.args)])
 
     def __eq__(self, other):
         if not isinstance(other, Action):
@@ -299,6 +299,11 @@ class Inventory(Action):
 class YES(Action):
     def __init__(self):
         super(YES, self).__init__('YES')
+
+
+class Moves(Action):  # a non-player action meant to symbolize an observation of something moving in environment
+    def __init__(self, arg1, source, dest, facts=None):
+        super(Moves, self).__init__('{0} moves from {1} to {2}', arg1, source, dest, facts=facts)
 
 
 separators = {

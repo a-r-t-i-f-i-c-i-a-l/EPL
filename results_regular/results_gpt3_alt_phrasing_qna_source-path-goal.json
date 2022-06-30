@@ -1,0 +1,608 @@
+{
+    "literal": {
+        "0": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The helicopter starts out at a shed and ends up at the sea",
+            "answer": "\n\nYes"
+        },
+        "1": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The tourist starts out at the church and ends up at the airport",
+            "answer": "\n\nYes"
+        },
+        "2": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The driver goes from a party and ends up at a parking lot",
+            "answer": "\n\nYes, the driver has a source (the party) and a goal (the parking lot)."
+        },
+        "3": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The traveler travels from Bristol and ends up at a parking lot",
+            "answer": "\n\nNo"
+        },
+        "4": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The driver starts out at a party and ends up at a restaurant",
+            "answer": "\n\nNo"
+        },
+        "5": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The traveler goes from the bus stop and ends up at the airport",
+            "answer": "\n\nYes, the sentence is a case of something having a source and a goal."
+        },
+        "6": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The party-goer starts out at the mountains and ends up at a parking lot",
+            "answer": "\n\nYes"
+        },
+        "7": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The traveler travels from the church and ends up at Rome's colosseum",
+            "answer": "\n\nYes"
+        },
+        "8": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The helicopter starts out at the bus stop and ends up at a bookstore",
+            "answer": "\n\nNo"
+        },
+        "9": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The helicopter travels from a party and ends up at a bookstore",
+            "answer": "\n\nYes, this sentence is a case of something having a source and a goal."
+        },
+        "10": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The driver travels from a party and ends up at a beach",
+            "answer": "\n\nYes, the sentence is a case of something having a source and a goal."
+        },
+        "11": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The package travels from home and ends up at a beach",
+            "answer": "\n\nYes, the package has a source (home) and a goal (the beach)."
+        },
+        "12": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The pedestrian starts out at the bus stop and ends up at the airport",
+            "answer": "\n\nYes"
+        },
+        "13": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The tourist travels from a bay and ends up at a beach",
+            "answer": "\n\nYes"
+        },
+        "14": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The driver goes from a garage and ends up at a beach",
+            "answer": "\n\nYes, this sentence is a case of something having a source and a goal."
+        },
+        "15": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The traveler travels from a party and ends up at a city in another country",
+            "answer": "\n\nYes"
+        },
+        "16": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The driver goes from a garage and ends up at a beach",
+            "answer": "\n\nYes, the garage is the source and the beach is the goal."
+        },
+        "17": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The package starts out at Bristol and ends up at a beach",
+            "answer": "\n\nYes"
+        },
+        "18": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The package goes from a bay and ends up at a bookstore",
+            "answer": "\n\nYes, the package has a source (the bay) and a goal (the bookstore)."
+        },
+        "19": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The party-goer goes from a shed and ends up at the sea",
+            "answer": "\n\nYes"
+        },
+        "20": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The driver starts out at the church and ends up at a bookstore",
+            "answer": "\n\nYes"
+        },
+        "21": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The party-goer goes from a garage and ends up at a bookstore",
+            "answer": "\n\nNo"
+        },
+        "22": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The party-goer starts out at a garage and ends up at the airport",
+            "answer": "\n\nNo"
+        },
+        "23": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The package starts out at a bay and ends up at a restaurant",
+            "answer": "\n\nYes, this sentence is a case of something having a source and a goal."
+        },
+        "24": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The tourist starts out at home and ends up at a parking lot",
+            "answer": "\n\nNo, this sentence is not a case of something having a source and a goal."
+        },
+        "25": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The car starts out at a party and ends up at the sea",
+            "answer": "\n\nYes"
+        },
+        "26": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The driver travels from London and ends up at a city in another country",
+            "answer": "\n\nYes"
+        },
+        "27": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The helicopter travels from a garage and ends up at Rome's colosseum",
+            "answer": "\n\nNo"
+        },
+        "28": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The pedestrian starts out at a garage and ends up at Rome's colosseum",
+            "answer": "\n\nYes, the sentence is a case of something having a source and a goal. The pedestrian starts out at a garage and ends up at Rome's colosseum."
+        },
+        "29": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The tourist starts out at a bay and ends up at a restaurant",
+            "answer": "\n\nYes, this sentence is a case of something having a source and a goal."
+        },
+        "30": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The driver goes from the church and ends up at the sea",
+            "answer": "\n\nYes"
+        },
+        "31": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The helicopter goes from a garage and ends up at a city in another country",
+            "answer": "\n\nYes"
+        },
+        "32": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The party-goer starts out at the mountains and ends up at a beach",
+            "answer": "\n\nYes"
+        },
+        "33": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The helicopter starts out at a party and ends up at the airport",
+            "answer": "\n\nYes"
+        },
+        "34": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The tourist travels from the church and ends up at a restaurant",
+            "answer": "\n\nYes, the sentence is a case of something having a source and a goal."
+        },
+        "35": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The car starts out at London and ends up at a parking lot",
+            "answer": " in New York\n\nYes."
+        },
+        "36": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The party-goer travels from the church and ends up at a bookstore",
+            "answer": ".\n\nNo"
+        },
+        "37": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The party-goer goes from a party and ends up at the airport",
+            "answer": "\n\nYes"
+        },
+        "38": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The car travels from a party and ends up at a restaurant",
+            "answer": "\n\nYes"
+        },
+        "39": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The tourist travels from the bus stop and ends up at a beach",
+            "answer": "\n\nYes"
+        },
+        "40": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The car goes from the bus stop and ends up at a beach",
+            "answer": "\n\nYes"
+        },
+        "41": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The driver travels from a shed and ends up at a parking lot",
+            "answer": "\n\nYes, this is a case of something having a source and a goal."
+        },
+        "42": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The tourist starts out at the church and ends up at the airport",
+            "answer": "\n\nYes"
+        },
+        "43": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The car starts out at a garage and ends up at a restaurant",
+            "answer": "\n\nYes."
+        },
+        "44": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The car goes from a shed and ends up at a beach",
+            "answer": "\n\nYes"
+        },
+        "45": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The pedestrian starts out at a bay and ends up at a parking lot",
+            "answer": "\n\nNo, this sentence is not a case of something having a source and a goal."
+        },
+        "46": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The package travels from a garage and ends up at the airport",
+            "answer": ".\n\nYes, the package has a source (garage) and a goal (airport)."
+        },
+        "47": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The car travels from Bristol and ends up at a city in another country",
+            "answer": "\n\nYes"
+        },
+        "48": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The pedestrian travels from the bus stop and ends up at a city in another country",
+            "answer": "\n\nYes, the pedestrian has a source (the bus stop) and a goal (a city in another country)."
+        },
+        "49": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The driver starts out at a shed and ends up at a parking lot",
+            "answer": "\n\nYes"
+        }
+    },
+    "non-literal": {
+        "0": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: In her memoire, she goes from her earliest days to the pinnacle of her career.",
+            "answer": "\n\nYes."
+        },
+        "1": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: We reduced staff from fifty to just ten.",
+            "answer": "\n\nNo"
+        },
+        "2": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: I've been going from pillar to post.",
+            "answer": "\n\nNo"
+        },
+        "3": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: There's only one conclusion she could come to from this.",
+            "answer": "\n\nNo"
+        },
+        "4": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: We're jumping from subject to subject.",
+            "answer": "\n\nNo"
+        },
+        "5": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: She went from strength to strength since starting her career.",
+            "answer": "\n\nYes, this sentence is a case of something having a source and a goal."
+        },
+        "6": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: I like doing nothing from time to time.",
+            "answer": "\n\nNo"
+        },
+        "7": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: They're going from one end of the Earth to the other, looking for him.",
+            "answer": "\n\nYes, the sentence is a case of something having a source and a goal."
+        },
+        "8": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: Things can change from one day to the next.",
+            "answer": "\n\nNo"
+        },
+        "9": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: This boat moves from side to side too much.",
+            "answer": "\n\nNo."
+        },
+        "10": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: Go beyond what they say and you'll reach a different conclusion.",
+            "answer": "\n\nYes"
+        },
+        "11": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: Translate this from English to Japanese, please.",
+            "answer": "\n\nNo"
+        },
+        "12": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: She went from a mediocre student to a college professor.",
+            "answer": "\n\nYes"
+        },
+        "13": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The place has been converted from a shack to a bungalow.",
+            "answer": "\n\nNo"
+        },
+        "14": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: From that moment on, I set out to prove them wrong, and I got there.",
+            "answer": "\n\nYes"
+        },
+        "15": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: Their life is from hand to mouth.",
+            "answer": "\n\nYes, their life is from hand to mouth."
+        },
+        "16": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: From your looks to your demeanor, you don't seem like a local.",
+            "answer": "\n\nNo"
+        },
+        "17": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: She developed from a beginner into a chess master.",
+            "answer": "\n\nYes"
+        },
+        "18": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: From what you're telling me, there's only one conclusion to arrive at.",
+            "answer": "\n\nYes"
+        },
+        "19": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: How did you go from your premise to this conclusion?",
+            "answer": "\n\nYes, this sentence has a source (premise) and a goal (conclusion)."
+        },
+        "20": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: Hear me out from start to finish.",
+            "answer": "\n\nNo, this sentence is not a case of something having a source and a goal."
+        },
+        "21": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: Do you really want to go there, from the very morning?",
+            "answer": "\n\nNo"
+        },
+        "22": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: You have gone from one extreme to the other.",
+            "answer": "\n\nNo"
+        },
+        "23": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: He constantly goes between the bark and the tree.",
+            "answer": "\n\nNo"
+        },
+        "24": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: His explanation clearly went from point A to point B.",
+            "answer": "\n\nYes"
+        },
+        "25": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: If we start out like this, we'll go nowhere.",
+            "answer": "\n\nNo, the sentence does not have a source and a goal."
+        },
+        "26": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The panel will go from 1 pm to 5 pm tomorrow.",
+            "answer": "\n\nNo"
+        },
+        "27": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: Setting out to challenge them, she went even further in her claims.",
+            "answer": "\n\nYes, this sentence has a source and a goal."
+        },
+        "28": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The general is decorated from head to toe.",
+            "answer": "\n\nNo"
+        },
+        "29": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: From the very beginning, I knew we'd end up in this situation.",
+            "answer": "\n\nYes, the source is \"the very beginning\" and the goal is \"this situation.\""
+        },
+        "30": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The situation went from frying pan to fire.",
+            "answer": "\n\nNo"
+        },
+        "31": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: After the memo left his office, it went into effect.",
+            "answer": "\n\nNo"
+        },
+        "32": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: After leaving the company, he went broke.",
+            "answer": "\n\nNo"
+        },
+        "33": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: She grinned from ear to ear.",
+            "answer": "\n\nNo"
+        },
+        "34": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: From the get-go, the new system came into use.",
+            "answer": "\n\nYes"
+        },
+        "35": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: There's nowhere to go from here.",
+            "answer": "\n\nNo"
+        },
+        "36": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: He went from rags to riches.",
+            "answer": "\n\nYes"
+        },
+        "37": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: He went out of his way to make the point.",
+            "answer": "\n\nYes, the sentence is a case of something having a source and a goal."
+        },
+        "38": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: Things went from bad to worse.",
+            "answer": "\n\nNo."
+        },
+        "39": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: We partied from dusk till dawn.",
+            "answer": "\n\nNo, the sentence is not a case of something having a source and a goal."
+        },
+        "40": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The cost would be anywhere from ten to fifteen thousand.",
+            "answer": "\n\nNo"
+        },
+        "41": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: From the moment it dropped, the marble went into free fall.",
+            "answer": "\n\nYes, this sentence is a case of something having a source and a goal."
+        },
+        "42": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: From the moment they met, you knew it would come to this.",
+            "answer": "\n\nYes, the sentence has a source and a goal. The source is \"the moment they met,\" and the goal is \"this.\""
+        },
+        "43": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: Every store from here to Sunday is full of customers.",
+            "answer": "\n\nNo, this sentence is not a case of something having a source and a goal."
+        },
+        "44": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: She switched from knitting to painting.",
+            "answer": "\n\nNo."
+        },
+        "45": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: There's no reason to go that far from what I know.",
+            "answer": "\n\nNo."
+        },
+        "46": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: He was demoted from sergeant to corporal.",
+            "answer": "\n\nNo"
+        },
+        "47": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: Check your mail from day to day.",
+            "answer": "\n\nNo, this sentence is not a case of something having a source and a goal."
+        },
+        "48": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: Overnight, he went from zero to hero.",
+            "answer": "\n\nNo"
+        },
+        "49": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: Let's begin and go from top to bottom.",
+            "answer": "\n\nNo"
+        }
+    },
+    "distraction": {
+        "0": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The specific length of a vest.",
+            "answer": "\n\nNo. This sentence is not a case of something having a source and a goal."
+        },
+        "1": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The specific surface of a peanut.",
+            "answer": "\n\nNo"
+        },
+        "2": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The specific surface of a button.",
+            "answer": "\n\nNo"
+        },
+        "3": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The specific part of a pen.",
+            "answer": "\n\nNo"
+        },
+        "4": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The normal weight of a pen.",
+            "answer": "\n\nNo"
+        },
+        "5": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The peculiar part of a hammer.",
+            "answer": "\n\nNo, this sentence is not a case of something having a source and a goal."
+        },
+        "6": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The peculiar color of a shirt.",
+            "answer": "\n\nNo, this sentence is not a case of something having a source and a goal."
+        },
+        "7": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The typical color of a ball.",
+            "answer": "\n\nNo"
+        },
+        "8": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The strange color of a stylus.",
+            "answer": "\n\nNo"
+        },
+        "9": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The peculiar profile of a battery.",
+            "answer": "\n\nNo, this sentence is not a case of something having a source and a goal."
+        },
+        "10": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The typical color of a shirt.",
+            "answer": "\n\nNo, this sentence is not a case of something having a source and a goal."
+        },
+        "11": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The typical type of a doll.",
+            "answer": "\n\nNo"
+        },
+        "12": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The normal color of a button.",
+            "answer": "\n\nNo"
+        },
+        "13": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The peculiar profile of a spinner.",
+            "answer": "\n\nNo."
+        },
+        "14": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The typical weight of a bird.",
+            "answer": "\n\nNo"
+        },
+        "15": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The normal length of a bird.",
+            "answer": "\n\nNo"
+        },
+        "16": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The specific surface of a yogurt.",
+            "answer": "\n\nNo, this sentence is not a case of something having a source and a goal."
+        },
+        "17": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The specific shape of a doll.",
+            "answer": "\n\nNo"
+        },
+        "18": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The typical length of a wheel.",
+            "answer": "\n\nNo"
+        },
+        "19": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The specific part of a curtain.",
+            "answer": "\n\nNo, this sentence is not a case of something having a source and a goal."
+        },
+        "20": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The specific shape of a banana.",
+            "answer": "\n\nNo."
+        },
+        "21": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The normal type of a vest.",
+            "answer": "\n\nNo"
+        },
+        "22": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The specific shape of a clock.",
+            "answer": "\n\nNo"
+        },
+        "23": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The specific surface of a hammer.",
+            "answer": "\n\nNo"
+        },
+        "24": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The normal example of a pencil.",
+            "answer": "\n\nNo"
+        },
+        "25": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The specific color of a curtain.",
+            "answer": "\n\nNo."
+        },
+        "26": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The typical profile of a pen.",
+            "answer": "\n\nNo, this sentence is not a case of something having a source and a goal."
+        },
+        "27": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The specific length of a spinner.",
+            "answer": "\n\nNo"
+        },
+        "28": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The specific shape of a stylus.",
+            "answer": "\n\nNo"
+        },
+        "29": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The peculiar color of a shirt.",
+            "answer": "\n\nNo, this sentence is not a case of something having a source and a goal."
+        },
+        "30": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The strange type of a doorknob.",
+            "answer": "\n\nNo"
+        },
+        "31": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The typical color of a peanut.",
+            "answer": "\n\nNo"
+        },
+        "32": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The normal length of a wheel.",
+            "answer": "\n\nNo"
+        },
+        "33": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The strange surface of a stylus.",
+            "answer": "\n\nNo"
+        },
+        "34": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The specific type of a chicken.",
+            "answer": "\n\nNo"
+        },
+        "35": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The strange type of a hammer.",
+            "answer": "\n\nNo."
+        },
+        "36": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The peculiar profile of a pen.",
+            "answer": "\n\nNo."
+        },
+        "37": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The peculiar weight of a water.",
+            "answer": "\n\nNo"
+        },
+        "38": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The specific shape of a lightbulb.",
+            "answer": "\n\nNo"
+        },
+        "39": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The specific type of a yogurt.",
+            "answer": "\n\nNo, this sentence does not have a source and a goal."
+        },
+        "40": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The normal part of a car.",
+            "answer": "\n\nNo"
+        },
+        "41": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The strange surface of a book.",
+            "answer": "\n\nNo"
+        },
+        "42": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The specific shape of a lightbulb.",
+            "answer": "\n\nNo"
+        },
+        "43": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The specific part of a boat.",
+            "answer": "\n\nNo."
+        },
+        "44": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The typical example of a doll.",
+            "answer": "\n\nNo, this sentence is not a case of something having a source and goal."
+        },
+        "45": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The typical type of a shirt.",
+            "answer": "\n\nNo"
+        },
+        "46": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The normal surface of a stylus.",
+            "answer": "\n\nNo"
+        },
+        "47": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The strange surface of a bird.",
+            "answer": "\n\nNo."
+        },
+        "48": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The peculiar weight of a stapler.",
+            "answer": "\n\nNo, this sentence is not a case of something having a source and a goal."
+        },
+        "49": {
+            "question": "Yes or no, is this sentence a case of something having a source and a goal? Sentence: The strange example of a book.",
+            "answer": "\n\nNo"
+        }
+    }
+}

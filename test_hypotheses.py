@@ -1,6 +1,6 @@
 from unittest import TestCase
 from textworld.logic import Proposition, Variable
-
+from train_test_epl import train
 import agent
 import hypotheses
 
@@ -408,7 +408,7 @@ class TestHypotheses(TestCase):
         self.assertEqual(type(pat_with_placeholder[0][0][0].arguments[0]), hypotheses.VariablePlaceholder,
                          'matched pattern must have placeholder')
 
-        self.assertEqual((result_fourth['CONTAINMENT'][0], 'CONTAINMENT', 0),
+        self.assertEqual((result_fourth['CONTAINMENT'][1], 'CONTAINMENT', 2),
                          hypotheses.most_similar_pattern(
                              ([Proposition('in', (Variable('key', 'o'), Variable('I', 'I')))], None, []),
                              result_fourth),
@@ -584,3 +584,79 @@ class TestHypotheses(TestCase):
                          'must correctly infer backwards')
         self.assertEqual(Variable('basket', 'c'), infer_potato_was_in_basket[0][0].arguments[1].held_variable,
                          'must correctly infer backwards')
+
+    def test_make_inference(self):
+        train_exp_containment = [
+            (
+                [Proposition('in', (Variable('orange', 'f'), Variable('fridge', 'c')))],
+                agent.Take(Variable('orange', 'f'), Variable('fridge', 'c')),
+                [Proposition('in', (Variable('orange', 'f'), Variable('I', 'I')))]
+            ),
+            (
+                [Proposition('in', (Variable('bread', 'f'), Variable('fridge', 'c')))],
+                agent.Take(Variable('bread', 'f'), Variable('fridge', 'c')),
+                [Proposition('in', (Variable('bread', 'f'), Variable('I', 'I')))]
+            ),
+            (
+                [Proposition('in', (Variable('bread', 'f'), Variable('box', 'c')))],
+                agent.Take(Variable('bread', 'f'), Variable('box', 'c')),
+                [Proposition('in', (Variable('bread', 'f'), Variable('I', 'I')))]
+            ),
+        ]
+        train_exp_support = [
+            (
+                [Proposition('in', (Variable('orange', 'f'), Variable('I', 'I')))],
+                agent.Put(Variable('orange', 'f'), Variable('table', 'c')),
+                [Proposition('on', (Variable('orange', 'f'), Variable('table', 'c')))]
+            ),
+            (
+                [Proposition('in', (Variable('bread', 'f'), Variable('I', 'I')))],
+                agent.Put(Variable('bread', 'f'), Variable('table', 'c')),
+                [Proposition('on', (Variable('bread', 'f'), Variable('table', 'c')))]
+            ),
+            (
+                [Proposition('in', (Variable('bread', 'f'), Variable('I', 'I')))],
+                agent.Put(Variable('bread', 'f'), Variable('drawer', 'c')),
+                [Proposition('on', (Variable('bread', 'f'), Variable('drawer', 'c')))]
+            ),
+        ]
+
+        kb = train(train_exp_containment, 'CONTAINMENT')
+        kb = train(train_exp_support, 'SUPPORT', kb)
+        self.assertEqual((None, None, None, None), hypotheses.make_inference(([], None, []), kb),
+                         'Must not make inferences from nothing.')
+        (inf, sub), match, name, score = hypotheses.make_inference(([Proposition('in', (Variable('cookie', 'f'), Variable('fridge', 'c')))], None,
+                                         []), kb)
+        self.assertEqual(inf[0][0].arguments[0].held_variable, Variable('cookie', 'f'),
+                         'Must not change the variables of the query during inference')
+        self.assertEqual(inf[2][0].arguments[1], Variable('I', 'I'),
+                         'Must correctly infer container')
+        self.assertEqual(inf[0][0].arguments[1].held_variable, Variable('fridge', 'c'),
+                         'Must not change the variables of the query during inference')
+        self.assertEqual(inf[2][0].arguments[0].held_variable, Variable('cookie', 'f'),
+                         'Must correctly infer post-condition variable')
+        self.assertEqual(type(inf[1]), agent.Take,
+                         'Must correctly identify action leading to result')
+        self.assertEqual(inf[1].args[0].held_variable, Variable('cookie', 'f'),
+                         'Must correctly identify action arguments leading to result')
+        self.assertEqual(inf[1].args[1].held_variable, Variable('fridge', 'c'),
+                         'Must correctly identify action arguments leading to result')
+        self.assertEqual(name, 'CONTAINMENT', 'Must correctly classify schema type')
+        (inf2, sub2), match2, name2, score2 = hypotheses.make_inference(
+            ([], None,
+             [Proposition('on', (Variable('remote', 'o'), Variable('coffee table', 'o')))]), kb)
+        self.assertEqual(inf2[0][0].arguments[0].held_variable, Variable('remote', 'o'),
+                         'Must correctly infer the pre-condition variables')
+        self.assertEqual(inf2[0][0].arguments[1], Variable('I', 'I'),
+                         'Must correctly infer inventory as container')
+        self.assertEqual(inf2[2][0].arguments[1].held_variable, Variable('coffee table', 'o'),
+                         'Must not change the variables of the query during inference')
+        self.assertEqual(inf2[2][0].arguments[0].held_variable, Variable('remote', 'o'),
+                         'Must not change the variables of the query during inference')
+        self.assertEqual(type(inf2[1]), agent.Put,
+                         'Must correctly identify action leading to result')
+        self.assertEqual(inf2[1].args[0].held_variable, Variable('remote', 'o'),
+                         'Must correctly identify action arguments leading to result')
+        self.assertEqual(inf2[1].args[1].held_variable, Variable('coffee table', 'o'),
+                         'Must correctly identify action arguments leading to result')
+        self.assertEqual(name2, 'SUPPORT', 'Must correctly classify schema type')

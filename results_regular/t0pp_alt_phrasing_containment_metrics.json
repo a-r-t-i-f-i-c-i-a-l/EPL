@@ -1,0 +1,1 @@
+{"literal": {"precision": 1.0, "recall": 0.98, "f1": 0.98989898989899}, "non-literal": {"precision": 1.0, "recall": 0.16, "f1": 0.27586206896551724}, "overall": {"precision": 1.0, "recall": 0.57, "f1": 0.7261146496815286}}

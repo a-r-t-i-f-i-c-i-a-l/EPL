@@ -1,0 +1,50 @@
+{
+  "created_at": 1656079695,
+  "events": [
+    {
+      "created_at": 1656079696,
+      "level": "info",
+      "message": "Created fine-tune: ft-3oKrsGdyeKaPpLZwLiPuuobo",
+      "object": "fine-tune-event"
+    },
+    {
+      "created_at": 1656079784,
+      "level": "info",
+      "message": "Fine-tune costs $0.04",
+      "object": "fine-tune-event"
+    },
+    {
+      "created_at": 1656079785,
+      "level": "info",
+      "message": "Fine-tune enqueued. Queue number: 27",
+      "object": "fine-tune-event"
+    }
+  ],
+  "fine_tuned_model": null,
+  "hyperparams": {
+    "batch_size": 2,
+    "learning_rate_multiplier": 0.1,
+    "n_epochs": 4,
+    "prompt_loss_weight": 0.1
+  },
+  "id": "ft-3oKrsGdyeKaPpLZwLiPuuobo",
+  "model": "ada",
+  "object": "fine-tune",
+  "organization_id": "org-aWebdp9Z9FSxC6cH3fknKnIZ",
+  "result_files": [],
+  "status": "pending",
+  "training_files": [
+    {
+      "bytes": 124660,
+      "created_at": 1656079695,
+      "filename": "gpt3_fine_tune_prepared.jsonl",
+      "id": "file-LNH081ARWbEmoJMsem0rlHKC",
+      "object": "file",
+      "purpose": "fine-tune",
+      "status": "processed",
+      "status_details": null
+    }
+  ],
+  "updated_at": 1656079785,
+  "validation_files": []
+}

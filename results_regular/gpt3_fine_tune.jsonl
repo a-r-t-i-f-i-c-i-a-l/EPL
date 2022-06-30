@@ -1,0 +1,1020 @@
+{"prompt": "The tourist goes from the church and ends up at a bookstore", "completion": "action moves;tourist;the church;a bookstore END"}
+{"prompt": "A button is in a shed.", "completion": "proposition in;button;shed END"}
+{"prompt": "The package travels from London and ends up at a beach", "completion": "action moves;package;London;a beach END"}
+{"prompt": "The place has been converted from a shack to a bungalow.", "completion": "proposition at;place;shack END"}
+{"prompt": "The tourist goes from Bristol and ends up at the sea", "completion": "action moves;tourist;Bristol;the sea END"}
+{"prompt": "The package travels from the church and ends up at a bookstore", "completion": "action moves;package;the church;a bookstore END"}
+{"prompt": "The helicopter travels from a party and ends up at a beach", "completion": "action moves;helicopter;a party;a beach END"}
+{"prompt": "The driver starts out at a garage and ends up at a restaurant", "completion": "action moves;driver;a garage;a restaurant END"}
+{"prompt": "The driver goes from a shed and ends up at Rome's colosseum", "completion": "action moves;driver;a shed;Rome's colosseum END"}
+{"prompt": "A yogurt is in a fridge.", "completion": "proposition in;yogurt;fridge END"}
+{"prompt": "The helicopter goes from the bus stop and ends up at Rome's colosseum", "completion": "action moves;helicopter;the bus stop;Rome's colosseum END"}
+{"prompt": "A lightbulb is in a jar.", "completion": "proposition in;lightbulb;jar END"}
+{"prompt": "The pedestrian goes from a shed and ends up at Rome's colosseum", "completion": "action moves;pedestrian;a shed;Rome's colosseum END"}
+{"prompt": "The car travels from Bristol and ends up at a city in another country", "completion": "action moves;car;Bristol;a city in another country END"}
+{"prompt": "The traveler travels from a garage and ends up at a bookstore", "completion": "action moves;traveler;a garage;a bookstore END"}
+{"prompt": "The party-goer travels from London and ends up at a beach", "completion": "action moves;party-goer;London;a beach END"}
+{"prompt": "The helicopter travels from Bristol and ends up at a bookstore", "completion": "action moves;helicopter;Bristol;a bookstore END"}
+{"prompt": "The pedestrian starts out at Bristol and ends up at Rome's colosseum", "completion": "action moves;pedestrian;Bristol;Rome's colosseum END"}
+{"prompt": "A cheese is in a pocket.", "completion": "proposition in;cheese;pocket END"}
+{"prompt": "Without a care in the world.", "completion": "proposition in;care;the world END"}
+{"prompt": "A wheel is in a carriage.", "completion": "proposition in;wheel;carriage END"}
+{"prompt": "The package travels from a shed and ends up at a parking lot", "completion": "action moves;package;a shed;a parking lot END"}
+{"prompt": "The driver goes from the church and ends up at a beach", "completion": "action moves;driver;the church;a beach END"}
+{"prompt": "The car starts out at a bay and ends up at a bookstore", "completion": "action moves;car;a bay;a bookstore END"}
+{"prompt": "A doll is in a pocket.", "completion": "proposition in;doll;pocket END"}
+{"prompt": "The package travels from a garage and ends up at a city in another country", "completion": "action moves;package;a garage;a city in another country END"}
+{"prompt": "A hammer is in a car.", "completion": "proposition in;hammer;car END"}
+{"prompt": "The tourist goes from the mountains and ends up at Rome's colosseum", "completion": "action moves;tourist;the mountains;Rome's colosseum END"}
+{"prompt": "A pencil is in a car.", "completion": "proposition in;pencil;car END"}
+{"prompt": "The driver travels from a shed and ends up at a city in another country", "completion": "action moves;driver;a shed;a city in another country END"}
+{"prompt": "The driver travels from London and ends up at a bookstore", "completion": "action moves;driver;London;a bookstore END"}
+{"prompt": "A salt is in a garage.", "completion": "proposition in;salt;garage END"}
+{"prompt": "A vest is in a jar.", "completion": "proposition in;vest;jar END"}
+{"prompt": "The car goes from the church and ends up at Rome's colosseum", "completion": "action moves;car;the church;Rome's colosseum END"}
+{"prompt": "Solved in a nick of time.", "completion": "proposition in;solved;nick of time END"}
+{"prompt": "The package starts out at home and ends up at a city in another country", "completion": "action moves;package;home;a city in another country END"}
+{"prompt": "The package travels from a party and ends up at Rome's colosseum", "completion": "action moves;package;a party;Rome's colosseum END"}
+{"prompt": "The package starts out at Bristol and ends up at a city in another country", "completion": "action moves;package;Bristol;a city in another country END"}
+{"prompt": "The tourist goes from a party and ends up at a parking lot", "completion": "action moves;tourist;a party;a parking lot END"}
+{"prompt": "The helicopter starts out at London and ends up at Rome's colosseum", "completion": "action moves;helicopter;London;Rome's colosseum END"}
+{"prompt": "The car goes from a party and ends up at a beach", "completion": "action moves;car;a party;a beach END"}
+{"prompt": "A pencil is in a box.", "completion": "proposition in;pencil;box END"}
+{"prompt": "The package starts out at Bristol and ends up at a beach", "completion": "action moves;package;Bristol;a beach END"}
+{"prompt": "The helicopter goes from a shed and ends up at the sea", "completion": "action moves;helicopter;a shed;the sea END"}
+{"prompt": "The tourist goes from a party and ends up at the airport", "completion": "action moves;tourist;a party;the airport END"}
+{"prompt": "A doorknob is in a room.", "completion": "proposition in;doorknob;room END"}
+{"prompt": "The traveler starts out at a shed and ends up at a restaurant", "completion": "action moves;traveler;a shed;a restaurant END"}
+{"prompt": "The package goes from the mountains and ends up at a city in another country", "completion": "action moves;package;the mountains;a city in another country END"}
+{"prompt": "The car goes from a bay and ends up at the airport", "completion": "action moves;car;a bay;the airport END"}
+{"prompt": "The car travels from home and ends up at a city in another country", "completion": "action moves;car;home;a city in another country END"}
+{"prompt": "A vest is in a shed.", "completion": "proposition in;vest;shed END"}
+{"prompt": "A vest is in a vase.", "completion": "proposition in;vest;vase END"}
+{"prompt": "A lightbulb is in a box.", "completion": "proposition in;lightbulb;box END"}
+{"prompt": "The party-goer goes from the church and ends up at a beach", "completion": "action moves;party-goer;the church;a beach END"}
+{"prompt": "The pedestrian travels from the mountains and ends up at the airport", "completion": "action moves;pedestrian;the mountains;the airport END"}
+{"prompt": "The tourist travels from a shed and ends up at Rome's colosseum", "completion": "action moves;tourist;a shed;Rome's colosseum END"}
+{"prompt": "A car is in a box.", "completion": "proposition in;car;box END"}
+{"prompt": "A peanut is in a carriage.", "completion": "proposition in;peanut;carriage END"}
+{"prompt": "The traveler starts out at the bus stop and ends up at a parking lot", "completion": "action moves;traveler;the bus stop;a parking lot END"}
+{"prompt": "The pedestrian travels from home and ends up at a city in another country", "completion": "action moves;pedestrian;home;a city in another country END"}
+{"prompt": "The tourist goes from the bus stop and ends up at a city in another country", "completion": "action moves;tourist;the bus stop;a city in another country END"}
+{"prompt": "The tourist goes from the church and ends up at a restaurant", "completion": "action moves;tourist;the church;a restaurant END"}
+{"prompt": "The tourist travels from a bay and ends up at a beach", "completion": "action moves;tourist;a bay;a beach END"}
+{"prompt": "A car is in a carriage.", "completion": "proposition in;car;carriage END"}
+{"prompt": "The driver goes from Bristol and ends up at a beach", "completion": "action moves;driver;Bristol;a beach END"}
+{"prompt": "The driver travels from Bristol and ends up at the sea", "completion": "action moves;driver;Bristol;the sea END"}
+{"prompt": "A salt is in a fridge.", "completion": "proposition in;salt;fridge END"}
+{"prompt": "The pedestrian goes from a shed and ends up at a restaurant", "completion": "action moves;pedestrian;a shed;a restaurant END"}
+{"prompt": "A lightbulb is in a carriage.", "completion": "proposition in;lightbulb;carriage END"}
+{"prompt": "The tourist travels from home and ends up at a parking lot", "completion": "action moves;tourist;home;a parking lot END"}
+{"prompt": "The car starts out at home and ends up at Rome's colosseum", "completion": "action moves;car;home;Rome's colosseum END"}
+{"prompt": "A boat is in a car.", "completion": "proposition in;boat;car END"}
+{"prompt": "The party-goer starts out at the mountains and ends up at a restaurant", "completion": "action moves;party-goer;the mountains;a restaurant END"}
+{"prompt": "A book is in a carriage.", "completion": "proposition in;book;carriage END"}
+{"prompt": "The panel will go from 1 pm to 5 pm tomorrow.", "completion": "action moves;panel;1 pm;5 pm END"}
+{"prompt": "A shirt is in a shed.", "completion": "proposition in;shirt;shed END"}
+{"prompt": "A pencil is in a shed.", "completion": "proposition in;pencil;shed END"}
+{"prompt": "The package goes from a party and ends up at a beach", "completion": "action moves;package;a party;a beach END"}
+{"prompt": "A shirt is in a jar.", "completion": "proposition in;shirt;jar END"}
+{"prompt": "The car travels from home and ends up at a restaurant", "completion": "action moves;car;home;a restaurant END"}
+{"prompt": "A battery is in a pocket.", "completion": "proposition in;battery;pocket END"}
+{"prompt": "A pencil is in a garage.", "completion": "proposition in;pencil;garage END"}
+{"prompt": "This shirt is in vogue.", "completion": "proposition in;shirt;vogue END"}
+{"prompt": "A chicken is in a car.", "completion": "proposition in;chicken;car END"}
+{"prompt": "The traveler travels from the church and ends up at a bookstore", "completion": "action moves;traveler;the church;a bookstore END"}
+{"prompt": "The tourist starts out at London and ends up at a beach", "completion": "action moves;tourist;London;a beach END"}
+{"prompt": "The helicopter starts out at a garage and ends up at the airport", "completion": "action moves;helicopter;a garage;the airport END"}
+{"prompt": "The tourist goes from a bay and ends up at a bookstore", "completion": "action moves;tourist;a bay;a bookstore END"}
+{"prompt": "The package travels from a shed and ends up at a city in another country", "completion": "action moves;package;a shed;a city in another country END"}
+{"prompt": "The package goes from London and ends up at the sea", "completion": "action moves;package;London;the sea END"}
+{"prompt": "From the very beginning, I knew we'd end up in this situation.", "completion": "proposition at;we;situation END"}
+{"prompt": "A vest is in a room.", "completion": "proposition in;vest;room END"}
+{"prompt": "The car starts out at a bay and ends up at the sea", "completion": "action moves;car;a bay;the sea END"}
+{"prompt": "The car starts out at a shed and ends up at a restaurant", "completion": "action moves;car;a shed;a restaurant END"}
+{"prompt": "A stylus is in a crate.", "completion": "proposition in;stylus;crate END"}
+{"prompt": "The pedestrian goes from the bus stop and ends up at a city in another country", "completion": "action moves;pedestrian;the bus stop;a city in another country END"}
+{"prompt": "A pen is in a box.", "completion": "proposition in;pen;box END"}
+{"prompt": "The driver starts out at Bristol and ends up at a city in another country", "completion": "action moves;driver;Bristol;a city in another country END"}
+{"prompt": "The pedestrian travels from Bristol and ends up at a bookstore", "completion": "action moves;pedestrian;Bristol;a bookstore END"}
+{"prompt": "The traveler goes from home and ends up at a bookstore", "completion": "action moves;traveler;home;a bookstore END"}
+{"prompt": "A stapler is in a car.", "completion": "proposition in;stapler;car END"}
+{"prompt": "The general is decorated from head to toe.", "completion": "proposition at;decorated;head END"}
+{"prompt": "The package goes from a garage and ends up at a beach", "completion": "action moves;package;a garage;a beach END"}
+{"prompt": "The helicopter travels from Bristol and ends up at a city in another country", "completion": "action moves;helicopter;Bristol;a city in another country END"}
+{"prompt": "The helicopter starts out at a party and ends up at a parking lot", "completion": "action moves;helicopter;a party;a parking lot END"}
+{"prompt": "A stylus is in a vase.", "completion": "proposition in;stylus;vase END"}
+{"prompt": "The driver starts out at the bus stop and ends up at a beach", "completion": "action moves;driver;the bus stop;a beach END"}
+{"prompt": "The car travels from a shed and ends up at a city in another country", "completion": "action moves;car;a shed;a city in another country END"}
+{"prompt": "A ball is in a pocket.", "completion": "proposition in;ball;pocket END"}
+{"prompt": "The package goes from a party and ends up at a city in another country", "completion": "action moves;package;a party;a city in another country END"}
+{"prompt": "The traveler starts out at the church and ends up at the sea", "completion": "action moves;traveler;the church;the sea END"}
+{"prompt": "The package starts out at the mountains and ends up at the sea", "completion": "action moves;package;the mountains;the sea END"}
+{"prompt": "The party-goer starts out at the mountains and ends up at a parking lot", "completion": "action moves;party-goer;the mountains;a parking lot END"}
+{"prompt": "Marching in lockstep.", "completion": "proposition in;marching;lockstep END"}
+{"prompt": "The pedestrian starts out at a shed and ends up at a bookstore", "completion": "action moves;pedestrian;a shed;a bookstore END"}
+{"prompt": "The tourist starts out at London and ends up at the airport", "completion": "action moves;tourist;London;the airport END"}
+{"prompt": "The helicopter goes from home and ends up at the sea", "completion": "action moves;helicopter;home;the sea END"}
+{"prompt": "The pedestrian goes from London and ends up at a bookstore", "completion": "action moves;pedestrian;London;a bookstore END"}
+{"prompt": "A stapler is in a jar.", "completion": "proposition in;stapler;jar END"}
+{"prompt": "The helicopter goes from the church and ends up at a bookstore", "completion": "action moves;helicopter;the church;a bookstore END"}
+{"prompt": "A battery is in a crate.", "completion": "proposition in;battery;crate END"}
+{"prompt": "The traveler goes from Bristol and ends up at a city in another country", "completion": "action moves;traveler;Bristol;a city in another country END"}
+{"prompt": "The party-goer travels from a party and ends up at the airport", "completion": "action moves;party-goer;a party;the airport END"}
+{"prompt": "A vest is in a crate.", "completion": "proposition in;vest;crate END"}
+{"prompt": "The helicopter travels from London and ends up at a beach", "completion": "action moves;helicopter;London;a beach END"}
+{"prompt": "A pen is in a garage.", "completion": "proposition in;pen;garage END"}
+{"prompt": "The tourist starts out at the bus stop and ends up at Rome's colosseum", "completion": "action moves;tourist;the bus stop;Rome's colosseum END"}
+{"prompt": "A water is in a pocket.", "completion": "proposition in;water;pocket END"}
+{"prompt": "The traveler starts out at home and ends up at the sea", "completion": "action moves;traveler;home;the sea END"}
+{"prompt": "The car goes from a bay and ends up at a restaurant", "completion": "action moves;car;a bay;a restaurant END"}
+{"prompt": "A curtain is in a crate.", "completion": "proposition in;curtain;crate END"}
+{"prompt": "The driver travels from the bus stop and ends up at the airport", "completion": "action moves;driver;the bus stop;the airport END"}
+{"prompt": "The traveler starts out at Bristol and ends up at a bookstore", "completion": "action moves;traveler;Bristol;a bookstore END"}
+{"prompt": "The helicopter goes from home and ends up at a beach", "completion": "action moves;helicopter;home;a beach END"}
+{"prompt": "A vest is in a fridge.", "completion": "proposition in;vest;fridge END"}
+{"prompt": "The tourist goes from the mountains and ends up at the sea", "completion": "action moves;tourist;the mountains;the sea END"}
+{"prompt": "The traveler starts out at Bristol and ends up at a restaurant", "completion": "action moves;traveler;Bristol;a restaurant END"}
+{"prompt": "The traveler starts out at a bay and ends up at a parking lot", "completion": "action moves;traveler;a bay;a parking lot END"}
+{"prompt": "The car starts out at a garage and ends up at Rome's colosseum", "completion": "action moves;car;a garage;Rome's colosseum END"}
+{"prompt": "Two in one.", "completion": "proposition in;two;one END"}
+{"prompt": "A ball is in a garage.", "completion": "proposition in;ball;garage END"}
+{"prompt": "The driver starts out at a shed and ends up at a restaurant", "completion": "action moves;driver;a shed;a restaurant END"}
+{"prompt": "The tourist starts out at home and ends up at Rome's colosseum", "completion": "action moves;tourist;home;Rome's colosseum END"}
+{"prompt": "The helicopter starts out at the bus stop and ends up at a parking lot", "completion": "action moves;helicopter;the bus stop;a parking lot END"}
+{"prompt": "A bird is in a carriage.", "completion": "proposition in;bird;carriage END"}
+{"prompt": "A book is in a car.", "completion": "proposition in;book;car END"}
+{"prompt": "The traveler goes from the mountains and ends up at a beach", "completion": "action moves;traveler;the mountains;a beach END"}
+{"prompt": "The package starts out at a garage and ends up at the airport", "completion": "action moves;package;a garage;the airport END"}
+{"prompt": "Brothers in arms.", "completion": "proposition in;brothers;arms END"}
+{"prompt": "A yogurt is in a room.", "completion": "proposition in;yogurt;room END"}
+{"prompt": "The helicopter starts out at Bristol and ends up at Rome's colosseum", "completion": "action moves;helicopter;Bristol;Rome's colosseum END"}
+{"prompt": "The tourist travels from the mountains and ends up at a parking lot", "completion": "action moves;tourist;the mountains;a parking lot END"}
+{"prompt": "The package goes from home and ends up at the airport", "completion": "action moves;package;home;the airport END"}
+{"prompt": "The car travels from a party and ends up at a bookstore", "completion": "action moves;car;a party;a bookstore END"}
+{"prompt": "The car travels from a shed and ends up at the sea", "completion": "action moves;car;a shed;the sea END"}
+{"prompt": "The driver starts out at Bristol and ends up at a parking lot", "completion": "action moves;driver;Bristol;a parking lot END"}
+{"prompt": "A lightbulb is in a fridge.", "completion": "proposition in;lightbulb;fridge END"}
+{"prompt": "The pedestrian starts out at a garage and ends up at a city in another country", "completion": "action moves;pedestrian;a garage;a city in another country END"}
+{"prompt": "A button is in a crate.", "completion": "proposition in;button;crate END"}
+{"prompt": "The car travels from London and ends up at the sea", "completion": "action moves;car;London;the sea END"}
+{"prompt": "The package goes from London and ends up at a city in another country", "completion": "action moves;package;London;a city in another country END"}
+{"prompt": "A apple is in a box.", "completion": "proposition in;apple;box END"}
+{"prompt": "The driver starts out at the church and ends up at a city in another country", "completion": "action moves;driver;the church;a city in another country END"}
+{"prompt": "The tourist goes from home and ends up at a beach", "completion": "action moves;tourist;home;a beach END"}
+{"prompt": "The traveler starts out at a garage and ends up at a beach", "completion": "action moves;traveler;a garage;a beach END"}
+{"prompt": "The traveler travels from the bus stop and ends up at a restaurant", "completion": "action moves;traveler;the bus stop;a restaurant END"}
+{"prompt": "A bird is in a room.", "completion": "proposition in;bird;room END"}
+{"prompt": "A book is in a room.", "completion": "proposition in;book;room END"}
+{"prompt": "The helicopter travels from Bristol and ends up at a parking lot", "completion": "action moves;helicopter;Bristol;a parking lot END"}
+{"prompt": "The tourist travels from a party and ends up at the sea", "completion": "action moves;tourist;a party;the sea END"}
+{"prompt": "A cheese is in a box.", "completion": "proposition in;cheese;box END"}
+{"prompt": "The pedestrian starts out at a party and ends up at the airport", "completion": "action moves;pedestrian;a party;the airport END"}
+{"prompt": "A vest is in a box.", "completion": "proposition in;vest;box END"}
+{"prompt": "The driver travels from a garage and ends up at a beach", "completion": "action moves;driver;a garage;a beach END"}
+{"prompt": "A bird is in a garage.", "completion": "proposition in;bird;garage END"}
+{"prompt": "The package goes from a bay and ends up at a parking lot", "completion": "action moves;package;a bay;a parking lot END"}
+{"prompt": "The driver goes from the mountains and ends up at the airport", "completion": "action moves;driver;the mountains;the airport END"}
+{"prompt": "The pedestrian travels from the church and ends up at the sea", "completion": "action moves;pedestrian;the church;the sea END"}
+{"prompt": "A hammer is in a jar.", "completion": "proposition in;hammer;jar END"}
+{"prompt": "The package travels from the church and ends up at the airport", "completion": "action moves;package;the church;the airport END"}
+{"prompt": "A curtain is in a room.", "completion": "proposition in;curtain;room END"}
+{"prompt": "The traveler starts out at home and ends up at a parking lot", "completion": "action moves;traveler;home;a parking lot END"}
+{"prompt": "The helicopter goes from the church and ends up at the sea", "completion": "action moves;helicopter;the church;the sea END"}
+{"prompt": "I have an in with them.", "completion": "proposition in;in;he END"}
+{"prompt": "The driver travels from a party and ends up at the sea", "completion": "action moves;driver;a party;the sea END"}
+{"prompt": "A salt is in a car.", "completion": "proposition in;salt;car END"}
+{"prompt": "The car starts out at a garage and ends up at the sea", "completion": "action moves;car;a garage;the sea END"}
+{"prompt": "A chicken is in a box.", "completion": "proposition in;chicken;box END"}
+{"prompt": "A pen is in a jar.", "completion": "proposition in;pen;jar END"}
+{"prompt": "The traveler goes from the church and ends up at a city in another country", "completion": "action moves;traveler;the church;a city in another country END"}
+{"prompt": "A peanut is in a crate.", "completion": "proposition in;peanut;crate END"}
+{"prompt": "A ball is in a fridge.", "completion": "proposition in;ball;fridge END"}
+{"prompt": "A battery is in a box.", "completion": "proposition in;battery;box END"}
+{"prompt": "A lamp is in a box.", "completion": "proposition in;lamp;box END"}
+{"prompt": "The pedestrian goes from the bus stop and ends up at Rome's colosseum", "completion": "action moves;pedestrian;the bus stop;Rome's colosseum END"}
+{"prompt": "A doll is in a garage.", "completion": "proposition in;doll;garage END"}
+{"prompt": "The car travels from the mountains and ends up at the airport", "completion": "action moves;car;the mountains;the airport END"}
+{"prompt": "The package starts out at the bus stop and ends up at a city in another country", "completion": "action moves;package;the bus stop;a city in another country END"}
+{"prompt": "A shirt is in a pocket.", "completion": "proposition in;shirt;pocket END"}
+{"prompt": "A ball is in a room.", "completion": "proposition in;ball;room END"}
+{"prompt": "The package goes from a party and ends up at a parking lot", "completion": "action moves;package;a party;a parking lot END"}
+{"prompt": "Once in a blue moon.", "completion": "proposition in;once;a blue moon END"}
+{"prompt": "The tourist travels from Bristol and ends up at Rome's colosseum", "completion": "action moves;tourist;Bristol;Rome's colosseum END"}
+{"prompt": "A bird is in a shed.", "completion": "proposition in;bird;shed END"}
+{"prompt": "The pedestrian starts out at the bus stop and ends up at a parking lot", "completion": "action moves;pedestrian;the bus stop;a parking lot END"}
+{"prompt": "A lamp is in a car.", "completion": "proposition in;lamp;car END"}
+{"prompt": "The driver travels from a bay and ends up at the sea", "completion": "action moves;driver;a bay;the sea END"}
+{"prompt": "The party-goer travels from the bus stop and ends up at a restaurant", "completion": "action moves;party-goer;the bus stop;a restaurant END"}
+{"prompt": "The tourist goes from a garage and ends up at a restaurant", "completion": "action moves;tourist;a garage;a restaurant END"}
+{"prompt": "A doorknob is in a shed.", "completion": "proposition in;doorknob;shed END"}
+{"prompt": "The driver travels from London and ends up at a restaurant", "completion": "action moves;driver;London;a restaurant END"}
+{"prompt": "The car starts out at home and ends up at the airport", "completion": "action moves;car;home;the airport END"}
+{"prompt": "The helicopter travels from London and ends up at a restaurant", "completion": "action moves;helicopter;London;a restaurant END"}
+{"prompt": "The helicopter goes from a garage and ends up at the sea", "completion": "action moves;helicopter;a garage;the sea END"}
+{"prompt": "A spinner is in a garage.", "completion": "proposition in;spinner;garage END"}
+{"prompt": "The driver travels from a bay and ends up at a beach", "completion": "action moves;driver;a bay;a beach END"}
+{"prompt": "A stapler is in a crate.", "completion": "proposition in;stapler;crate END"}
+{"prompt": "A banana is in a shed.", "completion": "proposition in;banana;shed END"}
+{"prompt": "The package starts out at home and ends up at a bookstore", "completion": "action moves;package;home;a bookstore END"}
+{"prompt": "Things went from bad to worse.", "completion": "action moves;things;bad;worse END"}
+{"prompt": "The car starts out at a party and ends up at Rome's colosseum", "completion": "action moves;car;a party;Rome's colosseum END"}
+{"prompt": "The pedestrian starts out at home and ends up at a beach", "completion": "action moves;pedestrian;home;a beach END"}
+{"prompt": "A banana is in a carriage.", "completion": "proposition in;banana;carriage END"}
+{"prompt": "A curtain is in a car.", "completion": "proposition in;curtain;car END"}
+{"prompt": "I've been going from pillar to post.", "completion": "action moves;I;pillar;post END"}
+{"prompt": "The party-goer starts out at the church and ends up at a parking lot", "completion": "action moves;party-goer;the church;a parking lot END"}
+{"prompt": "A wheel is in a shed.", "completion": "proposition in;wheel;shed END"}
+{"prompt": "The party-goer goes from London and ends up at a parking lot", "completion": "action moves;party-goer;London;a parking lot END"}
+{"prompt": "We partied from dusk till dawn.", "completion": "proposition at;we;dusk END"}
+{"prompt": "The pedestrian travels from London and ends up at a restaurant", "completion": "action moves;pedestrian;London;a restaurant END"}
+{"prompt": "A clock is in a vase.", "completion": "proposition in;clock;vase END"}
+{"prompt": "He went from rags to riches.", "completion": "action moves;he;rags;riches END"}
+{"prompt": "The package travels from home and ends up at a beach", "completion": "action moves;package;home;a beach END"}
+{"prompt": "A bird is in a crate.", "completion": "proposition in;bird;crate END"}
+{"prompt": "A cheese is in a crate.", "completion": "proposition in;cheese;crate END"}
+{"prompt": "A battery is in a fridge.", "completion": "proposition in;battery;fridge END"}
+{"prompt": "A chicken is in a vase.", "completion": "proposition in;chicken;vase END"}
+{"prompt": "The package goes from a garage and ends up at Rome's colosseum", "completion": "action moves;package;a garage;Rome's colosseum END"}
+{"prompt": "The traveler starts out at the church and ends up at a parking lot", "completion": "action moves;traveler;the church;a parking lot END"}
+{"prompt": "The traveler starts out at a garage and ends up at the sea", "completion": "action moves;traveler;a garage;the sea END"}
+{"prompt": "A clock is in a jar.", "completion": "proposition in;clock;jar END"}
+{"prompt": "The tourist goes from a shed and ends up at a restaurant", "completion": "action moves;tourist;a shed;a restaurant END"}
+{"prompt": "A hammer is in a room.", "completion": "proposition in;hammer;room END"}
+{"prompt": "The driver travels from the bus stop and ends up at a bookstore", "completion": "action moves;driver;the bus stop;a bookstore END"}
+{"prompt": "The helicopter goes from a garage and ends up at a bookstore", "completion": "action moves;helicopter;a garage;a bookstore END"}
+{"prompt": "The car starts out at Bristol and ends up at Rome's colosseum", "completion": "action moves;car;Bristol;Rome's colosseum END"}
+{"prompt": "A doll is in a vase.", "completion": "proposition in;doll;vase END"}
+{"prompt": "A ball is in a crate.", "completion": "proposition in;ball;crate END"}
+{"prompt": "The pedestrian goes from a party and ends up at a parking lot", "completion": "action moves;pedestrian;a party;a parking lot END"}
+{"prompt": "The pedestrian starts out at a bay and ends up at a city in another country", "completion": "action moves;pedestrian;a bay;a city in another country END"}
+{"prompt": "The package travels from a bay and ends up at a bookstore", "completion": "action moves;package;a bay;a bookstore END"}
+{"prompt": "The tourist travels from the bus stop and ends up at a parking lot", "completion": "action moves;tourist;the bus stop;a parking lot END"}
+{"prompt": "The package goes from Bristol and ends up at Rome's colosseum", "completion": "action moves;package;Bristol;Rome's colosseum END"}
+{"prompt": "The package starts out at Bristol and ends up at the sea", "completion": "action moves;package;Bristol;the sea END"}
+{"prompt": "A boat is in a box.", "completion": "proposition in;boat;box END"}
+{"prompt": "A wheel is in a box.", "completion": "proposition in;wheel;box END"}
+{"prompt": "A hammer is in a fridge.", "completion": "proposition in;hammer;fridge END"}
+{"prompt": "The driver travels from the church and ends up at a parking lot", "completion": "action moves;driver;the church;a parking lot END"}
+{"prompt": "The party-goer starts out at a garage and ends up at Rome's colosseum", "completion": "action moves;party-goer;a garage;Rome's colosseum END"}
+{"prompt": "The pedestrian starts out at the bus stop and ends up at a beach", "completion": "action moves;pedestrian;the bus stop;a beach END"}
+{"prompt": "A pen is in a vase.", "completion": "proposition in;pen;vase END"}
+{"prompt": "A book is in a jar.", "completion": "proposition in;book;jar END"}
+{"prompt": "The pedestrian goes from London and ends up at the sea", "completion": "action moves;pedestrian;London;the sea END"}
+{"prompt": "A apple is in a pocket.", "completion": "proposition in;apple;pocket END"}
+{"prompt": "The pedestrian starts out at a bay and ends up at Rome's colosseum", "completion": "action moves;pedestrian;a bay;Rome's colosseum END"}
+{"prompt": "A curtain is in a pocket.", "completion": "proposition in;curtain;pocket END"}
+{"prompt": "The tourist goes from a shed and ends up at a beach", "completion": "action moves;tourist;a shed;a beach END"}
+{"prompt": "A apple is in a car.", "completion": "proposition in;apple;car END"}
+{"prompt": "The traveler goes from home and ends up at a restaurant", "completion": "action moves;traveler;home;a restaurant END"}
+{"prompt": "The package travels from home and ends up at the sea", "completion": "action moves;package;home;the sea END"}
+{"prompt": "The tourist goes from a shed and ends up at the sea", "completion": "action moves;tourist;a shed;the sea END"}
+{"prompt": "The package goes from home and ends up at a parking lot", "completion": "action moves;package;home;a parking lot END"}
+{"prompt": "The driver starts out at home and ends up at the airport", "completion": "action moves;driver;home;the airport END"}
+{"prompt": "The driver goes from a party and ends up at a bookstore", "completion": "action moves;driver;a party;a bookstore END"}
+{"prompt": "The traveler starts out at a shed and ends up at the sea", "completion": "action moves;traveler;a shed;the sea END"}
+{"prompt": "A battery is in a vase.", "completion": "proposition in;battery;vase END"}
+{"prompt": "A cheese is in a fridge.", "completion": "proposition in;cheese;fridge END"}
+{"prompt": "The helicopter goes from a garage and ends up at a city in another country", "completion": "action moves;helicopter;a garage;a city in another country END"}
+{"prompt": "The pedestrian travels from London and ends up at the airport", "completion": "action moves;pedestrian;London;the airport END"}
+{"prompt": "The helicopter travels from a bay and ends up at a beach", "completion": "action moves;helicopter;a bay;a beach END"}
+{"prompt": "A ball is in a car.", "completion": "proposition in;ball;car END"}
+{"prompt": "The party-goer starts out at the mountains and ends up at the airport", "completion": "action moves;party-goer;the mountains;the airport END"}
+{"prompt": "The tourist starts out at Bristol and ends up at the airport", "completion": "action moves;tourist;Bristol;the airport END"}
+{"prompt": "The car goes from the bus stop and ends up at a restaurant", "completion": "action moves;car;the bus stop;a restaurant END"}
+{"prompt": "The tourist goes from London and ends up at Rome's colosseum", "completion": "action moves;tourist;London;Rome's colosseum END"}
+{"prompt": "A doorknob is in a crate.", "completion": "proposition in;doorknob;crate END"}
+{"prompt": "A pen is in a crate.", "completion": "proposition in;pen;crate END"}
+{"prompt": "A curtain is in a jar.", "completion": "proposition in;curtain;jar END"}
+{"prompt": "A clock is in a crate.", "completion": "proposition in;clock;crate END"}
+{"prompt": "The driver travels from a garage and ends up at the airport", "completion": "action moves;driver;a garage;the airport END"}
+{"prompt": "The driver goes from home and ends up at a city in another country", "completion": "action moves;driver;home;a city in another country END"}
+{"prompt": "The party-goer goes from the bus stop and ends up at the sea", "completion": "action moves;party-goer;the bus stop;the sea END"}
+{"prompt": "A shirt is in a box.", "completion": "proposition in;shirt;box END"}
+{"prompt": "She went from strength to strength since starting her career.", "completion": "action moves;she;strength;strength END"}
+{"prompt": "A chicken is in a fridge.", "completion": "proposition in;chicken;fridge END"}
+{"prompt": "A doorknob is in a fridge.", "completion": "proposition in;doorknob;fridge END"}
+{"prompt": "A battery is in a car.", "completion": "proposition in;battery;car END"}
+{"prompt": "A water is in a crate.", "completion": "proposition in;water;crate END"}
+{"prompt": "The car starts out at a party and ends up at the sea", "completion": "action moves;car;a party;the sea END"}
+{"prompt": "A salt is in a box.", "completion": "proposition in;salt;box END"}
+{"prompt": "A stylus is in a car.", "completion": "proposition in;stylus;car END"}
+{"prompt": "A lightbulb is in a room.", "completion": "proposition in;lightbulb;room END"}
+{"prompt": "The traveler starts out at the church and ends up at a beach", "completion": "action moves;traveler;the church;a beach END"}
+{"prompt": "The tourist goes from Bristol and ends up at a beach", "completion": "action moves;tourist;Bristol;a beach END"}
+{"prompt": "The package starts out at a shed and ends up at the airport", "completion": "action moves;package;a shed;the airport END"}
+{"prompt": "The driver starts out at the bus stop and ends up at the sea", "completion": "action moves;driver;the bus stop;the sea END"}
+{"prompt": "The traveler goes from a party and ends up at a bookstore", "completion": "action moves;traveler;a party;a bookstore END"}
+{"prompt": "The driver travels from Bristol and ends up at Rome's colosseum", "completion": "action moves;driver;Bristol;Rome's colosseum END"}
+{"prompt": "A yogurt is in a jar.", "completion": "proposition in;yogurt;jar END"}
+{"prompt": "He was demoted from sergeant to corporal.", "completion": "proposition at;he;sergeant END"}
+{"prompt": "The tourist travels from a garage and ends up at the airport", "completion": "action moves;tourist;a garage;the airport END"}
+{"prompt": "The car travels from a bay and ends up at Rome's colosseum", "completion": "action moves;car;a bay;Rome's colosseum END"}
+{"prompt": "The helicopter starts out at a garage and ends up at a restaurant", "completion": "action moves;helicopter;a garage;a restaurant END"}
+{"prompt": "The driver starts out at a bay and ends up at a city in another country", "completion": "action moves;driver;a bay;a city in another country END"}
+{"prompt": "The pedestrian travels from the bus stop and ends up at a bookstore", "completion": "action moves;pedestrian;the bus stop;a bookstore END"}
+{"prompt": "The tourist travels from a shed and ends up at the airport", "completion": "action moves;tourist;a shed;the airport END"}
+{"prompt": "A car is in a crate.", "completion": "proposition in;car;crate END"}
+{"prompt": "The car travels from London and ends up at the airport", "completion": "action moves;car;London;the airport END"}
+{"prompt": "A car is in a pocket.", "completion": "proposition in;car;pocket END"}
+{"prompt": "The party-goer goes from London and ends up at a restaurant", "completion": "action moves;party-goer;London;a restaurant END"}
+{"prompt": "The traveler starts out at a bay and ends up at Rome's colosseum", "completion": "action moves;traveler;a bay;Rome's colosseum END"}
+{"prompt": "What in tarnation?", "completion": "proposition in;what;tarnation END"}
+{"prompt": "A wheel is in a fridge.", "completion": "proposition in;wheel;fridge END"}
+{"prompt": "The car travels from London and ends up at a bookstore", "completion": "action moves;car;London;a bookstore END"}
+{"prompt": "The pedestrian travels from a shed and ends up at the airport", "completion": "action moves;pedestrian;a shed;the airport END"}
+{"prompt": "A water is in a room.", "completion": "proposition in;water;room END"}
+{"prompt": "The package starts out at the bus stop and ends up at a restaurant", "completion": "action moves;package;the bus stop;a restaurant END"}
+{"prompt": "The driver travels from the mountains and ends up at Rome's colosseum", "completion": "action moves;driver;the mountains;Rome's colosseum END"}
+{"prompt": "The driver goes from a party and ends up at a beach", "completion": "action moves;driver;a party;a beach END"}
+{"prompt": "We reduced staff from fifty to just ten.", "completion": "proposition at;staff;fifty END"}
+{"prompt": "The helicopter goes from the bus stop and ends up at a beach", "completion": "action moves;helicopter;the bus stop;a beach END"}
+{"prompt": "The party-goer starts out at Bristol and ends up at a restaurant", "completion": "action moves;party-goer;Bristol;a restaurant END"}
+{"prompt": "The driver goes from London and ends up at the airport", "completion": "action moves;driver;London;the airport END"}
+{"prompt": "A salt is in a room.", "completion": "proposition in;salt;room END"}
+{"prompt": "A chicken is in a room.", "completion": "proposition in;chicken;room END"}
+{"prompt": "The driver travels from home and ends up at Rome's colosseum", "completion": "action moves;driver;home;Rome's colosseum END"}
+{"prompt": "The helicopter starts out at a shed and ends up at a restaurant", "completion": "action moves;helicopter;a shed;a restaurant END"}
+{"prompt": "A wheel is in a vase.", "completion": "proposition in;wheel;vase END"}
+{"prompt": "The package goes from the mountains and ends up at a beach", "completion": "action moves;package;the mountains;a beach END"}
+{"prompt": "A pen is in a car.", "completion": "proposition in;pen;car END"}
+{"prompt": "One in a million.", "completion": "proposition in;one;a million END"}
+{"prompt": "I like doing nothing from time to time.", "completion": "proposition at;I;time END"}
+{"prompt": "The car goes from a party and ends up at a restaurant", "completion": "action moves;car;a party;a restaurant END"}
+{"prompt": "The traveler travels from a shed and ends up at the airport", "completion": "action moves;traveler;a shed;the airport END"}
+{"prompt": "The traveler goes from the bus stop and ends up at a beach", "completion": "action moves;traveler;the bus stop;a beach END"}
+{"prompt": "The party-goer starts out at a party and ends up at a parking lot", "completion": "action moves;party-goer;a party;a parking lot END"}
+{"prompt": "A yogurt is in a pocket.", "completion": "proposition in;yogurt;pocket END"}
+{"prompt": "The pedestrian goes from the mountains and ends up at Rome's colosseum", "completion": "action moves;pedestrian;the mountains;Rome's colosseum END"}
+{"prompt": "A button is in a carriage.", "completion": "proposition in;button;carriage END"}
+{"prompt": "The package travels from a shed and ends up at the sea", "completion": "action moves;package;a shed;the sea END"}
+{"prompt": "The helicopter travels from a shed and ends up at a city in another country", "completion": "action moves;helicopter;a shed;a city in another country END"}
+{"prompt": "The party-goer starts out at a party and ends up at a beach", "completion": "action moves;party-goer;a party;a beach END"}
+{"prompt": "A banana is in a vase.", "completion": "proposition in;banana;vase END"}
+{"prompt": "A chicken is in a jar.", "completion": "proposition in;chicken;jar END"}
+{"prompt": "The package starts out at a party and ends up at the airport", "completion": "action moves;package;a party;the airport END"}
+{"prompt": "A shirt is in a carriage.", "completion": "proposition in;shirt;carriage END"}
+{"prompt": "The driver goes from a garage and ends up at a city in another country", "completion": "action moves;driver;a garage;a city in another country END"}
+{"prompt": "A vest is in a pocket.", "completion": "proposition in;vest;pocket END"}
+{"prompt": "The traveler goes from the mountains and ends up at the airport", "completion": "action moves;traveler;the mountains;the airport END"}
+{"prompt": "The helicopter goes from a garage and ends up at a beach", "completion": "action moves;helicopter;a garage;a beach END"}
+{"prompt": "The helicopter starts out at the bus stop and ends up at a city in another country", "completion": "action moves;helicopter;the bus stop;a city in another country END"}
+{"prompt": "This boat moves from side to side too much.", "completion": "action moves;boat;side;side END"}
+{"prompt": "The package starts out at the church and ends up at a restaurant", "completion": "action moves;package;the church;a restaurant END"}
+{"prompt": "The helicopter goes from the church and ends up at a restaurant", "completion": "action moves;helicopter;the church;a restaurant END"}
+{"prompt": "The party-goer goes from a shed and ends up at a city in another country", "completion": "action moves;party-goer;a shed;a city in another country END"}
+{"prompt": "The package goes from the church and ends up at a city in another country", "completion": "action moves;package;the church;a city in another country END"}
+{"prompt": "The tourist travels from a garage and ends up at the sea", "completion": "action moves;tourist;a garage;the sea END"}
+{"prompt": "A chicken is in a shed.", "completion": "proposition in;chicken;shed END"}
+{"prompt": "A vest is in a car.", "completion": "proposition in;vest;car END"}
+{"prompt": "The car starts out at the church and ends up at a city in another country", "completion": "action moves;car;the church;a city in another country END"}
+{"prompt": "The package goes from a shed and ends up at Rome's colosseum", "completion": "action moves;package;a shed;Rome's colosseum END"}
+{"prompt": "A boat is in a pocket.", "completion": "proposition in;boat;pocket END"}
+{"prompt": "The car travels from Bristol and ends up at a beach", "completion": "action moves;car;Bristol;a beach END"}
+{"prompt": "The package goes from Bristol and ends up at the airport", "completion": "action moves;package;Bristol;the airport END"}
+{"prompt": "The package goes from the bus stop and ends up at Rome's colosseum", "completion": "action moves;package;the bus stop;Rome's colosseum END"}
+{"prompt": "The driver travels from a garage and ends up at a parking lot", "completion": "action moves;driver;a garage;a parking lot END"}
+{"prompt": "The tourist starts out at home and ends up at a city in another country", "completion": "action moves;tourist;home;a city in another country END"}
+{"prompt": "A shirt is in a crate.", "completion": "proposition in;shirt;crate END"}
+{"prompt": "Stuck in a rut.", "completion": "proposition in;stuck;rut END"}
+{"prompt": "A shirt is in a garage.", "completion": "proposition in;shirt;garage END"}
+{"prompt": "The tourist travels from a party and ends up at a beach", "completion": "action moves;tourist;a party;a beach END"}
+{"prompt": "The package starts out at the mountains and ends up at a restaurant", "completion": "action moves;package;the mountains;a restaurant END"}
+{"prompt": "The pedestrian goes from home and ends up at a parking lot", "completion": "action moves;pedestrian;home;a parking lot END"}
+{"prompt": "A yogurt is in a box.", "completion": "proposition in;yogurt;box END"}
+{"prompt": "A spinner is in a vase.", "completion": "proposition in;spinner;vase END"}
+{"prompt": "A car is in a shed.", "completion": "proposition in;car;shed END"}
+{"prompt": "A clock is in a garage.", "completion": "proposition in;clock;garage END"}
+{"prompt": "The helicopter goes from the mountains and ends up at a parking lot", "completion": "action moves;helicopter;the mountains;a parking lot END"}
+{"prompt": "The driver starts out at a party and ends up at Rome's colosseum", "completion": "action moves;driver;a party;Rome's colosseum END"}
+{"prompt": "The helicopter travels from a party and ends up at the airport", "completion": "action moves;helicopter;a party;the airport END"}
+{"prompt": "A clock is in a box.", "completion": "proposition in;clock;box END"}
+{"prompt": "The tourist travels from the church and ends up at a city in another country", "completion": "action moves;tourist;the church;a city in another country END"}
+{"prompt": "The party-goer travels from a garage and ends up at a bookstore", "completion": "action moves;party-goer;a garage;a bookstore END"}
+{"prompt": "The package goes from the bus stop and ends up at a beach", "completion": "action moves;package;the bus stop;a beach END"}
+{"prompt": "The traveler travels from London and ends up at a restaurant", "completion": "action moves;traveler;London;a restaurant END"}
+{"prompt": "The party-goer starts out at the mountains and ends up at a bookstore", "completion": "action moves;party-goer;the mountains;a bookstore END"}
+{"prompt": "The helicopter starts out at a garage and ends up at Rome's colosseum", "completion": "action moves;helicopter;a garage;Rome's colosseum END"}
+{"prompt": "The helicopter goes from a bay and ends up at the sea", "completion": "action moves;helicopter;a bay;the sea END"}
+{"prompt": "The pedestrian travels from Bristol and ends up at a city in another country", "completion": "action moves;pedestrian;Bristol;a city in another country END"}
+{"prompt": "The car travels from Bristol and ends up at a bookstore", "completion": "action moves;car;Bristol;a bookstore END"}
+{"prompt": "The pedestrian goes from a garage and ends up at a parking lot", "completion": "action moves;pedestrian;a garage;a parking lot END"}
+{"prompt": "The tourist travels from a party and ends up at a bookstore", "completion": "action moves;tourist;a party;a bookstore END"}
+{"prompt": "The pedestrian goes from a shed and ends up at a parking lot", "completion": "action moves;pedestrian;a shed;a parking lot END"}
+{"prompt": "The pedestrian travels from London and ends up at a parking lot", "completion": "action moves;pedestrian;London;a parking lot END"}
+{"prompt": "The driver starts out at a party and ends up at a city in another country", "completion": "action moves;driver;a party;a city in another country END"}
+{"prompt": "A bird is in a pocket.", "completion": "proposition in;bird;pocket END"}
+{"prompt": "The car goes from London and ends up at a beach", "completion": "action moves;car;London;a beach END"}
+{"prompt": "The tourist travels from a bay and ends up at the sea", "completion": "action moves;tourist;a bay;the sea END"}
+{"prompt": "A banana is in a pocket.", "completion": "proposition in;banana;pocket END"}
+{"prompt": "A water is in a fridge.", "completion": "proposition in;water;fridge END"}
+{"prompt": "The driver starts out at the mountains and ends up at a bookstore", "completion": "action moves;driver;the mountains;a bookstore END"}
+{"prompt": "The helicopter goes from Bristol and ends up at a restaurant", "completion": "action moves;helicopter;Bristol;a restaurant END"}
+{"prompt": "A peanut is in a room.", "completion": "proposition in;peanut;room END"}
+{"prompt": "The package goes from a garage and ends up at a restaurant", "completion": "action moves;package;a garage;a restaurant END"}
+{"prompt": "The package goes from a bay and ends up at the sea", "completion": "action moves;package;a bay;the sea END"}
+{"prompt": "A clock is in a pocket.", "completion": "proposition in;clock;pocket END"}
+{"prompt": "The party-goer goes from a party and ends up at a restaurant", "completion": "action moves;party-goer;a party;a restaurant END"}
+{"prompt": "The tourist starts out at the church and ends up at a parking lot", "completion": "action moves;tourist;the church;a parking lot END"}
+{"prompt": "The pedestrian travels from a party and ends up at a bookstore", "completion": "action moves;pedestrian;a party;a bookstore END"}
+{"prompt": "The pedestrian goes from a party and ends up at a restaurant", "completion": "action moves;pedestrian;a party;a restaurant END"}
+{"prompt": "The car starts out at the bus stop and ends up at a parking lot", "completion": "action moves;car;the bus stop;a parking lot END"}
+{"prompt": "The pedestrian starts out at a party and ends up at a city in another country", "completion": "action moves;pedestrian;a party;a city in another country END"}
+{"prompt": "A lamp is in a crate.", "completion": "proposition in;lamp;crate END"}
+{"prompt": "The car starts out at home and ends up at a beach", "completion": "action moves;car;home;a beach END"}
+{"prompt": "A button is in a garage.", "completion": "proposition in;button;garage END"}
+{"prompt": "The party-goer starts out at home and ends up at a parking lot", "completion": "action moves;party-goer;home;a parking lot END"}
+{"prompt": "The pedestrian travels from a shed and ends up at a beach", "completion": "action moves;pedestrian;a shed;a beach END"}
+{"prompt": "The pedestrian starts out at a bay and ends up at a beach", "completion": "action moves;pedestrian;a bay;a beach END"}
+{"prompt": "The car starts out at the bus stop and ends up at Rome's colosseum", "completion": "action moves;car;the bus stop;Rome's colosseum END"}
+{"prompt": "The traveler goes from a shed and ends up at a parking lot", "completion": "action moves;traveler;a shed;a parking lot END"}
+{"prompt": "A battery is in a carriage.", "completion": "proposition in;battery;carriage END"}
+{"prompt": "The traveler travels from a bay and ends up at a bookstore", "completion": "action moves;traveler;a bay;a bookstore END"}
+{"prompt": "The car starts out at the church and ends up at a bookstore", "completion": "action moves;car;the church;a bookstore END"}
+{"prompt": "The helicopter starts out at Bristol and ends up at a beach", "completion": "action moves;helicopter;Bristol;a beach END"}
+{"prompt": "The package goes from home and ends up at Rome's colosseum", "completion": "action moves;package;home;Rome's colosseum END"}
+{"prompt": "The party-goer goes from a shed and ends up at a restaurant", "completion": "action moves;party-goer;a shed;a restaurant END"}
+{"prompt": "The pedestrian starts out at the mountains and ends up at the sea", "completion": "action moves;pedestrian;the mountains;the sea END"}
+{"prompt": "A hammer is in a shed.", "completion": "proposition in;hammer;shed END"}
+{"prompt": "The party-goer travels from home and ends up at Rome's colosseum", "completion": "action moves;party-goer;home;Rome's colosseum END"}
+{"prompt": "The party-goer goes from the mountains and ends up at a city in another country", "completion": "action moves;party-goer;the mountains;a city in another country END"}
+{"prompt": "The driver travels from the mountains and ends up at a restaurant", "completion": "action moves;driver;the mountains;a restaurant END"}
+{"prompt": "A book is in a box.", "completion": "proposition in;book;box END"}
+{"prompt": "You have gone from one extreme to the other.", "completion": "proposition at;you;one extreme END"}
+{"prompt": "A car is in a vase.", "completion": "proposition in;car;vase END"}
+{"prompt": "The helicopter travels from a party and ends up at Rome's colosseum", "completion": "action moves;helicopter;a party;Rome's colosseum END"}
+{"prompt": "A clock is in a car.", "completion": "proposition in;clock;car END"}
+{"prompt": "A doorknob is in a pocket.", "completion": "proposition in;doorknob;pocket END"}
+{"prompt": "The helicopter travels from the mountains and ends up at a beach", "completion": "action moves;helicopter;the mountains;a beach END"}
+{"prompt": "A salt is in a shed.", "completion": "proposition in;salt;shed END"}
+{"prompt": "The traveler starts out at home and ends up at a city in another country", "completion": "action moves;traveler;home;a city in another country END"}
+{"prompt": "A peanut is in a box.", "completion": "proposition in;peanut;box END"}
+{"prompt": "A lamp is in a carriage.", "completion": "proposition in;lamp;carriage END"}
+{"prompt": "A chicken is in a carriage.", "completion": "proposition in;chicken;carriage END"}
+{"prompt": "The pedestrian starts out at home and ends up at the airport", "completion": "action moves;pedestrian;home;the airport END"}
+{"prompt": "A stylus is in a pocket.", "completion": "proposition in;stylus;pocket END"}
+{"prompt": "A bird is in a car.", "completion": "proposition in;bird;car END"}
+{"prompt": "The tourist starts out at a party and ends up at a restaurant", "completion": "action moves;tourist;a party;a restaurant END"}
+{"prompt": "The helicopter goes from London and ends up at the airport", "completion": "action moves;helicopter;London;the airport END"}
+{"prompt": "A doll is in a fridge.", "completion": "proposition in;doll;fridge END"}
+{"prompt": "A pencil is in a pocket.", "completion": "proposition in;pencil;pocket END"}
+{"prompt": "The tourist starts out at the bus stop and ends up at a bookstore", "completion": "action moves;tourist;the bus stop;a bookstore END"}
+{"prompt": "A salt is in a vase.", "completion": "proposition in;salt;vase END"}
+{"prompt": "The driver goes from the church and ends up at the sea", "completion": "action moves;driver;the church;the sea END"}
+{"prompt": "A battery is in a room.", "completion": "proposition in;battery;room END"}
+{"prompt": "The car goes from a bay and ends up at a city in another country", "completion": "action moves;car;a bay;a city in another country END"}
+{"prompt": "A doorknob is in a vase.", "completion": "proposition in;doorknob;vase END"}
+{"prompt": "A car is in a car.", "completion": "proposition in;car;car END"}
+{"prompt": "The party-goer goes from a bay and ends up at a bookstore", "completion": "action moves;party-goer;a bay;a bookstore END"}
+{"prompt": "The tourist goes from a bay and ends up at a parking lot", "completion": "action moves;tourist;a bay;a parking lot END"}
+{"prompt": "The traveler starts out at the church and ends up at Rome's colosseum", "completion": "action moves;traveler;the church;Rome's colosseum END"}
+{"prompt": "Hand in hand.", "completion": "proposition in;hand;hand END"}
+{"prompt": "The tourist starts out at a shed and ends up at a parking lot", "completion": "action moves;tourist;a shed;a parking lot END"}
+{"prompt": "The car goes from the mountains and ends up at the sea", "completion": "action moves;car;the mountains;the sea END"}
+{"prompt": "The traveler starts out at a bay and ends up at the airport", "completion": "action moves;traveler;a bay;the airport END"}
+{"prompt": "The party-goer travels from a shed and ends up at a parking lot", "completion": "action moves;party-goer;a shed;a parking lot END"}
+{"prompt": "The pedestrian travels from the mountains and ends up at a bookstore", "completion": "action moves;pedestrian;the mountains;a bookstore END"}
+{"prompt": "A bird is in a fridge.", "completion": "proposition in;bird;fridge END"}
+{"prompt": "A boat is in a room.", "completion": "proposition in;boat;room END"}
+{"prompt": "The car travels from the bus stop and ends up at a bookstore", "completion": "action moves;car;the bus stop;a bookstore END"}
+{"prompt": "The driver travels from a garage and ends up at a bookstore", "completion": "action moves;driver;a garage;a bookstore END"}
+{"prompt": "A hammer is in a vase.", "completion": "proposition in;hammer;vase END"}
+{"prompt": "A water is in a box.", "completion": "proposition in;water;box END"}
+{"prompt": "The car travels from the mountains and ends up at a restaurant", "completion": "action moves;car;the mountains;a restaurant END"}
+{"prompt": "The helicopter travels from the church and ends up at the airport", "completion": "action moves;helicopter;the church;the airport END"}
+{"prompt": "The car starts out at London and ends up at a parking lot", "completion": "action moves;car;London;a parking lot END"}
+{"prompt": "The car goes from a party and ends up at a parking lot", "completion": "action moves;car;a party;a parking lot END"}
+{"prompt": "The pedestrian goes from the mountains and ends up at a beach", "completion": "action moves;pedestrian;the mountains;a beach END"}
+{"prompt": "The package starts out at the mountains and ends up at a bookstore", "completion": "action moves;package;the mountains;a bookstore END"}
+{"prompt": "A salt is in a crate.", "completion": "proposition in;salt;crate END"}
+{"prompt": "The package travels from London and ends up at Rome's colosseum", "completion": "action moves;package;London;Rome's colosseum END"}
+{"prompt": "The tourist goes from a bay and ends up at the airport", "completion": "action moves;tourist;a bay;the airport END"}
+{"prompt": "A curtain is in a vase.", "completion": "proposition in;curtain;vase END"}
+{"prompt": "The helicopter starts out at a bay and ends up at a parking lot", "completion": "action moves;helicopter;a bay;a parking lot END"}
+{"prompt": "A lamp is in a fridge.", "completion": "proposition in;lamp;fridge END"}
+{"prompt": "The helicopter goes from the mountains and ends up at Rome's colosseum", "completion": "action moves;helicopter;the mountains;Rome's colosseum END"}
+{"prompt": "A spinner is in a pocket.", "completion": "proposition in;spinner;pocket END"}
+{"prompt": "The traveler goes from a garage and ends up at Rome's colosseum", "completion": "action moves;traveler;a garage;Rome's colosseum END"}
+{"prompt": "The tourist starts out at the mountains and ends up at a bookstore", "completion": "action moves;tourist;the mountains;a bookstore END"}
+{"prompt": "A car is in a garage.", "completion": "proposition in;car;garage END"}
+{"prompt": "The pedestrian travels from a bay and ends up at a parking lot", "completion": "action moves;pedestrian;a bay;a parking lot END"}
+{"prompt": "The car starts out at a garage and ends up at the airport", "completion": "action moves;car;a garage;the airport END"}
+{"prompt": "The car goes from the church and ends up at a parking lot", "completion": "action moves;car;the church;a parking lot END"}
+{"prompt": "A bird is in a jar.", "completion": "proposition in;bird;jar END"}
+{"prompt": "A boat is in a vase.", "completion": "proposition in;boat;vase END"}
+{"prompt": "The tourist goes from the mountains and ends up at the airport", "completion": "action moves;tourist;the mountains;the airport END"}
+{"prompt": "The tourist goes from the bus stop and ends up at a beach", "completion": "action moves;tourist;the bus stop;a beach END"}
+{"prompt": "The helicopter starts out at the mountains and ends up at a restaurant", "completion": "action moves;helicopter;the mountains;a restaurant END"}
+{"prompt": "A peanut is in a shed.", "completion": "proposition in;peanut;shed END"}
+{"prompt": "A yogurt is in a vase.", "completion": "proposition in;yogurt;vase END"}
+{"prompt": "The package travels from a garage and ends up at a parking lot", "completion": "action moves;package;a garage;a parking lot END"}
+{"prompt": "The traveler starts out at the bus stop and ends up at a city in another country", "completion": "action moves;traveler;the bus stop;a city in another country END"}
+{"prompt": "The traveler starts out at Bristol and ends up at the sea", "completion": "action moves;traveler;Bristol;the sea END"}
+{"prompt": "The pedestrian goes from a garage and ends up at the airport", "completion": "action moves;pedestrian;a garage;the airport END"}
+{"prompt": "The driver starts out at London and ends up at a city in another country", "completion": "action moves;driver;London;a city in another country END"}
+{"prompt": "A apple is in a vase.", "completion": "proposition in;apple;vase END"}
+{"prompt": "The driver starts out at a shed and ends up at a parking lot", "completion": "action moves;driver;a shed;a parking lot END"}
+{"prompt": "Best in class.", "completion": "proposition in;best;class END"}
+{"prompt": "The driver goes from Bristol and ends up at the airport", "completion": "action moves;driver;Bristol;the airport END"}
+{"prompt": "Translate this from English to Japanese, please.", "completion": "proposition at;this;English END"}
+{"prompt": "The car travels from Bristol and ends up at the sea", "completion": "action moves;car;Bristol;the sea END"}
+{"prompt": "The driver goes from the bus stop and ends up at a restaurant", "completion": "action moves;driver;the bus stop;a restaurant END"}
+{"prompt": "The helicopter goes from a party and ends up at a restaurant", "completion": "action moves;helicopter;a party;a restaurant END"}
+{"prompt": "A clock is in a carriage.", "completion": "proposition in;clock;carriage END"}
+{"prompt": "A vest is in a garage.", "completion": "proposition in;vest;garage END"}
+{"prompt": "A lamp is in a garage.", "completion": "proposition in;lamp;garage END"}
+{"prompt": "The pedestrian goes from a bay and ends up at a restaurant", "completion": "action moves;pedestrian;a bay;a restaurant END"}
+{"prompt": "The package starts out at the bus stop and ends up at the sea", "completion": "action moves;package;the bus stop;the sea END"}
+{"prompt": "The traveler travels from home and ends up at Rome's colosseum", "completion": "action moves;traveler;home;Rome's colosseum END"}
+{"prompt": "The driver goes from Bristol and ends up at a restaurant", "completion": "action moves;driver;Bristol;a restaurant END"}
+{"prompt": "A cheese is in a vase.", "completion": "proposition in;cheese;vase END"}
+{"prompt": "Every store from here to Sunday is full of customers.", "completion": "proposition at;every store;here END"}
+{"prompt": "The package travels from a garage and ends up at a bookstore", "completion": "action moves;package;a garage;a bookstore END"}
+{"prompt": "A pencil is in a fridge.", "completion": "proposition in;pencil;fridge END"}
+{"prompt": "The party-goer starts out at the church and ends up at the airport", "completion": "action moves;party-goer;the church;the airport END"}
+{"prompt": "A stylus is in a room.", "completion": "proposition in;stylus;room END"}
+{"prompt": "A pen is in a pocket.", "completion": "proposition in;pen;pocket END"}
+{"prompt": "A banana is in a car.", "completion": "proposition in;banana;car END"}
+{"prompt": "It depends in some measure on time.", "completion": "proposition in;it depends;some measures on time END"}
+{"prompt": "The helicopter travels from home and ends up at a bookstore", "completion": "action moves;helicopter;home;a bookstore END"}
+{"prompt": "A water is in a vase.", "completion": "proposition in;water;vase END"}
+{"prompt": "The car travels from the mountains and ends up at Rome's colosseum", "completion": "action moves;car;the mountains;Rome's colosseum END"}
+{"prompt": "A lamp is in a room.", "completion": "proposition in;lamp;room END"}
+{"prompt": "A apple is in a fridge.", "completion": "proposition in;apple;fridge END"}
+{"prompt": "The package travels from London and ends up at the airport", "completion": "action moves;package;London;the airport END"}
+{"prompt": "The car travels from the bus stop and ends up at a city in another country", "completion": "action moves;car;the bus stop;a city in another country END"}
+{"prompt": "A shirt is in a vase.", "completion": "proposition in;shirt;vase END"}
+{"prompt": "The tourist starts out at a garage and ends up at a beach", "completion": "action moves;tourist;a garage;a beach END"}
+{"prompt": "The pedestrian travels from a bay and ends up at a bookstore", "completion": "action moves;pedestrian;a bay;a bookstore END"}
+{"prompt": "The party-goer starts out at Bristol and ends up at a beach", "completion": "action moves;party-goer;Bristol;a beach END"}
+{"prompt": "Missing in action.", "completion": "proposition in;missing;action END"}
+{"prompt": "The car starts out at home and ends up at a bookstore", "completion": "action moves;car;home;a bookstore END"}
+{"prompt": "A curtain is in a shed.", "completion": "proposition in;curtain;shed END"}
+{"prompt": "A yogurt is in a crate.", "completion": "proposition in;yogurt;crate END"}
+{"prompt": "A yogurt is in a carriage.", "completion": "proposition in;yogurt;carriage END"}
+{"prompt": "A curtain is in a garage.", "completion": "proposition in;curtain;garage END"}
+{"prompt": "The party-goer starts out at London and ends up at the sea", "completion": "action moves;party-goer;London;the sea END"}
+{"prompt": "A lamp is in a pocket.", "completion": "proposition in;lamp;pocket END"}
+{"prompt": "The traveler goes from London and ends up at a city in another country", "completion": "action moves;traveler;London;a city in another country END"}
+{"prompt": "The package goes from Bristol and ends up at a parking lot", "completion": "action moves;package;Bristol;a parking lot END"}
+{"prompt": "The helicopter travels from London and ends up at a bookstore", "completion": "action moves;helicopter;London;a bookstore END"}
+{"prompt": "The package travels from the bus stop and ends up at a parking lot", "completion": "action moves;package;the bus stop;a parking lot END"}
+{"prompt": "The helicopter starts out at the bus stop and ends up at the airport", "completion": "action moves;helicopter;the bus stop;the airport END"}
+{"prompt": "The traveler goes from Bristol and ends up at a beach", "completion": "action moves;traveler;Bristol;a beach END"}
+{"prompt": "The car travels from a shed and ends up at a bookstore", "completion": "action moves;car;a shed;a bookstore END"}
+{"prompt": "The pedestrian travels from a bay and ends up at the sea", "completion": "action moves;pedestrian;a bay;the sea END"}
+{"prompt": "The car travels from the bus stop and ends up at the sea", "completion": "action moves;car;the bus stop;the sea END"}
+{"prompt": "The car travels from home and ends up at the sea", "completion": "action moves;car;home;the sea END"}
+{"prompt": "The driver goes from the mountains and ends up at the sea", "completion": "action moves;driver;the mountains;the sea END"}
+{"prompt": "The driver travels from a bay and ends up at a restaurant", "completion": "action moves;driver;a bay;a restaurant END"}
+{"prompt": "The car travels from the church and ends up at the sea", "completion": "action moves;car;the church;the sea END"}
+{"prompt": "The tourist goes from a bay and ends up at a city in another country", "completion": "action moves;tourist;a bay;a city in another country END"}
+{"prompt": "The party-goer goes from the mountains and ends up at the sea", "completion": "action moves;party-goer;the mountains;the sea END"}
+{"prompt": "A hammer is in a pocket.", "completion": "proposition in;hammer;pocket END"}
+{"prompt": "The party-goer goes from a shed and ends up at the airport", "completion": "action moves;party-goer;a shed;the airport END"}
+{"prompt": "A battery is in a garage.", "completion": "proposition in;battery;garage END"}
+{"prompt": "A button is in a pocket.", "completion": "proposition in;button;pocket END"}
+{"prompt": "The party-goer starts out at a garage and ends up at a city in another country", "completion": "action moves;party-goer;a garage;a city in another country END"}
+{"prompt": "The driver travels from home and ends up at a bookstore", "completion": "action moves;driver;home;a bookstore END"}
+{"prompt": "The traveler starts out at a shed and ends up at Rome's colosseum", "completion": "action moves;traveler;a shed;Rome's colosseum END"}
+{"prompt": "A lightbulb is in a crate.", "completion": "proposition in;lightbulb;crate END"}
+{"prompt": "The party-goer travels from a shed and ends up at Rome's colosseum", "completion": "action moves;party-goer;a shed;Rome's colosseum END"}
+{"prompt": "The party-goer goes from home and ends up at a restaurant", "completion": "action moves;party-goer;home;a restaurant END"}
+{"prompt": "A stapler is in a box.", "completion": "proposition in;stapler;box END"}
+{"prompt": "A pencil is in a jar.", "completion": "proposition in;pencil;jar END"}
+{"prompt": "The traveler starts out at home and ends up at the airport", "completion": "action moves;traveler;home;the airport END"}
+{"prompt": "The traveler goes from the mountains and ends up at the sea", "completion": "action moves;traveler;the mountains;the sea END"}
+{"prompt": "The party-goer starts out at the bus stop and ends up at a city in another country", "completion": "action moves;party-goer;the bus stop;a city in another country END"}
+{"prompt": "The traveler starts out at a party and ends up at a city in another country", "completion": "action moves;traveler;a party;a city in another country END"}
+{"prompt": "The car goes from a shed and ends up at Rome's colosseum", "completion": "action moves;car;a shed;Rome's colosseum END"}
+{"prompt": "The party-goer travels from the bus stop and ends up at Rome's colosseum", "completion": "action moves;party-goer;the bus stop;Rome's colosseum END"}
+{"prompt": "The traveler starts out at London and ends up at the sea", "completion": "action moves;traveler;London;the sea END"}
+{"prompt": "The car starts out at the mountains and ends up at a bookstore", "completion": "action moves;car;the mountains;a bookstore END"}
+{"prompt": "The car starts out at a garage and ends up at a city in another country", "completion": "action moves;car;a garage;a city in another country END"}
+{"prompt": "The pedestrian starts out at a shed and ends up at the sea", "completion": "action moves;pedestrian;a shed;the sea END"}
+{"prompt": "The traveler travels from the mountains and ends up at a parking lot", "completion": "action moves;traveler;the mountains;a parking lot END"}
+{"prompt": "The pedestrian travels from the bus stop and ends up at the sea", "completion": "action moves;pedestrian;the bus stop;the sea END"}
+{"prompt": "The driver starts out at the church and ends up at a restaurant", "completion": "action moves;driver;the church;a restaurant END"}
+{"prompt": "The helicopter starts out at a bay and ends up at a bookstore", "completion": "action moves;helicopter;a bay;a bookstore END"}
+{"prompt": "A water is in a car.", "completion": "proposition in;water;car END"}
+{"prompt": "A boat is in a shed.", "completion": "proposition in;boat;shed END"}
+{"prompt": "Heart in the right place.", "completion": "proposition in;heart;the right place END"}
+{"prompt": "The party-goer travels from Bristol and ends up at a city in another country", "completion": "action moves;party-goer;Bristol;a city in another country END"}
+{"prompt": "The tourist travels from a garage and ends up at a bookstore", "completion": "action moves;tourist;a garage;a bookstore END"}
+{"prompt": "A spinner is in a car.", "completion": "proposition in;spinner;car END"}
+{"prompt": "The driver travels from home and ends up at the sea", "completion": "action moves;driver;home;the sea END"}
+{"prompt": "A ball is in a shed.", "completion": "proposition in;ball;shed END"}
+{"prompt": "The driver travels from home and ends up at a restaurant", "completion": "action moves;driver;home;a restaurant END"}
+{"prompt": "The helicopter goes from the bus stop and ends up at a restaurant", "completion": "action moves;helicopter;the bus stop;a restaurant END"}
+{"prompt": "The traveler goes from the mountains and ends up at a bookstore", "completion": "action moves;traveler;the mountains;a bookstore END"}
+{"prompt": "A chicken is in a garage.", "completion": "proposition in;chicken;garage END"}
+{"prompt": "The helicopter starts out at home and ends up at a parking lot", "completion": "action moves;helicopter;home;a parking lot END"}
+{"prompt": "A salt is in a pocket.", "completion": "proposition in;salt;pocket END"}
+{"prompt": "A apple is in a room.", "completion": "proposition in;apple;room END"}
+{"prompt": "The party-goer goes from a bay and ends up at a restaurant", "completion": "action moves;party-goer;a bay;a restaurant END"}
+{"prompt": "The pedestrian starts out at the bus stop and ends up at the airport", "completion": "action moves;pedestrian;the bus stop;the airport END"}
+{"prompt": "The pedestrian goes from the church and ends up at a parking lot", "completion": "action moves;pedestrian;the church;a parking lot END"}
+{"prompt": "The party-goer starts out at Bristol and ends up at a bookstore", "completion": "action moves;party-goer;Bristol;a bookstore END"}
+{"prompt": "The party-goer starts out at home and ends up at a bookstore", "completion": "action moves;party-goer;home;a bookstore END"}
+{"prompt": "A ball is in a carriage.", "completion": "proposition in;ball;carriage END"}
+{"prompt": "The helicopter starts out at London and ends up at a parking lot", "completion": "action moves;helicopter;London;a parking lot END"}
+{"prompt": "The driver starts out at a bay and ends up at Rome's colosseum", "completion": "action moves;driver;a bay;Rome's colosseum END"}
+{"prompt": "The driver goes from London and ends up at a parking lot", "completion": "action moves;driver;London;a parking lot END"}
+{"prompt": "A pencil is in a crate.", "completion": "proposition in;pencil;crate END"}
+{"prompt": "A ball is in a jar.", "completion": "proposition in;ball;jar END"}
+{"prompt": "The party-goer travels from a party and ends up at Rome's colosseum", "completion": "action moves;party-goer;a party;Rome's colosseum END"}
+{"prompt": "The helicopter goes from Bristol and ends up at the airport", "completion": "action moves;helicopter;Bristol;the airport END"}
+{"prompt": "The traveler goes from the mountains and ends up at Rome's colosseum", "completion": "action moves;traveler;the mountains;Rome's colosseum END"}
+{"prompt": "The party-goer starts out at the church and ends up at Rome's colosseum", "completion": "action moves;party-goer;the church;Rome's colosseum END"}
+{"prompt": "A banana is in a box.", "completion": "proposition in;banana;box END"}
+{"prompt": "The car travels from home and ends up at a parking lot", "completion": "action moves;car;home;a parking lot END"}
+{"prompt": "A chicken is in a pocket.", "completion": "proposition in;chicken;pocket END"}
+{"prompt": "The car travels from the church and ends up at a restaurant", "completion": "action moves;car;the church;a restaurant END"}
+{"prompt": "A bird is in a vase.", "completion": "proposition in;bird;vase END"}
+{"prompt": "A lamp is in a vase.", "completion": "proposition in;lamp;vase END"}
+{"prompt": "The party-goer travels from a party and ends up at a bookstore", "completion": "action moves;party-goer;a party;a bookstore END"}
+{"prompt": "The tourist starts out at a garage and ends up at a city in another country", "completion": "action moves;tourist;a garage;a city in another country END"}
+{"prompt": "The helicopter starts out at home and ends up at Rome's colosseum", "completion": "action moves;helicopter;home;Rome's colosseum END"}
+{"prompt": "The traveler starts out at a garage and ends up at a restaurant", "completion": "action moves;traveler;a garage;a restaurant END"}
+{"prompt": "A lightbulb is in a vase.", "completion": "proposition in;lightbulb;vase END"}
+{"prompt": "The traveler travels from a shed and ends up at a city in another country", "completion": "action moves;traveler;a shed;a city in another country END"}
+{"prompt": "A book is in a shed.", "completion": "proposition in;book;shed END"}
+{"prompt": "The driver starts out at the church and ends up at the airport", "completion": "action moves;driver;the church;the airport END"}
+{"prompt": "A wheel is in a pocket.", "completion": "proposition in;wheel;pocket END"}
+{"prompt": "A doll is in a jar.", "completion": "proposition in;doll;jar END"}
+{"prompt": "The package starts out at the bus stop and ends up at the airport", "completion": "action moves;package;the bus stop;the airport END"}
+{"prompt": "The car goes from Bristol and ends up at a parking lot", "completion": "action moves;car;Bristol;a parking lot END"}
+{"prompt": "The helicopter travels from the mountains and ends up at the airport", "completion": "action moves;helicopter;the mountains;the airport END"}
+{"prompt": "A pen is in a room.", "completion": "proposition in;pen;room END"}
+{"prompt": "The traveler goes from Bristol and ends up at Rome's colosseum", "completion": "action moves;traveler;Bristol;Rome's colosseum END"}
+{"prompt": "The pedestrian goes from Bristol and ends up at the airport", "completion": "action moves;pedestrian;Bristol;the airport END"}
+{"prompt": "The tourist starts out at the church and ends up at a beach", "completion": "action moves;tourist;the church;a beach END"}
+{"prompt": "The driver starts out at London and ends up at Rome's colosseum", "completion": "action moves;driver;London;Rome's colosseum END"}
+{"prompt": "The party-goer goes from a shed and ends up at a beach", "completion": "action moves;party-goer;a shed;a beach END"}
+{"prompt": "The helicopter goes from London and ends up at the sea", "completion": "action moves;helicopter;London;the sea END"}
+{"prompt": "The tourist starts out at the mountains and ends up at a beach", "completion": "action moves;tourist;the mountains;a beach END"}
+{"prompt": "The package starts out at a bay and ends up at the airport", "completion": "action moves;package;a bay;the airport END"}
+{"prompt": "The helicopter travels from a bay and ends up at Rome's colosseum", "completion": "action moves;helicopter;a bay;Rome's colosseum END"}
+{"prompt": "The tourist travels from the church and ends up at the airport", "completion": "action moves;tourist;the church;the airport END"}
+{"prompt": "The party-goer goes from London and ends up at a city in another country", "completion": "action moves;party-goer;London;a city in another country END"}
+{"prompt": "The car travels from a party and ends up at a city in another country", "completion": "action moves;car;a party;a city in another country END"}
+{"prompt": "The tourist starts out at the bus stop and ends up at the airport", "completion": "action moves;tourist;the bus stop;the airport END"}
+{"prompt": "A wheel is in a jar.", "completion": "proposition in;wheel;jar END"}
+{"prompt": "The pedestrian starts out at Bristol and ends up at a parking lot", "completion": "action moves;pedestrian;Bristol;a parking lot END"}
+{"prompt": "The pedestrian starts out at the church and ends up at a city in another country", "completion": "action moves;pedestrian;the church;a city in another country END"}
+{"prompt": "The car starts out at a party and ends up at the airport", "completion": "action moves;car;a party;the airport END"}
+{"prompt": "The tourist starts out at a party and ends up at a city in another country", "completion": "action moves;tourist;a party;a city in another country END"}
+{"prompt": "A water is in a jar.", "completion": "proposition in;water;jar END"}
+{"prompt": "The pedestrian goes from London and ends up at a city in another country", "completion": "action moves;pedestrian;London;a city in another country END"}
+{"prompt": "The driver travels from a garage and ends up at Rome's colosseum", "completion": "action moves;driver;a garage;Rome's colosseum END"}
+{"prompt": "The helicopter travels from a bay and ends up at a city in another country", "completion": "action moves;helicopter;a bay;a city in another country END"}
+{"prompt": "The tourist goes from a garage and ends up at a parking lot", "completion": "action moves;tourist;a garage;a parking lot END"}
+{"prompt": "The party-goer goes from a bay and ends up at a city in another country", "completion": "action moves;party-goer;a bay;a city in another country END"}
+{"prompt": "The party-goer goes from a garage and ends up at the airport", "completion": "action moves;party-goer;a garage;the airport END"}
+{"prompt": "The pedestrian goes from a garage and ends up at a beach", "completion": "action moves;pedestrian;a garage;a beach END"}
+{"prompt": "The traveler goes from a party and ends up at Rome's colosseum", "completion": "action moves;traveler;a party;Rome's colosseum END"}
+{"prompt": "Out in the cold.", "completion": "proposition in;out;the cold END"}
+{"prompt": "The driver goes from a bay and ends up at a parking lot", "completion": "action moves;driver;a bay;a parking lot END"}
+{"prompt": "The traveler goes from home and ends up at a beach", "completion": "action moves;traveler;home;a beach END"}
+{"prompt": "A clock is in a room.", "completion": "proposition in;clock;room END"}
+{"prompt": "The traveler travels from London and ends up at a bookstore", "completion": "action moves;traveler;London;a bookstore END"}
+{"prompt": "The traveler starts out at the bus stop and ends up at Rome's colosseum", "completion": "action moves;traveler;the bus stop;Rome's colosseum END"}
+{"prompt": "The driver starts out at the mountains and ends up at a parking lot", "completion": "action moves;driver;the mountains;a parking lot END"}
+{"prompt": "The tourist travels from the church and ends up at the sea", "completion": "action moves;tourist;the church;the sea END"}
+{"prompt": "The pedestrian starts out at home and ends up at a restaurant", "completion": "action moves;pedestrian;home;a restaurant END"}
+{"prompt": "A shirt is in a car.", "completion": "proposition in;shirt;car END"}
+{"prompt": "The traveler travels from London and ends up at Rome's colosseum", "completion": "action moves;traveler;London;Rome's colosseum END"}
+{"prompt": "A doll is in a box.", "completion": "proposition in;doll;box END"}
+{"prompt": "A curtain is in a carriage.", "completion": "proposition in;curtain;carriage END"}
+{"prompt": "The traveler starts out at a shed and ends up at a beach", "completion": "action moves;traveler;a shed;a beach END"}
+{"prompt": "The driver goes from the church and ends up at a bookstore", "completion": "action moves;driver;the church;a bookstore END"}
+{"prompt": "A apple is in a crate.", "completion": "proposition in;apple;crate END"}
+{"prompt": "A stylus is in a jar.", "completion": "proposition in;stylus;jar END"}
+{"prompt": "A car is in a room.", "completion": "proposition in;car;room END"}
+{"prompt": "A spinner is in a carriage.", "completion": "proposition in;spinner;carriage END"}
+{"prompt": "The tourist travels from London and ends up at a parking lot", "completion": "action moves;tourist;London;a parking lot END"}
+{"prompt": "The traveler travels from a party and ends up at the airport", "completion": "action moves;traveler;a party;the airport END"}
+{"prompt": "The helicopter travels from a shed and ends up at a beach", "completion": "action moves;helicopter;a shed;a beach END"}
+{"prompt": "A cheese is in a jar.", "completion": "proposition in;cheese;jar END"}
+{"prompt": "The tourist travels from the mountains and ends up at a restaurant", "completion": "action moves;tourist;the mountains;a restaurant END"}
+{"prompt": "A apple is in a garage.", "completion": "proposition in;apple;garage END"}
+{"prompt": "Happy as a pig in mud.", "completion": "proposition in;pig;mud END"}
+{"prompt": "The driver goes from the bus stop and ends up at a parking lot", "completion": "action moves;driver;the bus stop;a parking lot END"}
+{"prompt": "The party-goer travels from the bus stop and ends up at a bookstore", "completion": "action moves;party-goer;the bus stop;a bookstore END"}
+{"prompt": "The party-goer goes from home and ends up at a city in another country", "completion": "action moves;party-goer;home;a city in another country END"}
+{"prompt": "The party-goer goes from a bay and ends up at a parking lot", "completion": "action moves;party-goer;a bay;a parking lot END"}
+{"prompt": "The traveler goes from the mountains and ends up at a restaurant", "completion": "action moves;traveler;the mountains;a restaurant END"}
+{"prompt": "The package travels from a party and ends up at the sea", "completion": "action moves;package;a party;the sea END"}
+{"prompt": "The pedestrian travels from a garage and ends up at a restaurant", "completion": "action moves;pedestrian;a garage;a restaurant END"}
+{"prompt": "The pedestrian goes from a party and ends up at the sea", "completion": "action moves;pedestrian;a party;the sea END"}
+{"prompt": "The traveler travels from London and ends up at the airport", "completion": "action moves;traveler;London;the airport END"}
+{"prompt": "The traveler goes from a garage and ends up at a parking lot", "completion": "action moves;traveler;a garage;a parking lot END"}
+{"prompt": "The tourist goes from Bristol and ends up at a bookstore", "completion": "action moves;tourist;Bristol;a bookstore END"}
+{"prompt": "A spinner is in a crate.", "completion": "proposition in;spinner;crate END"}
+{"prompt": "The traveler travels from a bay and ends up at a beach", "completion": "action moves;traveler;a bay;a beach END"}
+{"prompt": "A boat is in a crate.", "completion": "proposition in;boat;crate END"}
+{"prompt": "The party-goer goes from a party and ends up at a city in another country", "completion": "action moves;party-goer;a party;a city in another country END"}
+{"prompt": "The helicopter travels from a party and ends up at the sea", "completion": "action moves;helicopter;a party;the sea END"}
+{"prompt": "A button is in a room.", "completion": "proposition in;button;room END"}
+{"prompt": "A peanut is in a car.", "completion": "proposition in;peanut;car END"}
+{"prompt": "The tourist starts out at a shed and ends up at a city in another country", "completion": "action moves;tourist;a shed;a city in another country END"}
+{"prompt": "The driver travels from the mountains and ends up at a beach", "completion": "action moves;driver;the mountains;a beach END"}
+{"prompt": "The party-goer travels from home and ends up at a beach", "completion": "action moves;party-goer;home;a beach END"}
+{"prompt": "The pedestrian goes from the mountains and ends up at a city in another country", "completion": "action moves;pedestrian;the mountains;a city in another country END"}
+{"prompt": "The helicopter travels from a party and ends up at a city in another country", "completion": "action moves;helicopter;a party;a city in another country END"}
+{"prompt": "A boat is in a garage.", "completion": "proposition in;boat;garage END"}
+{"prompt": "A lamp is in a jar.", "completion": "proposition in;lamp;jar END"}
+{"prompt": "The car travels from London and ends up at a restaurant", "completion": "action moves;car;London;a restaurant END"}
+{"prompt": "A peanut is in a garage.", "completion": "proposition in;peanut;garage END"}
+{"prompt": "The pedestrian travels from a garage and ends up at a bookstore", "completion": "action moves;pedestrian;a garage;a bookstore END"}
+{"prompt": "The package goes from London and ends up at a bookstore", "completion": "action moves;package;London;a bookstore END"}
+{"prompt": "A shirt is in a room.", "completion": "proposition in;shirt;room END"}
+{"prompt": "A wheel is in a room.", "completion": "proposition in;wheel;room END"}
+{"prompt": "The helicopter goes from the church and ends up at a parking lot", "completion": "action moves;helicopter;the church;a parking lot END"}
+{"prompt": "The party-goer goes from a bay and ends up at Rome's colosseum", "completion": "action moves;party-goer;a bay;Rome's colosseum END"}
+{"prompt": "A boat is in a fridge.", "completion": "proposition in;boat;fridge END"}
+{"prompt": "The pedestrian goes from the mountains and ends up at a parking lot", "completion": "action moves;pedestrian;the mountains;a parking lot END"}
+{"prompt": "A wheel is in a crate.", "completion": "proposition in;wheel;crate END"}
+{"prompt": "The driver travels from home and ends up at a beach", "completion": "action moves;driver;home;a beach END"}
+{"prompt": "A book is in a crate.", "completion": "proposition in;book;crate END"}
+{"prompt": "The party-goer starts out at a garage and ends up at a restaurant", "completion": "action moves;party-goer;a garage;a restaurant END"}
+{"prompt": "The car goes from London and ends up at Rome's colosseum", "completion": "action moves;car;London;Rome's colosseum END"}
+{"prompt": "The party-goer starts out at a shed and ends up at a bookstore", "completion": "action moves;party-goer;a shed;a bookstore END"}
+{"prompt": "The party-goer starts out at the mountains and ends up at a beach", "completion": "action moves;party-goer;the mountains;a beach END"}
+{"prompt": "The party-goer starts out at a shed and ends up at the sea", "completion": "action moves;party-goer;a shed;the sea END"}
+{"prompt": "The traveler starts out at a shed and ends up at a bookstore", "completion": "action moves;traveler;a shed;a bookstore END"}
+{"prompt": "A doll is in a shed.", "completion": "proposition in;doll;shed END"}
+{"prompt": "The helicopter starts out at a party and ends up at a bookstore", "completion": "action moves;helicopter;a party;a bookstore END"}
+{"prompt": "The driver starts out at London and ends up at a beach", "completion": "action moves;driver;London;a beach END"}
+{"prompt": "A stapler is in a carriage.", "completion": "proposition in;stapler;carriage END"}
+{"prompt": "Head in the sand.", "completion": "proposition in;head;the sand END"}
+{"prompt": "A hammer is in a carriage.", "completion": "proposition in;hammer;carriage END"}
+{"prompt": "The package goes from the bus stop and ends up at a bookstore", "completion": "action moves;package;the bus stop;a bookstore END"}
+{"prompt": "He constantly goes between the bark and the tree.", "completion": "action moves;he;bark;tree END"}
+{"prompt": "The car travels from the mountains and ends up at a city in another country", "completion": "action moves;car;the mountains;a city in another country END"}
+{"prompt": "The helicopter starts out at the church and ends up at a city in another country", "completion": "action moves;helicopter;the church;a city in another country END"}
+{"prompt": "The car goes from Bristol and ends up at a restaurant", "completion": "action moves;car;Bristol;a restaurant END"}
+{"prompt": "The helicopter travels from Bristol and ends up at the sea", "completion": "action moves;helicopter;Bristol;the sea END"}
+{"prompt": "A button is in a fridge.", "completion": "proposition in;button;fridge END"}
+{"prompt": "The traveler starts out at the church and ends up at a restaurant", "completion": "action moves;traveler;the church;a restaurant END"}
+{"prompt": "A book is in a garage.", "completion": "proposition in;book;garage END"}
+{"prompt": "The tourist starts out at a garage and ends up at Rome's colosseum", "completion": "action moves;tourist;a garage;Rome's colosseum END"}
+{"prompt": "A pen is in a carriage.", "completion": "proposition in;pen;carriage END"}
+{"prompt": "A hammer is in a crate.", "completion": "proposition in;hammer;crate END"}
+{"prompt": "The situation went from frying pan to fire.", "completion": "action moves;situation;frying pan;fire END"}
+{"prompt": "A stapler is in a shed.", "completion": "proposition in;stapler;shed END"}
+{"prompt": "A doll is in a room.", "completion": "proposition in;doll;room END"}
+{"prompt": "A boat is in a jar.", "completion": "proposition in;boat;jar END"}
+{"prompt": "A ball is in a box.", "completion": "proposition in;ball;box END"}
+{"prompt": "The tourist goes from Bristol and ends up at a restaurant", "completion": "action moves;tourist;Bristol;a restaurant END"}
+{"prompt": "The party-goer travels from a garage and ends up at a parking lot", "completion": "action moves;party-goer;a garage;a parking lot END"}
+{"prompt": "Two peas in a pod.", "completion": "proposition in;two peas;pod END"}
+{"prompt": "The driver starts out at the bus stop and ends up at a city in another country", "completion": "action moves;driver;the bus stop;a city in another country END"}
+{"prompt": "The package goes from the church and ends up at Rome's colosseum", "completion": "action moves;package;the church;Rome's colosseum END"}
+{"prompt": "The helicopter starts out at a shed and ends up at a bookstore", "completion": "action moves;helicopter;a shed;a bookstore END"}
+{"prompt": "The party-goer starts out at the bus stop and ends up at a parking lot", "completion": "action moves;party-goer;the bus stop;a parking lot END"}
+{"prompt": "The tourist starts out at home and ends up at a bookstore", "completion": "action moves;tourist;home;a bookstore END"}
+{"prompt": "A doll is in a car.", "completion": "proposition in;doll;car END"}
+{"prompt": "Be done in a minute.", "completion": "proposition in;be done;a minute END"}
+{"prompt": "The pedestrian starts out at home and ends up at the sea", "completion": "action moves;pedestrian;home;the sea END"}
+{"prompt": "The helicopter starts out at the church and ends up at Rome's colosseum", "completion": "action moves;helicopter;the church;Rome's colosseum END"}
+{"prompt": "A banana is in a fridge.", "completion": "proposition in;banana;fridge END"}
+{"prompt": "A pencil is in a room.", "completion": "proposition in;pencil;room END"}
+{"prompt": "A water is in a carriage.", "completion": "proposition in;water;carriage END"}
+{"prompt": "The car travels from the bus stop and ends up at a beach", "completion": "action moves;car;the bus stop;a beach END"}
+{"prompt": "A stapler is in a garage.", "completion": "proposition in;stapler;garage END"}
+{"prompt": "The party-goer goes from the church and ends up at a city in another country", "completion": "action moves;party-goer;the church;a city in another country END"}
+{"prompt": "A cheese is in a garage.", "completion": "proposition in;cheese;garage END"}
+{"prompt": "A book is in a pocket.", "completion": "proposition in;book;pocket END"}
+{"prompt": "The driver starts out at Bristol and ends up at a bookstore", "completion": "action moves;driver;Bristol;a bookstore END"}
+{"prompt": "A boat is in a carriage.", "completion": "proposition in;boat;carriage END"}
+{"prompt": "The helicopter starts out at a garage and ends up at a parking lot", "completion": "action moves;helicopter;a garage;a parking lot END"}
+{"prompt": "A stapler is in a pocket.", "completion": "proposition in;stapler;pocket END"}
+{"prompt": "The pedestrian travels from the church and ends up at a restaurant", "completion": "action moves;pedestrian;the church;a restaurant END"}
+{"prompt": "The package starts out at a shed and ends up at a beach", "completion": "action moves;package;a shed;a beach END"}
+{"prompt": "The driver goes from the bus stop and ends up at Rome's colosseum", "completion": "action moves;driver;the bus stop;Rome's colosseum END"}
+{"prompt": "The package goes from a party and ends up at a bookstore", "completion": "action moves;package;a party;a bookstore END"}
+{"prompt": "The traveler travels from a party and ends up at a beach", "completion": "action moves;traveler;a party;a beach END"}
+{"prompt": "The party-goer goes from Bristol and ends up at Rome's colosseum", "completion": "action moves;party-goer;Bristol;Rome's colosseum END"}
+{"prompt": "A button is in a car.", "completion": "proposition in;button;car END"}
+{"prompt": "The helicopter goes from London and ends up at a city in another country", "completion": "action moves;helicopter;London;a city in another country END"}
+{"prompt": "The pedestrian starts out at the church and ends up at a bookstore", "completion": "action moves;pedestrian;the church;a bookstore END"}
+{"prompt": "The package starts out at London and ends up at a parking lot", "completion": "action moves;package;London;a parking lot END"}
+{"prompt": "The traveler travels from a bay and ends up at a restaurant", "completion": "action moves;traveler;a bay;a restaurant END"}
+{"prompt": "The car goes from a shed and ends up at the airport", "completion": "action moves;car;a shed;the airport END"}
+{"prompt": "The helicopter goes from the church and ends up at a beach", "completion": "action moves;helicopter;the church;a beach END"}
+{"prompt": "A pen is in a fridge.", "completion": "proposition in;pen;fridge END"}
+{"prompt": "The pedestrian travels from the mountains and ends up at a restaurant", "completion": "action moves;pedestrian;the mountains;a restaurant END"}
+{"prompt": "A button is in a box.", "completion": "proposition in;button;box END"}
+{"prompt": "A lamp is in a shed.", "completion": "proposition in;lamp;shed END"}
+{"prompt": "The party-goer travels from the church and ends up at the sea", "completion": "action moves;party-goer;the church;the sea END"}
+{"prompt": "The pedestrian starts out at London and ends up at Rome's colosseum", "completion": "action moves;pedestrian;London;Rome's colosseum END"}
+{"prompt": "A doll is in a carriage.", "completion": "proposition in;doll;carriage END"}
+{"prompt": "The driver travels from a shed and ends up at the airport", "completion": "action moves;driver;a shed;the airport END"}
+{"prompt": "The driver goes from a party and ends up at the airport", "completion": "action moves;driver;a party;the airport END"}
+{"prompt": "The car goes from a shed and ends up at a beach", "completion": "action moves;car;a shed;a beach END"}
+{"prompt": "The tourist starts out at home and ends up at the sea", "completion": "action moves;tourist;home;the sea END"}
+{"prompt": "She developed from a beginner into a chess master.", "completion": "proposition at;she;beginner END"}
+{"prompt": "The party-goer travels from London and ends up at a bookstore", "completion": "action moves;party-goer;London;a bookstore END"}
+{"prompt": "The car travels from a bay and ends up at a parking lot", "completion": "action moves;car;a bay;a parking lot END"}
+{"prompt": "A banana is in a jar.", "completion": "proposition in;banana;jar END"}
+{"prompt": "The party-goer starts out at Bristol and ends up at a parking lot", "completion": "action moves;party-goer;Bristol;a parking lot END"}
+{"prompt": "The traveler goes from a bay and ends up at the sea", "completion": "action moves;traveler;a bay;the sea END"}
+{"prompt": "A button is in a vase.", "completion": "proposition in;button;vase END"}
+{"prompt": "The party-goer goes from London and ends up at the airport", "completion": "action moves;party-goer;London;the airport END"}
+{"prompt": "A lightbulb is in a garage.", "completion": "proposition in;lightbulb;garage END"}
+{"prompt": "The pedestrian goes from a garage and ends up at the sea", "completion": "action moves;pedestrian;a garage;the sea END"}
+{"prompt": "The traveler starts out at London and ends up at a parking lot", "completion": "action moves;traveler;London;a parking lot END"}
+{"prompt": "A doorknob is in a jar.", "completion": "proposition in;doorknob;jar END"}
+{"prompt": "A chicken is in a crate.", "completion": "proposition in;chicken;crate END"}
+{"prompt": "A water is in a shed.", "completion": "proposition in;water;shed END"}
+{"prompt": "The pedestrian travels from Bristol and ends up at the sea", "completion": "action moves;pedestrian;Bristol;the sea END"}
+{"prompt": "The helicopter starts out at a shed and ends up at a parking lot", "completion": "action moves;helicopter;a shed;a parking lot END"}
+{"prompt": "The helicopter starts out at home and ends up at a city in another country", "completion": "action moves;helicopter;home;a city in another country END"}
+{"prompt": "The package starts out at Bristol and ends up at a bookstore", "completion": "action moves;package;Bristol;a bookstore END"}
+{"prompt": "The party-goer starts out at a bay and ends up at a beach", "completion": "action moves;party-goer;a bay;a beach END"}
+{"prompt": "The pedestrian travels from the bus stop and ends up at a restaurant", "completion": "action moves;pedestrian;the bus stop;a restaurant END"}
+{"prompt": "The car goes from a garage and ends up at a restaurant", "completion": "action moves;car;a garage;a restaurant END"}
+{"prompt": "A book is in a fridge.", "completion": "proposition in;book;fridge END"}
+{"prompt": "The pedestrian starts out at a bay and ends up at the airport", "completion": "action moves;pedestrian;a bay;the airport END"}
+{"prompt": "The package travels from a bay and ends up at a beach", "completion": "action moves;package;a bay;a beach END"}
+{"prompt": "The party-goer starts out at a bay and ends up at the sea", "completion": "action moves;party-goer;a bay;the sea END"}
+{"prompt": "The party-goer travels from the church and ends up at a restaurant", "completion": "action moves;party-goer;the church;a restaurant END"}
+{"prompt": "A battery is in a jar.", "completion": "proposition in;battery;jar END"}
+{"prompt": "The helicopter goes from a bay and ends up at the airport", "completion": "action moves;helicopter;a bay;the airport END"}
+{"prompt": "The party-goer goes from a party and ends up at the sea", "completion": "action moves;party-goer;a party;the sea END"}
+{"prompt": "The tourist goes from London and ends up at a city in another country", "completion": "action moves;tourist;London;a city in another country END"}
+{"prompt": "A yogurt is in a garage.", "completion": "proposition in;yogurt;garage END"}
+{"prompt": "The traveler travels from a party and ends up at a parking lot", "completion": "action moves;traveler;a party;a parking lot END"}
+{"prompt": "Locked in an embrace.", "completion": "proposition in;locked;embrace END"}
+{"prompt": "A ball is in a vase.", "completion": "proposition in;ball;vase END"}
+{"prompt": "A stylus is in a shed.", "completion": "proposition in;stylus;shed END"}
+{"prompt": "The party-goer travels from Bristol and ends up at the airport", "completion": "action moves;party-goer;Bristol;the airport END"}
+{"prompt": "A yogurt is in a shed.", "completion": "proposition in;yogurt;shed END"}
+{"prompt": "The party-goer travels from the bus stop and ends up at a beach", "completion": "action moves;party-goer;the bus stop;a beach END"}
+{"prompt": "The tourist goes from a party and ends up at Rome's colosseum", "completion": "action moves;tourist;a party;Rome's colosseum END"}
+{"prompt": "The car starts out at a bay and ends up at a beach", "completion": "action moves;car;a bay;a beach END"}
+{"prompt": "The tourist travels from London and ends up at a bookstore", "completion": "action moves;tourist;London;a bookstore END"}
+{"prompt": "A cheese is in a room.", "completion": "proposition in;cheese;room END"}
+{"prompt": "The car travels from a garage and ends up at a parking lot", "completion": "action moves;car;a garage;a parking lot END"}
+{"prompt": "List everything from A to Z.", "completion": "proposition at;everything;A END"}
+{"prompt": "The traveler starts out at the mountains and ends up at a city in another country", "completion": "action moves;traveler;the mountains;a city in another country END"}
+{"prompt": "A clock is in a shed.", "completion": "proposition in;clock;shed END"}
+{"prompt": "A stylus is in a carriage.", "completion": "proposition in;stylus;carriage END"}
+{"prompt": "A stylus is in a fridge.", "completion": "proposition in;stylus;fridge END"}
+{"prompt": "The car travels from a shed and ends up at a parking lot", "completion": "action moves;car;a shed;a parking lot END"}
+{"prompt": "A pen is in a shed.", "completion": "proposition in;pen;shed END"}
+{"prompt": "The car starts out at the bus stop and ends up at the airport", "completion": "action moves;car;the bus stop;the airport END"}
+{"prompt": "A bird is in a box.", "completion": "proposition in;bird;box END"}
+{"prompt": "The package goes from Bristol and ends up at a restaurant", "completion": "action moves;package;Bristol;a restaurant END"}
+{"prompt": "The pedestrian starts out at home and ends up at a bookstore", "completion": "action moves;pedestrian;home;a bookstore END"}
+{"prompt": "A spinner is in a jar.", "completion": "proposition in;spinner;jar END"}
+{"prompt": "The party-goer goes from a bay and ends up at the airport", "completion": "action moves;party-goer;a bay;the airport END"}
+{"prompt": "A doorknob is in a box.", "completion": "proposition in;doorknob;box END"}
+{"prompt": "The helicopter starts out at home and ends up at a restaurant", "completion": "action moves;helicopter;home;a restaurant END"}
+{"prompt": "The helicopter travels from the mountains and ends up at a bookstore", "completion": "action moves;helicopter;the mountains;a bookstore END"}
+{"prompt": "A salt is in a jar.", "completion": "proposition in;salt;jar END"}
+{"prompt": "The car travels from a garage and ends up at a beach", "completion": "action moves;car;a garage;a beach END"}
+{"prompt": "A cheese is in a car.", "completion": "proposition in;cheese;car END"}
+{"prompt": "The tourist goes from the church and ends up at Rome's colosseum", "completion": "action moves;tourist;the church;Rome's colosseum END"}
+{"prompt": "The helicopter travels from the mountains and ends up at the sea", "completion": "action moves;helicopter;the mountains;the sea END"}
+{"prompt": "A apple is in a carriage.", "completion": "proposition in;apple;carriage END"}
+{"prompt": "The pedestrian goes from a shed and ends up at a city in another country", "completion": "action moves;pedestrian;a shed;a city in another country END"}
+{"prompt": "The package goes from London and ends up at a restaurant", "completion": "action moves;package;London;a restaurant END"}
+{"prompt": "The traveler goes from the church and ends up at the airport", "completion": "action moves;traveler;the church;the airport END"}
+{"prompt": "The driver goes from a shed and ends up at a bookstore", "completion": "action moves;driver;a shed;a bookstore END"}
+{"prompt": "A shirt is in a fridge.", "completion": "proposition in;shirt;fridge END"}
+{"prompt": "Let's begin and go from top to bottom.", "completion": "action moves;us;top;bottom END"}
+{"prompt": "The tourist goes from the bus stop and ends up at the sea", "completion": "action moves;tourist;the bus stop;the sea END"}
+{"prompt": "The tourist starts out at London and ends up at a restaurant", "completion": "action moves;tourist;London;a restaurant END"}
+{"prompt": "The tourist travels from Bristol and ends up at a parking lot", "completion": "action moves;tourist;Bristol;a parking lot END"}
+{"prompt": "The party-goer goes from home and ends up at the sea", "completion": "action moves;party-goer;home;the sea END"}
+{"prompt": "A cheese is in a carriage.", "completion": "proposition in;cheese;carriage END"}
+{"prompt": "The traveler travels from a bay and ends up at a city in another country", "completion": "action moves;traveler;a bay;a city in another country END"}
+{"prompt": "The car starts out at the church and ends up at the airport", "completion": "action moves;car;the church;the airport END"}
+{"prompt": "A cheese is in a shed.", "completion": "proposition in;cheese;shed END"}
+{"prompt": "A water is in a garage.", "completion": "proposition in;water;garage END"}
+{"prompt": "A wheel is in a garage.", "completion": "proposition in;wheel;garage END"}
+{"prompt": "The car goes from the church and ends up at a beach", "completion": "action moves;car;the church;a beach END"}
+{"prompt": "The driver travels from a shed and ends up at a beach", "completion": "action moves;driver;a shed;a beach END"}
+{"prompt": "A book is in a vase.", "completion": "proposition in;book;vase END"}
+{"prompt": "The pedestrian starts out at the church and ends up at Rome's colosseum", "completion": "action moves;pedestrian;the church;Rome's colosseum END"}
+{"prompt": "The pedestrian starts out at a party and ends up at Rome's colosseum", "completion": "action moves;pedestrian;a party;Rome's colosseum END"}
+{"prompt": "A car is in a fridge.", "completion": "proposition in;car;fridge END"}
+{"prompt": "The party-goer travels from home and ends up at the airport", "completion": "action moves;party-goer;home;the airport END"}
+{"prompt": "The party-goer goes from Bristol and ends up at the sea", "completion": "action moves;party-goer;Bristol;the sea END"}
+{"prompt": "A lightbulb is in a car.", "completion": "proposition in;lightbulb;car END"}
+{"prompt": "The package starts out at the mountains and ends up at Rome's colosseum", "completion": "action moves;package;the mountains;Rome's colosseum END"}
+{"prompt": "A stylus is in a garage.", "completion": "proposition in;stylus;garage END"}
+{"prompt": "The traveler travels from the bus stop and ends up at the sea", "completion": "action moves;traveler;the bus stop;the sea END"}
+{"prompt": "A doll is in a crate.", "completion": "proposition in;doll;crate END"}
+{"prompt": "The helicopter goes from the mountains and ends up at a city in another country", "completion": "action moves;helicopter;the mountains;a city in another country END"}
+{"prompt": "She grinned from ear to ear.", "completion": "proposition at;grinned;ear END"}
+{"prompt": "A wheel is in a car.", "completion": "proposition in;wheel;car END"}
+{"prompt": "The party-goer goes from the church and ends up at a bookstore", "completion": "action moves;party-goer;the church;a bookstore END"}
+{"prompt": "The car travels from London and ends up at a city in another country", "completion": "action moves;car;London;a city in another country END"}
+{"prompt": "A doorknob is in a garage.", "completion": "proposition in;doorknob;garage END"}
+{"prompt": "The traveler starts out at London and ends up at a beach", "completion": "action moves;traveler;London;a beach END"}
+{"prompt": "The tourist starts out at a bay and ends up at a restaurant", "completion": "action moves;tourist;a bay;a restaurant END"}
+{"prompt": "The traveler travels from the bus stop and ends up at a bookstore", "completion": "action moves;traveler;the bus stop;a bookstore END"}
+{"prompt": "A apple is in a jar.", "completion": "proposition in;apple;jar END"}
+{"prompt": "The party-goer travels from a garage and ends up at the sea", "completion": "action moves;party-goer;a garage;the sea END"}
+{"prompt": "The pedestrian goes from Bristol and ends up at a beach", "completion": "action moves;pedestrian;Bristol;a beach END"}
+{"prompt": "A banana is in a garage.", "completion": "proposition in;banana;garage END"}
+{"prompt": "Stopped dead in his tracks.", "completion": "proposition in;stopped dead;his tracks END"}
+{"prompt": "A hammer is in a box.", "completion": "proposition in;hammer;box END"}
+{"prompt": "Overnight, he went from zero to hero.", "completion": "action moves;he;zero;hero END"}
+{"prompt": "A button is in a jar.", "completion": "proposition in;button;jar END"}
+{"prompt": "The driver goes from a party and ends up at a restaurant", "completion": "action moves;driver;a party;a restaurant END"}
+{"prompt": "A spinner is in a box.", "completion": "proposition in;spinner;box END"}
+{"prompt": "The package travels from a shed and ends up at a bookstore", "completion": "action moves;package;a shed;a bookstore END"}
+{"prompt": "A salt is in a carriage.", "completion": "proposition in;salt;carriage END"}
+{"prompt": "A curtain is in a box.", "completion": "proposition in;curtain;box END"}
+{"prompt": "The car travels from a garage and ends up at a bookstore", "completion": "action moves;car;a garage;a bookstore END"}
+{"prompt": "The traveler goes from the bus stop and ends up at the airport", "completion": "action moves;traveler;the bus stop;the airport END"}
+{"prompt": "A pencil is in a vase.", "completion": "proposition in;pencil;vase END"}
+{"prompt": "The driver travels from a bay and ends up at the airport", "completion": "action moves;driver;a bay;the airport END"}
+{"prompt": "A battery is in a shed.", "completion": "proposition in;battery;shed END"}
+{"prompt": "The party-goer travels from the mountains and ends up at Rome's colosseum", "completion": "action moves;party-goer;the mountains;Rome's colosseum END"}
+{"prompt": "A spinner is in a fridge.", "completion": "proposition in;spinner;fridge END"}
+{"prompt": "The tourist travels from a bay and ends up at Rome's colosseum", "completion": "action moves;tourist;a bay;Rome's colosseum END"}
+{"prompt": "The tourist goes from a shed and ends up at a bookstore", "completion": "action moves;tourist;a shed;a bookstore END"}
+{"prompt": "A clock is in a fridge.", "completion": "proposition in;clock;fridge END"}
+{"prompt": "A peanut is in a pocket.", "completion": "proposition in;peanut;pocket END"}
+{"prompt": "A yogurt is in a car.", "completion": "proposition in;yogurt;car END"}
+{"prompt": "The driver starts out at the mountains and ends up at a city in another country", "completion": "action moves;driver;the mountains;a city in another country END"}
+{"prompt": "A hammer is in a garage.", "completion": "proposition in;hammer;garage END"}
+{"prompt": "The traveler goes from Bristol and ends up at a parking lot", "completion": "action moves;traveler;Bristol;a parking lot END"}
+{"prompt": "The driver travels from a party and ends up at a parking lot", "completion": "action moves;driver;a party;a parking lot END"}
+{"prompt": "She switched from knitting to painting.", "completion": "proposition at;she;knitting END"}
+{"prompt": "The pedestrian goes from Bristol and ends up at a restaurant", "completion": "action moves;pedestrian;Bristol;a restaurant END"}
+{"prompt": "Lost in thought.", "completion": "proposition in;lost;thought END"}
+{"prompt": "The traveler starts out at a party and ends up at a restaurant", "completion": "action moves;traveler;a party;a restaurant END"}
+{"prompt": "The traveler starts out at Bristol and ends up at the airport", "completion": "action moves;traveler;Bristol;the airport END"}
+{"prompt": "The package starts out at a garage and ends up at the sea", "completion": "action moves;package;a garage;the sea END"}
+{"prompt": "A lightbulb is in a shed.", "completion": "proposition in;lightbulb;shed END"}
+{"prompt": "A doorknob is in a carriage.", "completion": "proposition in;doorknob;carriage END"}
+{"prompt": "The package goes from the church and ends up at a beach", "completion": "action moves;package;the church;a beach END"}
+{"prompt": "A banana is in a room.", "completion": "proposition in;banana;room END"}
+{"prompt": "The tourist travels from London and ends up at the sea", "completion": "action moves;tourist;London;the sea END"}
+{"prompt": "The helicopter starts out at the bus stop and ends up at the sea", "completion": "action moves;helicopter;the bus stop;the sea END"}
+{"prompt": "The helicopter starts out at a shed and ends up at the airport", "completion": "action moves;helicopter;a shed;the airport END"}
+{"prompt": "The package starts out at a bay and ends up at a restaurant", "completion": "action moves;package;a bay;a restaurant END"}
+{"prompt": "A spinner is in a shed.", "completion": "proposition in;spinner;shed END"}
+{"prompt": "The pedestrian goes from London and ends up at a beach", "completion": "action moves;pedestrian;London;a beach END"}
+{"prompt": "The car goes from the mountains and ends up at a parking lot", "completion": "action moves;car;the mountains;a parking lot END"}
+{"prompt": "Their life is from hand to mouth.", "completion": "proposition at;their life;hand END"}
+{"prompt": "A curtain is in a fridge.", "completion": "proposition in;curtain;fridge END"}
+{"prompt": "The package travels from the mountains and ends up at the airport", "completion": "action moves;package;the mountains;the airport END"}
+{"prompt": "A stapler is in a room.", "completion": "proposition in;stapler;room END"}
+{"prompt": "The pedestrian starts out at a garage and ends up at Rome's colosseum", "completion": "action moves;pedestrian;a garage;Rome's colosseum END"}
+{"prompt": "The package starts out at the church and ends up at a parking lot", "completion": "action moves;package;the church;a parking lot END"}
+{"prompt": "The helicopter starts out at home and ends up at the airport", "completion": "action moves;helicopter;home;the airport END"}
+{"prompt": "The package starts out at the church and ends up at the sea", "completion": "action moves;package;the church;the sea END"}
+{"prompt": "The package starts out at home and ends up at a restaurant", "completion": "action moves;package;home;a restaurant END"}
+{"prompt": "The helicopter goes from the bus stop and ends up at a bookstore", "completion": "action moves;helicopter;the bus stop;a bookstore END"}
+{"prompt": "A car is in a jar.", "completion": "proposition in;car;jar END"}
+{"prompt": "The tourist goes from home and ends up at a restaurant", "completion": "action moves;tourist;home;a restaurant END"}
+{"prompt": "The tourist travels from the bus stop and ends up at a restaurant", "completion": "action moves;tourist;the bus stop;a restaurant END"}
+{"prompt": "The driver starts out at London and ends up at the sea", "completion": "action moves;driver;London;the sea END"}
+{"prompt": "The driver travels from a bay and ends up at a bookstore", "completion": "action moves;driver;a bay;a bookstore END"}
+{"prompt": "The driver starts out at home and ends up at a parking lot", "completion": "action moves;driver;home;a parking lot END"}
+{"prompt": "The traveler starts out at a garage and ends up at a city in another country", "completion": "action moves;traveler;a garage;a city in another country END"}
+{"prompt": "The traveler goes from a party and ends up at the sea", "completion": "action moves;traveler;a party;the sea END"}
+{"prompt": "The party-goer starts out at London and ends up at Rome's colosseum", "completion": "action moves;party-goer;London;Rome's colosseum END"}
+{"prompt": "A lightbulb is in a pocket.", "completion": "proposition in;lightbulb;pocket END"}
+{"prompt": "The pedestrian travels from the church and ends up at a beach", "completion": "action moves;pedestrian;the church;a beach END"}
+{"prompt": "The pedestrian starts out at a party and ends up at a beach", "completion": "action moves;pedestrian;a party;a beach END"}
+{"prompt": "A stapler is in a vase.", "completion": "proposition in;stapler;vase END"}
+{"prompt": "A peanut is in a vase.", "completion": "proposition in;peanut;vase END"}
+{"prompt": "A doorknob is in a car.", "completion": "proposition in;doorknob;car END"}
+{"prompt": "The driver travels from the church and ends up at Rome's colosseum", "completion": "action moves;driver;the church;Rome's colosseum END"}
+{"prompt": "A peanut is in a jar.", "completion": "proposition in;peanut;jar END"}
+{"prompt": "The helicopter goes from a shed and ends up at Rome's colosseum", "completion": "action moves;helicopter;a shed;Rome's colosseum END"}
+{"prompt": "The party-goer starts out at a garage and ends up at a beach", "completion": "action moves;party-goer;a garage;a beach END"}
+{"prompt": "The package goes from the mountains and ends up at a parking lot", "completion": "action moves;package;the mountains;a parking lot END"}
+{"prompt": "A vest is in a carriage.", "completion": "proposition in;vest;carriage END"}
+{"prompt": "A banana is in a crate.", "completion": "proposition in;banana;crate END"}
+{"prompt": "The package goes from a bay and ends up at a city in another country", "completion": "action moves;package;a bay;a city in another country END"}
+{"prompt": "A stapler is in a fridge.", "completion": "proposition in;stapler;fridge END"}
+{"prompt": "A apple is in a shed.", "completion": "proposition in;apple;shed END"}
+{"prompt": "The party-goer travels from the bus stop and ends up at the airport", "completion": "action moves;party-goer;the bus stop;the airport END"}
+{"prompt": "The package goes from a shed and ends up at a restaurant", "completion": "action moves;package;a shed;a restaurant END"}
+{"prompt": "A spinner is in a room.", "completion": "proposition in;spinner;room END"}
+{"prompt": "The car goes from Bristol and ends up at the airport", "completion": "action moves;car;Bristol;the airport END"}
+{"prompt": "A stylus is in a box.", "completion": "proposition in;stylus;box END"}
+{"prompt": "The package starts out at a party and ends up at a restaurant", "completion": "action moves;package;a party;a restaurant END"}
+{"prompt": "The helicopter travels from a bay and ends up at a restaurant", "completion": "action moves;helicopter;a bay;a restaurant END"}
+{"prompt": "The driver travels from a garage and ends up at the sea", "completion": "action moves;driver;a garage;the sea END"}
+{"prompt": "The traveler goes from a garage and ends up at the airport", "completion": "action moves;traveler;a garage;the airport END"}
+{"prompt": "The tourist goes from the mountains and ends up at a city in another country", "completion": "action moves;tourist;the mountains;a city in another country END"}
+{"prompt": "The pedestrian starts out at home and ends up at Rome's colosseum", "completion": "action moves;pedestrian;home;Rome's colosseum END"}
+{"prompt": "The driver travels from a shed and ends up at the sea", "completion": "action moves;driver;a shed;the sea END"}
+{"prompt": "The tourist travels from Bristol and ends up at a city in another country", "completion": "action moves;tourist;Bristol;a city in another country END"}
+{"prompt": "There's nothing in the room.", "completion": "proposition in;nothing;the room END"}
+{"prompt": "The package travels from a bay and ends up at Rome's colosseum", "completion": "action moves;package;a bay;Rome's colosseum END"}
+{"prompt": "The car goes from the mountains and ends up at a beach", "completion": "action moves;car;the mountains;a beach END"}
+{"prompt": "The pedestrian starts out at the church and ends up at the airport", "completion": "action moves;pedestrian;the church;the airport END"}
+{"prompt": "A peanut is in a fridge.", "completion": "proposition in;peanut;fridge END"}
+{"prompt": "A pencil is in a carriage.", "completion": "proposition in;pencil;carriage END"}
+{"prompt": "The tourist travels from home and ends up at the airport", "completion": "action moves;tourist;home;the airport END"}

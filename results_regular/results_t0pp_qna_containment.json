@@ -1,0 +1,608 @@
+{
+    "literal": {
+        "0": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A car is in a box.",
+            "answer": "No"
+        },
+        "1": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A shirt is in a car.",
+            "answer": "No"
+        },
+        "2": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A chicken is in a jar.",
+            "answer": "Yes"
+        },
+        "3": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A curtain is in a fridge.",
+            "answer": "No"
+        },
+        "4": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A doorknob is in a shed.",
+            "answer": "No"
+        },
+        "5": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A lamp is in a room.",
+            "answer": "Yes"
+        },
+        "6": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A yogurt is in a crate.",
+            "answer": "No"
+        },
+        "7": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A wheel is in a crate.",
+            "answer": "Yes"
+        },
+        "8": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A vest is in a fridge.",
+            "answer": "No"
+        },
+        "9": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A stapler is in a car.",
+            "answer": "No"
+        },
+        "10": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A boat is in a crate.",
+            "answer": "Yes"
+        },
+        "11": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A pencil is in a shed.",
+            "answer": "No"
+        },
+        "12": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A apple is in a box.",
+            "answer": "Yes"
+        },
+        "13": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A water is in a fridge.",
+            "answer": "No"
+        },
+        "14": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A salt is in a box.",
+            "answer": "No"
+        },
+        "15": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A bird is in a vase.",
+            "answer": "Yes"
+        },
+        "16": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A hammer is in a shed.",
+            "answer": "No"
+        },
+        "17": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A car is in a car.",
+            "answer": "No"
+        },
+        "18": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A apple is in a garage.",
+            "answer": "No"
+        },
+        "19": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A lamp is in a car.",
+            "answer": "No"
+        },
+        "20": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A apple is in a pocket.",
+            "answer": "Yes"
+        },
+        "21": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A doll is in a room.",
+            "answer": "Yes"
+        },
+        "22": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A curtain is in a fridge.",
+            "answer": "No"
+        },
+        "23": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A clock is in a jar.",
+            "answer": "Yes"
+        },
+        "24": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A shirt is in a car.",
+            "answer": "No"
+        },
+        "25": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A spinner is in a carriage.",
+            "answer": "No"
+        },
+        "26": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A lamp is in a car.",
+            "answer": "No"
+        },
+        "27": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A spinner is in a box.",
+            "answer": "Yes"
+        },
+        "28": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A button is in a jar.",
+            "answer": "Yes"
+        },
+        "29": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A curtain is in a fridge.",
+            "answer": "No"
+        },
+        "30": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A doorknob is in a box.",
+            "answer": "Yes"
+        },
+        "31": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A button is in a shed.",
+            "answer": "No"
+        },
+        "32": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A battery is in a car.",
+            "answer": "No"
+        },
+        "33": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A stylus is in a vase.",
+            "answer": "No"
+        },
+        "34": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A doorknob is in a fridge.",
+            "answer": "No"
+        },
+        "35": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A lamp is in a carriage.",
+            "answer": "No"
+        },
+        "36": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A curtain is in a garage.",
+            "answer": "No"
+        },
+        "37": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A wheel is in a car.",
+            "answer": "Yes"
+        },
+        "38": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A vest is in a carriage.",
+            "answer": "No"
+        },
+        "39": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A chicken is in a jar.",
+            "answer": "Yes"
+        },
+        "40": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A hammer is in a pocket.",
+            "answer": "No"
+        },
+        "41": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A pen is in a shed.",
+            "answer": "No"
+        },
+        "42": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A bird is in a crate.",
+            "answer": "Yes"
+        },
+        "43": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A water is in a shed.",
+            "answer": "No"
+        },
+        "44": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A banana is in a jar.",
+            "answer": "Yes"
+        },
+        "45": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A lamp is in a fridge.",
+            "answer": "No"
+        },
+        "46": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A button is in a garage.",
+            "answer": "No"
+        },
+        "47": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A stapler is in a vase.",
+            "answer": "No"
+        },
+        "48": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A pencil is in a fridge.",
+            "answer": "No"
+        },
+        "49": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A yogurt is in a fridge.",
+            "answer": "No"
+        }
+    },
+    "non-literal": {
+        "0": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: Missing in action.",
+            "answer": "No"
+        },
+        "1": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: We agree in principle.",
+            "answer": "No"
+        },
+        "2": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: Two peas in a pod.",
+            "answer": "Yes"
+        },
+        "3": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: Locked in an embrace.",
+            "answer": "No"
+        },
+        "4": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: Brothers in arms.",
+            "answer": "No"
+        },
+        "5": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: Two in one.",
+            "answer": "No"
+        },
+        "6": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: Out in the cold.",
+            "answer": "No"
+        },
+        "7": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: I'm in possession of important data.",
+            "answer": "No"
+        },
+        "8": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: This shirt is in vogue.",
+            "answer": "No"
+        },
+        "9": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: Tongue in cheek.",
+            "answer": "No"
+        },
+        "10": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: All in due course.",
+            "answer": "No"
+        },
+        "11": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: Without a care in the world.",
+            "answer": "No"
+        },
+        "12": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A storm in a teacup.",
+            "answer": "No"
+        },
+        "13": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A damsel in distress.",
+            "answer": "No"
+        },
+        "14": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: Head in the sand.",
+            "answer": "No"
+        },
+        "15": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A case study in good writing.",
+            "answer": "No"
+        },
+        "16": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: Stuck in a rut.",
+            "answer": "No"
+        },
+        "17": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: Marching in lockstep.",
+            "answer": "No"
+        },
+        "18": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: Hand in hand.",
+            "answer": "No"
+        },
+        "19": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: Keep in touch with us.",
+            "answer": "No"
+        },
+        "20": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: Stopped dead in his tracks.",
+            "answer": "No"
+        },
+        "21": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A match made in heaven.",
+            "answer": "No"
+        },
+        "22": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: Happy as a pig in mud.",
+            "answer": "No"
+        },
+        "23": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: Everything in its place.",
+            "answer": "No"
+        },
+        "24": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: They're in a good mood.",
+            "answer": "No"
+        },
+        "25": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: There's nothing in the room.",
+            "answer": "No"
+        },
+        "26": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: You're in luck.",
+            "answer": "No"
+        },
+        "27": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: Leave in a hurry.",
+            "answer": "No"
+        },
+        "28": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: Bask in the glow.",
+            "answer": "No"
+        },
+        "29": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A flash in the pan.",
+            "answer": "No"
+        },
+        "30": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: It depends in some measure on time.",
+            "answer": "No"
+        },
+        "31": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: One in a million.",
+            "answer": "No"
+        },
+        "32": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: Once in a blue moon.",
+            "answer": "No"
+        },
+        "33": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: Lost in thought.",
+            "answer": "No"
+        },
+        "34": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: Done in one sitting.",
+            "answer": "No"
+        },
+        "35": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: What in tarnation?",
+            "answer": "No"
+        },
+        "36": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A footnote in history.",
+            "answer": "No"
+        },
+        "37": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: She's in control.",
+            "answer": "No"
+        },
+        "38": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: All in all, it was ok.",
+            "answer": "No"
+        },
+        "39": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: Be done in a minute.",
+            "answer": "No"
+        },
+        "40": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: Best in class.",
+            "answer": "No"
+        },
+        "41": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A foot in the door.",
+            "answer": "No"
+        },
+        "42": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: State in plain English.",
+            "answer": "No"
+        },
+        "43": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: A step in the right direction.",
+            "answer": "No"
+        },
+        "44": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: Solved in a nick of time.",
+            "answer": "No"
+        },
+        "45": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: Extra spring in one's step.",
+            "answer": "No"
+        },
+        "46": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: Heart in the right place.",
+            "answer": "No"
+        },
+        "47": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: We're back in business.",
+            "answer": "No"
+        },
+        "48": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: I have an in with them.",
+            "answer": "No"
+        },
+        "49": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: Fall in love.",
+            "answer": "No"
+        }
+    },
+    "distraction": {
+        "0": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The normal profile of a doll.",
+            "answer": "No"
+        },
+        "1": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The strange shape of a wheel.",
+            "answer": "No"
+        },
+        "2": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The normal length of a doorknob.",
+            "answer": "No"
+        },
+        "3": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The strange length of a apple.",
+            "answer": "No"
+        },
+        "4": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The typical surface of a stylus.",
+            "answer": "No"
+        },
+        "5": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The strange surface of a lightbulb.",
+            "answer": "No"
+        },
+        "6": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The specific example of a vest.",
+            "answer": "No"
+        },
+        "7": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The specific part of a pen.",
+            "answer": "No"
+        },
+        "8": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The specific profile of a battery.",
+            "answer": "No"
+        },
+        "9": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The normal shape of a vest.",
+            "answer": "No"
+        },
+        "10": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The specific example of a stylus.",
+            "answer": "No"
+        },
+        "11": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The strange type of a car.",
+            "answer": "No"
+        },
+        "12": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The typical length of a clock.",
+            "answer": "No"
+        },
+        "13": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The normal profile of a apple.",
+            "answer": "No"
+        },
+        "14": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The specific example of a hammer.",
+            "answer": "No"
+        },
+        "15": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The peculiar color of a vest.",
+            "answer": "No"
+        },
+        "16": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The strange surface of a boat.",
+            "answer": "No"
+        },
+        "17": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The peculiar weight of a doorknob.",
+            "answer": "No"
+        },
+        "18": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The peculiar example of a chicken.",
+            "answer": "No"
+        },
+        "19": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The specific example of a ball.",
+            "answer": "No"
+        },
+        "20": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The specific surface of a boat.",
+            "answer": "No"
+        },
+        "21": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The typical type of a pencil.",
+            "answer": "No"
+        },
+        "22": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The specific shape of a vest.",
+            "answer": "No"
+        },
+        "23": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The strange length of a salt.",
+            "answer": "No"
+        },
+        "24": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The normal type of a boat.",
+            "answer": "No"
+        },
+        "25": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The strange length of a lamp.",
+            "answer": "No"
+        },
+        "26": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The normal color of a banana.",
+            "answer": "No"
+        },
+        "27": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The normal shape of a hammer.",
+            "answer": "No"
+        },
+        "28": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The strange part of a boat.",
+            "answer": "No"
+        },
+        "29": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The normal example of a apple.",
+            "answer": "No"
+        },
+        "30": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The typical surface of a vest.",
+            "answer": "No"
+        },
+        "31": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The normal length of a yogurt.",
+            "answer": "No"
+        },
+        "32": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The peculiar color of a clock.",
+            "answer": "No"
+        },
+        "33": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The typical part of a salt.",
+            "answer": "No"
+        },
+        "34": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The typical surface of a doll.",
+            "answer": "No"
+        },
+        "35": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The typical example of a clock.",
+            "answer": "No"
+        },
+        "36": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The specific part of a stapler.",
+            "answer": "No"
+        },
+        "37": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The normal shape of a curtain.",
+            "answer": "No"
+        },
+        "38": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The specific type of a spinner.",
+            "answer": "No"
+        },
+        "39": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The peculiar color of a apple.",
+            "answer": "No"
+        },
+        "40": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The specific surface of a battery.",
+            "answer": "No"
+        },
+        "41": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The normal shape of a stapler.",
+            "answer": "No"
+        },
+        "42": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The specific shape of a pen.",
+            "answer": "No"
+        },
+        "43": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The strange length of a bird.",
+            "answer": "No"
+        },
+        "44": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The strange length of a button.",
+            "answer": "No"
+        },
+        "45": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The typical type of a pencil.",
+            "answer": "No"
+        },
+        "46": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The normal type of a banana.",
+            "answer": "No"
+        },
+        "47": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The peculiar surface of a water.",
+            "answer": "No"
+        },
+        "48": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The peculiar color of a hammer.",
+            "answer": "No"
+        },
+        "49": {
+            "question": "Yes or no, is this sentence a case of a containment relation? Sentence: The typical weight of a boat.",
+            "answer": "No"
+        }
+    }
+}
