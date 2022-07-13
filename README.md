@@ -22,7 +22,7 @@ In order to train and test EPL, use `train_test_epl.py`. Execute
 
 ```python train_test_epl.py```
 
-In order to test a language model, you will need an API key (from BigScience for T0pp and from OpenAI for GPT-3). Use
+In order to test a language model, you will need an API key (from HuggingFace for T0pp and from OpenAI for GPT-3). Use
 
 ```python test_language_models.py```
 
