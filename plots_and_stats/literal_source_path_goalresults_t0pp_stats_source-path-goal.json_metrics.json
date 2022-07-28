@@ -1,1 +1,1 @@
-{"literal": {"precision": 1.0, "recall": 0.76, "f1": 0.8636363636363636}, "non-literal": {"precision": 1.0, "recall": 0.06, "f1": 0.11320754716981132}, "overall": {"precision": 1.0, "recall": 0.41, "f1": 0.5815602836879432}}
+{"literal": {"accuracy": 0.76, "precision": 1.0, "recall": 0.76, "f1": 0.8636363636363636}, "non-literal": {"accuracy": 0.06, "precision": 1.0, "recall": 0.06, "f1": 0.11320754716981132}, "overall": {"accuracy": 0.41, "precision": 1.0, "recall": 0.41, "f1": 0.5815602836879432}}

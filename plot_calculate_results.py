@@ -23,17 +23,20 @@ def bar_from_dict(ax: plt.Axes, data: [dict], title, legends = []):
 def calculate_precision_recall_f1(data: dict, size=50):
     result = {}
     result['literal'] = {
+        'accuracy' : data['literal'] / size,
         'precision': data['literal'] / (data['literal'] + (size - data['distraction'])),
         'recall': data['literal'] / (data['literal'] + (size - data['literal'])),
         'f1': 2 * data['literal'] / (2 * data['literal'] + (size - data['literal']) + (size - data['distraction']))
     }
     result['non-literal'] = {
+        'accuracy' : data['non-literal'] / size,
         'precision': data['non-literal'] / (data['non-literal'] + (size - data['distraction'])),
         'recall': data['non-literal'] / (data['non-literal'] + (size - data['non-literal'])),
         'f1': 2 * data['non-literal'] / (
                     2 * data['non-literal'] + (size - data['non-literal']) + (size - data['distraction']))
     }
     result['overall'] = {
+        'accuracy': (data['literal'] + data['non-literal']) / (size * 2),
         'precision': (data['literal'] + data['non-literal']) /
                      (data['literal'] + data['non-literal'] + (size - data['distraction'])),
         'recall': (data['literal'] + data['non-literal']) /
