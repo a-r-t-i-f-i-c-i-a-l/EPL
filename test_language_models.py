@@ -49,11 +49,11 @@ def schema_type_question(objects, schema_name, yes_or_no=False, alt_phrasing=Fal
     if yes_or_no:
         return "Yes or no, is this sentence a case of {schema_name}? Sentence: ".format(
             schema_name=phrasing) + \
-               NAME_TO_STATEMENT[schema_name](*objects)
+               NAME_TO_STATEMENT[generator if generator else schema_name](*objects)
     else:
         return "Is this sentence a case of a {schema_name}? Sentence: ".format(
             schema_name=phrasing) + \
-               NAME_TO_STATEMENT[schema_name](*objects)
+               NAME_TO_STATEMENT[generator if generator else schema_name](*objects)
 
 
 def containment_statement(contained, container):
@@ -80,12 +80,14 @@ NAME_TO_STATEMENT = {
 
 NAME_TO_DESCRIPTION = {
     "source-path-goal": "a source, path and goal relation",
-    "containment": "a containment relation"
+    "containment": "a containment relation",
+    "quality": "a quality relation"
 }
 
 NAME_TO_DESCRIPTION2 = {
     "source-path-goal": "something having a source and a goal",
-    "containment": "something being in something else"
+    "containment": "something being in something else",
+    "quality": "something describing something else"
 }
 
 QUALITIES = ['color', 'type', 'shape', 'profile', 'length', 'example', 'part', 'weight', 'surface']

@@ -160,7 +160,7 @@ CONTAINMENT_NON_LITERAL = [
     ([Proposition('in', (Variable('stopped dead', 'o'), Variable('his tracks', 'o')))], None, []),
     ([Proposition('in', (Variable('in', 'o'), Variable('he', 'o')))], None, []),
     ([Proposition('in', (Variable('shirt', 'o'), Variable('vogue', 'o')))], None, []),
-    ([Proposition('in', (Variable('it depends', 'o'), Variable('some measures on time', 'o')))], None, []),
+    ([Proposition('in', (Variable('it depends', 'o'), Variable('some measure on time', 'o')))], None, []),
     ([Proposition('in', (Variable('two', 'o'), Variable('one', 'o')))], None, []),
     ([Proposition('in', (Variable('pig', 'o'), Variable('mud', 'o')))], None, []),
     ([Proposition('in', (Variable('what', 'o'), Variable('tarnation', 'o')))], None, []),
